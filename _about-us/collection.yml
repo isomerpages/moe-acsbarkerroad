@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - ACS Heritage.md
       - Methodist Heritage.md
       - ACS Houses.md
       - Board of Governors.md
