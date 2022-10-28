@@ -2,8 +2,8 @@ title: Anglo-Chinese School (Barker Road)
 url: https://acsbarker.sg
 favicon: /images/acslogo.png
 colors:
-  primary-color: "#00205c"
-  secondary-color: "#d1b68c"
+  primary-color: "#d1b68c"
+  secondary-color: "#00205c"
   media-colors:
     - title: media-color-one
       color: "#49759a"
