@@ -2,6 +2,7 @@ collections:
   acs-br-education:
     output: true
     order:
+      - "LLP: Sports and Outdoor Education.md"
       - Academic/.keep
       - Character and Citizenship Edu/.keep
       - Co Curricular Activities/.keep
