@@ -2,5 +2,6 @@ collections:
   acs-br-education:
     output: true
     order:
+      - Signature Programmes/.keep
       - Spiritual and Moral.md
       - Student Leadership.md
