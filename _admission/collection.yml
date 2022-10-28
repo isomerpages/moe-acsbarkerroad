@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - Appeals for Sec One.md
       - Appeals for All Levels except Sec One.md
       - Direct School Admission (DSA).md
