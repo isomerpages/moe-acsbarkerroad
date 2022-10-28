@@ -34,7 +34,7 @@ sections:
       subtitle: ACS Barker Road
       description: Happening on 18 November, 2022 3pm-5pm at Mrs Lee Choon Guan Concert Hall
       button: Register here
-      url: register
+      url: https://for.edu.sg/acsbr-2022openhouse
       image: /images/ACSBR Open House 2022.jpeg
       alt: Image alt text
 ---
