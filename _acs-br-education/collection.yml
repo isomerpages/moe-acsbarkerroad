@@ -1,0 +1,4 @@
+collections:
+  acs-br-education:
+    output: true
+    order: []
