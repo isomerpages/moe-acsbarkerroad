@@ -25,10 +25,9 @@ links:
         url: /about-us/personal-data-protection-policy/
   - title: ACS(BR) Education
     url: /education/alp/
-    sublinks: []
-  - title: "ALP: Drama, Debates & Public.."
-    url: /education/alp/
     sublinks:
+      - title: "ALP: Drama, Debates & Public.."
+        url: /education/alp/
       - title: "LLP: Sports & Outdoor Edu"
         url: /education/llp/
       - title: Academic
@@ -43,8 +42,16 @@ links:
         url: /education/spiritual-and-moral/
       - title: Student Leadership
         url: /education/student-leadership/
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: News and Events
+    url: /news-and-events/
+    sublinks:
+      - title: 2022 Booklist
+        url: /parents/booklist/
+      - title: Post-Exam Time-Table
+        url: /news-and-events/post-exam-timetable/
+      - title: The ACS Story
+        url: /news-and-events/the-acs-story/
+      - title: A Tribute to Mr Lim Teow Lin
+        url: /news-and-events/a-tribute-to-mr-lim-teow-lin/
   - title: Contact Us
     url: /contact-us/
