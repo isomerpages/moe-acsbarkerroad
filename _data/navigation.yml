@@ -23,12 +23,26 @@ links:
         url: /about-us/our-people/
       - title: Personal Data Protect'n Policy
         url: /about-us/personal-data-protection-policy/
-  - title: Menu Title
-    url: /permalink
+  - title: ACS(BR) Education
+    url: /education/alp/
     sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: "ALP: Drama, Debates & Public.."
+    url: /education/alp/
+    sublinks:
+      - title: "LLP: Sports & Outdoor Edu"
+        url: /education/llp/
+      - title: Academic
+        url: /education/academic/
+      - title: Character & Citizenship Edu
+        url: /education/cce/
+      - title: Co-Curricular Activities
+        url: /education/cca/
+      - title: Signature Programmes
+        url: /education/signature-programmes/
+      - title: Spiritual and Moral
+        url: /education/spiritual-and-moral/
+      - title: Student Leadership
+        url: /education/student-leadership/
   - title: Menu Title
     url: /permalink
     sublinks: []
