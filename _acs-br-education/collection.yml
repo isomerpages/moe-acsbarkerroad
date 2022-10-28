@@ -2,6 +2,7 @@ collections:
   acs-br-education:
     output: true
     order:
+      - "ALP: Drama, Debates and Public Speaking.md"
       - "LLP: Sports and Outdoor Education.md"
       - Academic/.keep
       - Character and Citizenship Edu/.keep
