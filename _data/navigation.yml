@@ -53,5 +53,14 @@ links:
         url: /news-and-events/the-acs-story/
       - title: A Tribute to Mr Lim Teow Lin
         url: /news-and-events/a-tribute-to-mr-lim-teow-lin/
+  - title: Admissions
+    url: /admissions/appeals-for-sec-one/
+    sublinks:
+      - title: Appeals for Sec One
+        url: /admissions/appeals-for-sec-one/
+      - title: Appeals for All Levels Exce..
+        url: /admissions/appeals-for-all-levels-except-sec-one/
+      - title: Direct School Admission (DSA)
+        url: /admissions/dsa/
   - title: Contact Us
     url: /contact-us/
