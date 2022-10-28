@@ -6,7 +6,7 @@ description: ""
 ### **School Information**
 #### **School History**
 
-<img src="/images/sch%20history.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/sch%20history.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 Anglo-Chinese School (Barker Road) is one of the six units of the ACS Family of Schools. The Anglo-Chinese School was established in 1886 with the vision and passion of one man, Bishop William Fitzjames Oldham. At the time, little was offered by way of education in the city-port and he wanted to provide an education for the many boys he saw wandering aimlessly in the streets. On 1st March 1886, he founded Anglo-Chinese School in a shophouse in Amoy Street with 13 students.
 
