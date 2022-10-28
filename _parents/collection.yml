@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Bursaries, Scholarships and Awards.md
       - Booklist.md
       - School Uniform.md
       - Student Protection Plan.md
