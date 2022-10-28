@@ -13,3 +13,17 @@ Someone once asked me what I would want Singapore to be like for my grandchildre
 So what does it mean for our gentlemen to be ‘God-fearing and growing in Grace’? I believe it is best described by three ‘Senses’ and four ‘Honours’.
 
 <img src="/images/principal1.png" style="width:75%">
+
+Our gentlemen need to have a strong **sense of worth** that comes from an honest assessment of who they are – fearfully and wonderfully made. They are unique individuals endowed with gifts, talents and limits. Talents and gifts open a multitude of opportunities but limits are equally important because they shape each child’s unique contribution to the world, his light in a specific corner of his world. A strong sense of worth is the belief that each person is precious in and of himself and not as an extension of his abilities or accomplishments. I believe ACS (BR) provides the unique environment for our gentlemen to learn this as they interact with peers from different streams and different needs.
+
+The strong sense of worth must be accompanied by a strong **sense of purpose**. This speaks of the desire to use all they have to contribute positively to their community, beginning with their peers in school and their families, to the nation and the world. They are called to be the ‘beacon of truth and light’ wherever they are placed. It is a reminder that their sense of worth cannot result in pride and a self-serving nature.
+
+To direct their sense of purpose, our gentlemen will need a **sense of honour**. Having a sense of honour is about living by the virtues. It is about respect for yourself, your words, other people and the principles you live by. It is about being a person of character in the deepest sense, someone who will do what is right regardless of what other people are doing.
+
+To make honour explicit, the school will be focusing on four aspects:
+*   Honour our self and our words – Ascribe value and respect the gifts and talents they have and follow through on their words (integrity)
+*   Honour each other – Respect the gifts and talents in others and see differences not as less but as an opportunity to embrace and celebrate (respect)
+*   Honour effort – Acknowledge that nothing worth doing is easy and respect hard work in themselves and others (commitment)
+*   Honour excellence – Embrace excellence as the journey of being our best for the world
+
+This is the education that ACS(BR) seeks to provide for our gentlemen and it will require not just new programmes but a hard look at our current ways of doing and being and making the necessary changes. It is also an acknowledgement that the task requires an entire village. It requires the work of those within the school, at home and in the community of supporters. With the support of our stakeholders and the hard work of staff within the school, truly the Best is Yet to Be!
