@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Booklist.md
       - School Uniform.md
       - Student Protection Plan.md
