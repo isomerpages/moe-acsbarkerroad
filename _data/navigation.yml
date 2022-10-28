@@ -1,2 +1,34 @@
 logo: /images/acslogo.png
-links: []
+links:
+  - title: About Us
+    url: /about-us/school-information/
+    sublinks:
+      - title: School Information
+        url: /about-us/school-information/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Vision, Mission & Values
+        url: /about-us/vision-mission-values/
+      - title: ACS Heritage
+        url: /about-us/acs-heritage/
+      - title: Methodist Heritage
+        url: /about-us/methodist-heritage/
+      - title: ACS Houses
+        url: /about-us/acs-houses/
+      - title: Board of Governors
+        url: /about-us/board-of-governors/
+      - title: Our Principals
+        url: /about-us/our-principals/
+      - title: Our People
+        url: /about-us/our-people/
+      - title: Personal Data Protect'n Policy
+        url: /about-us/personal-data-protection-policy/
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
