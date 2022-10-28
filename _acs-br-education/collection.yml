@@ -2,4 +2,5 @@ collections:
   acs-br-education:
     output: true
     order:
+      - Spiritual and Moral.md
       - Student Leadership.md
