@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - ACS Echo.md
       - Alumni.md
       - Partners.md
