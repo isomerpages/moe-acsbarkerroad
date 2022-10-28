@@ -12,21 +12,21 @@ sections:
       subtitle: Barker Road
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Partners
+          description: ""
+          url: /partners/
+        - title: Parents
+          description: ""
+          url: /parents/
+        - title: Students
+          description: ""
+          url: /students/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Latest News & Highlights
+      subtitle: ACS (barker road)
+      description: Find out what's going on
+      button: click here
+      url: /highlights/
   - infopic:
       title: Open House 2022
       subtitle: ACS Barker Road
