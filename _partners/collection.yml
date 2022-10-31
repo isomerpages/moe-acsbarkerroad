@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Partners.md
       - ACS Family of Schools.md
       - ACS Echo.md
       - Alumni.md
-      - Partners.md
