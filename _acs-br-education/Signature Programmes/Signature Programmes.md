@@ -28,5 +28,5 @@ Anglo-Chinese School (Barker Road) offers three signature cohort programmes for 
 
 |  |
 |:---:|
-**[Secondary Three MOE-OBS Challenge and Values-in-Action Programme](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/signature-programmes/sec-3-obs/)** |
+| **[Secondary Three MOE-OBS Challenge and Values-in-Action Programme](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/signature-programmes/sec-3-obs/)** |
 |
