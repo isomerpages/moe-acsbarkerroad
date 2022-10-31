@@ -15,7 +15,7 @@ You can refer to the following links for more information.<br>
 
 CCA is compulsory for all secondary school students. Students can choose from any of these 4 categories:
 
-<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/ccaclubs-and-societies/">
+<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/clubs-and-societies/">
 <img src="/images/cca1.jpg" style="width:25%" align=left>
 </a></p>
 
