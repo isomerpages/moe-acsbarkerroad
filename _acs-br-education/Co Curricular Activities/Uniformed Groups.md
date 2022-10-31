@@ -6,22 +6,22 @@ third_nav_title: Co Curricular Activities
 ---
 ### **Uniformed Groups**
 
-<p><a href="">
-<img src="/images/ug.jpg" style="width:33%" align=left>
+<p><a href="https://sites.google.com/acsbr.org/boysbrigade/home">
+<img src="/images/ug1.jpg" style="width:33%" align=left>
 </a></p>
 
-<p><a href="">
-<img src="/images/ug.jpg" style="width:33%" align=left>
+<p><a href="https://sites.google.com/acsbr.org/national-cadet-corps/home">
+<img src="/images/ug2.jpg" style="width:33%" align=left>
 </a></p>
 
-<p><a href="">
-<img src="/images/ug.jpg" style="width:33%" align=left>
+<p><a href="https://sites.google.com/acsbr.org/acsbrnpcc/home">
+<img src="/images/ug3.jpg" style="width:33%" align=left>
 </a></p>
 
 <br clear="left">	
 
-<p><a href="">
-<img src="/images/ug.jpg" style="width:33%" align=left>
+<p><a href="https://sites.google.com/acsbr.org/scoutsandventure">
+<img src="/images/ug4.jpg" style="width:33%" align=left>
 </a></p>
 
 <br clear="left">
