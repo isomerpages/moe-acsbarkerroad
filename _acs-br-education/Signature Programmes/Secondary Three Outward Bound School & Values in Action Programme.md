@@ -16,10 +16,13 @@ The Secondary 3 Values-in-Action (VIA) programme aims to develop our gentlemen i
 
 In the process of preparing and executing the plan, our gentlemen grew in their Sense of Purpose, having clarity of mind of what they would like the seniors to learn and the bigger purpose of learning to use their talents to serve the community. They also grew in learning to honour effort, commitment and excellence despite the many changes they had to make along the way.
 
-<img src="/images/sec3obs1.jpg" style="width:49%" align=left>
-<img src="/images/sec3obs2.jpg" style="width:49%" align=right>
+<img src="/images/sec3obs1.jpg" style="width:35%;margin-left:85px;" align = "left">
+<img src="/images/sec3obs2.jpg" style="width:35%;margin-right:85px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/sec3obs3.jpg" style="width:49%" align=left>
-<img src="/images/sec3obs4.jpg" style="width:49%" align=right>
+<img src="/images/sec3obs3.jpg" style="width:35%;margin-left:85px;" align = "left">
+<img src="/images/sec3obs4.jpg" style="width:35%;margin-right:85px;" align = "right">
+<br clear="left">
+
+<img src="/images/sec3obs5.jpg" style="width:75%">
