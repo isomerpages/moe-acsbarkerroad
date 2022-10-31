@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents.md
       - Financial Support.md
       - Bursaries, Scholarships and Awards.md
       - Booklist.md
