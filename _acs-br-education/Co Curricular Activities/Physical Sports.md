@@ -97,7 +97,13 @@ Tue & Thu: 3.45 - 5.45 pm
 Fri: 3.00 - 5.00 pm
 
 ##### **Football**
+Mr Mohammad Faisal
+Mr Azlan Bin Mohd Yuni
+Mr Calista Chan
+Mr Tan Yong Kai
 
+Tue & Thu: 4.00 - 6.00 pm
+Fri: 3.00 - 5.00 pm
 
 ##### **Hockey**
 
