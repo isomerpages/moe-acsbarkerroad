@@ -23,4 +23,4 @@ Information about Academic Coaching, Weighted Assessment, Examination and Time-t
 
 Forms for academic-related matters, e.g. subject dropping, lateral transfer, subject combination and appeal can be found on this [page](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/forms/).
 
-<img src="/images/academic.png" style="width:75%">
+<img src="/images/academic.jpg" style="width:75%">
