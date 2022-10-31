@@ -12,7 +12,7 @@ Someone once asked me what I would want Singapore to be like for my grandchildre
 
 So what does it mean for our gentlemen to be ‘God-fearing and growing in Grace’? I believe it is best described by three ‘Senses’ and four ‘Honours’.
 
-<img src="/images/principal1.png" style="width:75%">
+<img src="/images/principal1.png" style="width:85%">
 
 Our gentlemen need to have a strong **sense of worth** that comes from an honest assessment of who they are – fearfully and wonderfully made. They are unique individuals endowed with gifts, talents and limits. Talents and gifts open a multitude of opportunities but limits are equally important because they shape each child’s unique contribution to the world, his light in a specific corner of his world. A strong sense of worth is the belief that each person is precious in and of himself and not as an extension of his abilities or accomplishments. I believe ACS (BR) provides the unique environment for our gentlemen to learn this as they interact with peers from different streams and different needs.
 
