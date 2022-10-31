@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Departments/Student Development.md
       - Departments/.keep
       - Recognition.md
