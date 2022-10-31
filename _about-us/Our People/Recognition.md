@@ -7,9 +7,9 @@ third_nav_title: Our People
 ### **Recognition**
 
 |  |  |
-|:---:|:---:|
+|---:|:---|
 | **National Day NS Men Award** | **Outstanding Youth <br>in Education Award**|
-| <img src="/images/recognition1.jpg" style="width:100%"> | <img src="/images/recognition2.jpg" style="width:30%"> |
+| <img src="/images/recognition1.jpg" style="width:100%" align=right> | <img src="/images/recognition2.jpg" style="width:30%" align=left> |
 | Mr Mark Goh | Ms Rachel Louis (Finalist) |
 |
 
