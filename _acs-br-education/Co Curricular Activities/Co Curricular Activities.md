@@ -9,9 +9,8 @@ Co-Curricular Activities (CCA) are a key component of the holistic development o
 
 CCAs bring students from diverse backgrounds together. By learning and interacting with one another, students develop friendships and deepen their sense of belonging to the school and community. In ACS (Barker Road), diversity is increased through external CCA partnerships with other schools.
 
-You can refer to the following links for more information.
-1\.  [**General Information**](https://sites.google.com/acsbr.org/cca/home)<br>
-2\.  [**CCA Policy (LEAPS 2.0)**](https://sites.google.com/acsbr.org/cca/cca-policies/leaps-2-0)
+You can refer to the following links for more information.<br>
+1\.  **[General Information](https://sites.google.com/acsbr.org/cca/home)**<br>
+2\.  **[CCA Policy (LEAPS 2.0)](https://sites.google.com/acsbr.org/cca/cca-policies/leaps-2-0)**
 
 CCA is compulsory for all secondary school students. Students can choose from any of these 4 categories:
-
