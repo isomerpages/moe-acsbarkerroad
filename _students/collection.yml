@@ -2,4 +2,4 @@ collections:
   students:
     output: true
     order:
-      - Students.md
+      - School Rules.md
