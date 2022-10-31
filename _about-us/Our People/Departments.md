@@ -92,7 +92,7 @@ third_nav_title: Our People
 #### **Mathematics**
 
 | DESIGNATION | NAME |
-|:---:|:---:|
+|---|---|
 | Head of Department, Mathematics | Ms Jacque Loo |
 | Lead Teacher, CCE  | Mdm Mohana Ratnam |
 | Subject Head, Mathematics | Ms Joanne Tng |
@@ -117,7 +117,7 @@ third_nav_title: Our People
 #### **Mother Tongue**
 
 | DESIGNATION | NAME |
-|:---:|:---:|
+|---|---|
 | Head of Department (Acting), Mother Tongue | Ms Loh Pei Guat |
 | Subject Head (Acting), Mother Tongue  | Ms Nur Diyanah |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
@@ -138,7 +138,7 @@ third_nav_title: Our People
 #### **Physical Education & Aesthetics**
 
 | DESIGNATION | NAME |
-|:---:|:---:|
+|---|---|
 | Head of Department, Physical Education & CCA | Mr Syed Faizal |
 | Subject Head, Physical Education | Mr Alvin Lim |
 | Subject Head, Behaviourial Coaching | Mr Thio Yu Chong |
@@ -158,7 +158,7 @@ third_nav_title: Our People
 #### **Science**
 
 | DESIGNATION | NAME |
-|:---:|:---:|
+|---|---|
 | Head of Department, Science | Mr Kishan Kumar |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behaviour Support | Mdm Alice Wang |
