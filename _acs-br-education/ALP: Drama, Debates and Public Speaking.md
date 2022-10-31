@@ -27,12 +27,12 @@ In addition to speech and oral communication lessons with curriculum time, our A
 
 *   Secondary 3: Debates and Drama Workshops, Theatre Exposure
 
-<img src="/images/alp1.png" style="width:65%">
+<img src="/images/alp1.png" style="width:75%">
 
 #### **Tier 2**
 *   **Talent Development Programme**<br>Students sign up for a variety of competitions and activities, such as Plain English Speaking Awards, ACJC Orator’s Trophy, Model United Nations, emcee-ing school events. Specific training is provided for these to help students hone their skills.
 *   **National Schools Literature Festival**<br> Each year, several student teams are sent to NSLF to develop students’ passion for literature, showcase their skills and talents and integrate classroom teaching with authentic hands-on application.
 
-<img src="/images/alp2.jpg" style="width:65%">
+<img src="/images/alp2.jpg" style="width:75%">
 
-<img src="/images/alp3.jpg" style="width:65%">
+<img src="/images/alp3.jpg" style="width:75%">
