@@ -42,4 +42,3 @@ Combined fireside chat with ACS (I) to commemorate National Day, which provided 
 <img src="/images/cce9.jpg" style="width:75%">
 
 NS Engagement Digital Assembly programme with our alumni to share their NS experiences with our graduating cohort.
-
