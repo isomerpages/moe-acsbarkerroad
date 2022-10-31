@@ -4,7 +4,7 @@ permalink: /parents/
 description: ""
 ---
 ### **Parents**
-1\.  **[Financial Support](https://staging.dmt6iqif6dkoj.amplifyapp.com/parents/parents/financial-support/)**<br>
+1\.  **[Financial Support](https://staging.dmt6iqif6dkoj.amplifyapp.com/parents/financial-support/)**<br>
 2\. **[Bursaries, Scholarships and Awards](https://staging.dmt6iqif6dkoj.amplifyapp.com/parents/bursaries-scholarships-and-awards/)**<br>
 3\.  **[Booklist](https://staging.dmt6iqif6dkoj.amplifyapp.com/parents/booklist/)**<br>
 4\.  **[School Uniform](https://staging.dmt6iqif6dkoj.amplifyapp.com/parents/school-uniform/)**<br>
