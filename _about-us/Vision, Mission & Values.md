@@ -28,4 +28,4 @@ Honour Our Self and Our Words, <br>Honour Others,<br>Honour Effort,<br>Honour Ex
 <br clear="left">
 
 #### **Beliefs**
-<img src="/images/core5.jpg" style="width:45%;margin-left:15px;" align = "right">We uphold that God is our Strength and Provider And there is strength in diversity, bringing out the best in everyone Serving God, nation and community
+<img src="/images/core5.jpg" style="width:50%;margin-left:15px;" align = "right">We uphold that God is our Strength and Provider And there is strength in diversity, bringing out the best in everyone Serving God, nation and community
