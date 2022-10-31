@@ -5,7 +5,7 @@ description: ""
 ---
 ### **ACS Heritage**
 
-<img src="/images/crest1.jpg" style="width:35%">
+<img src="/images/crest1.jpg" style="width:25%">
 
 <img src="/images/crest2.png" style="width:30%;margin-left:15px;" align = "right">
 
@@ -18,4 +18,4 @@ The upper part of the crest shows a creature with a lion head, eagle wings and a
 <img src="/images/crest4.jpg" style="width:25%" align=left><br clear="left">
 The lower part of the ACS Crest comprises a panel of blue and another of gold, representing the heavens and the earth, superimposed on which are the letters ACS in red, signifying life bridging earth and heaven.
 
-<img src="/images/crest3.jpg" style="width:35%">
+<img src="/images/crest3.jpg" style="width:25%">
