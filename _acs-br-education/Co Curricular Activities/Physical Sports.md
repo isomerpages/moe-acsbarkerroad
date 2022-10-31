@@ -64,16 +64,37 @@ third_nav_title: Co Curricular Activities
 
 #### **Teachers-in-Charge & CCA Timings**
 ##### **Badminton**
+Mr Clement Ho Cheun Yin
+Ms Fong Chee Sing
+Mr Darius Oh Hup Aik
 
+Tue & ThuL 3.45 - 6.00 pm
+Fri: 3.00 - 6.00 pm
 
 ##### **Basketball**
+Mr Melvin Sum Kah Wai
+Ms Eunice Thong Hui Fang
+Mr Qiu Nan
+Ms Sheryl Lim
 
+Tue & Thu: 3.45 - 6.00 pm
+Fri: 2.45 - 5.45 pm
 
 ##### **Bowling**
+Ms Sherri Tan Sze Yun
+Mr Alan Lim Hock Chye
+Mdm Kalavani Subramaniam
 
+Mon & Thu: 4.00 - 6.00 pm
+(One-Way transport from school leaves at 3.40pm)
 
 ##### **Floorball**
+Ms Lee Qian Ying
+Ms Heike Boon
+Mr Azhar Ibrahim
 
+Tue & Thu: 3.45 - 5.45 pm
+Fri: 3.00 - 5.00 pm
 
 ##### **Football**
 
