@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Co Curricular Activities.md
       - Clubs & Societies/.keep
       - Performing Arts/.keep
       - Physical Sports/.keep
