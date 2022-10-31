@@ -22,7 +22,7 @@ Anglo-Chinese School (Barker Road) offers three signature cohort programmes for 
 | **[Secondary One Discovery Camp](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/signature-programmes/sec-1/)** | **[Secondary Two Learning Festival](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/signature-programmes/sec-2/)** |
 |
 
-<p><a href="https://scmobile.moe.edu.sg/login">
+<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/signature-programmes/sec-3-obs/">
 <img src="/images/signatureprogramme3.png" style="width:40%">
 </a></p>
 
