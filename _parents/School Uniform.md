@@ -13,4 +13,4 @@ Singapore 238882_**
 
 For made to measure, please call 6271 9248 (Main line) for operating hours and made to measure appointment before visiting **_213 Henderson Road, #01-12, Singapore 159553_**.
 
-More information can be found on the **[**Bibi & Baba website**](http://bibibaba.com/)**.
+More information can be found on the **[Bibi & Baba website](http://bibibaba.com/)**.
