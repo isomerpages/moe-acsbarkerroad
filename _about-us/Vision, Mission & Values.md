@@ -17,8 +17,7 @@ description: ""
 
 #### **Strategic Destination**
 <img src="/images/core3.jpg" style="width:50%;margin-left:15px;" align = "right">
-An ACS(BR) education that imbues<br>**3 Senses**<br>Sense of Worth,<br>Sense of Purpose,<br>Sense of<br><br>**Honour4**<br> Honours
-Honour Our Self and Our Words, <br>Honour Others,<br>Honour Effort,<br>Honour Excellence
+An ACS(BR) education that imbues<br>**3 Senses**<br>Sense of Worth,<br>Sense of Purpose,<br>Sense of<br><br>**4 Honours**<br> Honour Our Self and Our Words, <br>Honour Others,<br>Honour Effort,<br>Honour Excellence
 
 <br clear="left">
 
