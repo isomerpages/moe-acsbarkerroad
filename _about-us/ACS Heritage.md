@@ -6,8 +6,8 @@ description: ""
 ### **ACS Heritage**
 #### **School Crest**
 
-**Shield Shape**<br>
 <img src="/images/crest2.png" style="width:30%;margin-left:15px;" align = "right">
+**Shield Shape**<br>
 The ACS Crest is shaped as a shield to uphold knightly values such as chivalry, honour, valour, loyalty and manliness. The letters ‘ACS’, besides being the initials of the school’s name, also spell Academic Achievements, Strength of Character and Christian Service. The crest was designed in 1930 by the late Dr. Yap Pheng Geck who was then a member of the staff.
 
 **Composite Creature**<br>
