@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "Anglo Chinese School "
-      subtitle: Barker Road
       background: /images/hero-bg.gif
       key_highlights:
         - title: Partners
