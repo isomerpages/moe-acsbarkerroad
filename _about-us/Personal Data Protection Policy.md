@@ -89,7 +89,7 @@ This Data Protection Policy is intended to assist you in understanding how we co
 
 7.2    Kindly contact us through one of the following methods with your complaint, grievance or feedback:
 
-- 7.2.1    Singapore Telephone Number: 62561633
+- 7.2.1    Singapore Telephone Number: 6256 1633
 - 7.2.2    Email: [acsbr@moe.edu.sg](mailto:acsbr@moe.edu.sg) Attention it to the ‘Data Protection Officer’
 - 7.2.3    Office Address: Anglo-Chinese School (Barker Road), 60 Barker Road, Singapore 309919
 
