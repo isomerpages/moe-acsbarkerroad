@@ -6,7 +6,7 @@ description: ""
 ### **Vision, Mission & Values**
 #### **Vision & Mission**
 
-<img src="/images/core1.jpg" style="width:50%;margin-right:15px;" align = "left">**Vision**<br>Generations of educated men who are God-fearing and growing in Grace.<br><br>**Mission**<br>Touch Hearts, Empower Minds & Enrich Souls
+<img src="/images/core1.jpg" style="width:50%;margin-right:15px;" align = "left">**Vision**<br>Generations of educated men who are God-fearing and growing in Grace.<br><br>**Mission**<br>Touch Hearts, Empower Minds & Enrich Souls.
 
 <br clear="left">
 
@@ -27,4 +27,4 @@ An ACS(BR) education that imbues<br>**3 Senses**<br>Sense of Worth,<br>Sense of 
 <br clear="left">
 
 #### **Beliefs**
-<img src="/images/core5.jpg" style="width:50%;margin-left:15px;" align = "right">We uphold that God is our Strength and Provider And there is strength in diversity, bringing out the best in everyone Serving God, nation and community
+<img src="/images/core5.jpg" style="width:50%;margin-left:15px;" align = "right">We uphold that God is our Strength and Provider And there is strength in diversity, bringing out the best in everyone Serving God, nation and community.
