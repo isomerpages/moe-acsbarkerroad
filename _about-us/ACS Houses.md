@@ -6,7 +6,7 @@ description: ""
 ### **ACS Houses**
 
 <figure>
-<figcaption><strong>The ACS Houses were named after distinguished people who had contributed to ACS.All the ACS schools have the same House System
+<figcaption><strong>The ACS Houses were named after distinguished people who had contributed to ACS. All the ACS schools have the same House System
 </strong></figcaption>
 <img src="/images/acshouses1.jpg" style="width:100%">
 </figure>
