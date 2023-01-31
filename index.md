@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/hero-bg.gif
       key_highlights:
-        - title: Partners
-          description: ""
-          url: /partners/
-        - title: Parents
-          description: ""
-          url: /parents/
         - title: Students
           description: ""
           url: /students/
+        - title: Parents
+          description: ""
+          url: /parents/
+        - title: Partners
+          description: ""
+          url: /partners/
   - infobar:
       title: Latest News & Highlights
       subtitle: ACS (barker road)
