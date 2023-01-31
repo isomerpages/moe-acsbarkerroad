@@ -4,13 +4,12 @@ title: Anglo-Chinese School (Barker Road)
 description: Brief site description here
 image: /images/acslogo.png
 permalink: /
-notification: Anglo-Chinese School (Barker Road) Open House 2022 18 November
-  2022, Friday,3pm-5pm @ Mrs Lee Choon Guan Concert Hall
+notification: ""
 sections:
   - hero:
       title: "Anglo Chinese School "
       subtitle: Barker Road
-      background: /images/hero-banner.png
+      background: /images/hero-bg.gif
       key_highlights:
         - title: Partners
           description: ""
