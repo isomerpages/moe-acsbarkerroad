@@ -30,6 +30,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: to Bus stop (B40069) on Dunearn Road:<br>48, 66, 67, 170, 960, 960E, 972M
+      - other: to Bus Stop (B40069) on Dunearn Road:<br>48, 67, 170, 960, 960e, 972M
     title: Bus Services
 ---
