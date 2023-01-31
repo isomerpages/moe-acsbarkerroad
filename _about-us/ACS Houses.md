@@ -6,11 +6,10 @@ description: ""
 ### **ACS Houses**
 
 <figure>
-<figcaption><strong>  The ACS Houses were named after distinguished people who had contributed to ACS.All the ACS schools have the same House System
-	</strong></figcaption>
+<figcaption><strong>The ACS Houses were named after distinguished people who had contributed to ACS.All the ACS schools have the same House System
+</strong></figcaption>
+<img src="/images/acshouses1.jpg" style="width:100%">
 </figure>
-
-<img src="/images/acshouses1.jpg" style="width:85%">
 
 ##### **Cheong Koon Seng House (CKS)**
 
@@ -45,9 +44,3 @@ Mr Tan Kah Kee was a folk hero, not only in Singapore but also in the Asean regi
 ##### **Thoburn House (THO)**
 <img src="/images/acshouses9.png" style="width:20%;margin-right:15px;" align = "left">
 Thoburn House was named after Bishop Dr James Thoburn. He was responsible for initiating and accompanying the pioneer mission to Singapore. He (and Bishop Oldham) were responsible in the setting up of the Methodist Church as a Mission in Singapore in 1885. Bishop Dr Thoburn’s vision (and Bishop Oldham) made possible the birth of ACS. Had it not been for him, there might not have been an ACS. It was his personal initiative as an important leader in the Methodist Conference in India that resulted in the planting of the first Methodist Church in Singapore in 1885.
-
-
-
-
-
-
