@@ -7,27 +7,27 @@ third_nav_title: Our People
 ### **Departments**
 #### **Administration & Operations**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Principal | Mr Loo Ming Yaw |
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
-| Admin Manager | Ms Nur' Ezzati Bte Mohd Razak |
+| Admin Manager | Ms Nur' Ezzati |
 | Admin Manager  | Mr Glenn Tan |
 | Operations Manager | Mr Ng Kok Foo |
 | Assistant Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
-| Admin Executive | Ms Dimple Kaur |
-| Corporate Support Officer | Mdm Haliza Binte Ahmad |
-| Corporate Support Officer  | Mdm V.Prasanna |
-| Admin Support Officer  | Mdm Ruth Loke Yuet Hong |
-| Admin Support Officer   | Mdm Christina Teo Chuey Ching |
+| Admin Executive | Ms Wu Ziqian |
+| Corporate Support Officer | Mdm Haliza Ahmad |
+| Corporate Support Officer  | Ms V Prasanna |
+| Corporate Support Officer  | Ms Christina Teo |
+| Admin Support Officer  | Ms Ruth Loke |
 | Receptionist | Mdm Lim Soon Eng |
 | Librarian  | Mr Lim Hwee Teck |
 | Operations Support Officer | Mdm Shanthi Naidu |
-| Operations Support Officer | Mdm Muthuletchmi d/o Kristna |
+| Operations Support Officer | Mdm Muthuletchmi Kristna |
 | Operations Support Officer | Mr Tan Seng Hwa |
-| Operations Support Officer | Mdm Maheswary d/o Munusamy |
+| Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
 |
 
