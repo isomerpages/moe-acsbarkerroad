@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Our People
 ---
 ### **Departments**
+
 #### **Administration & Operations**
+
 | Designation | Name |
 |---|---|
 | Principal | Mr Loo Ming Yaw |
@@ -31,6 +33,7 @@ third_nav_title: Our People
 |
 
 #### **English & Literature**
+
 | Designation | Name |
 |---|---|
 | Head of Department, English & Literature | Mrs Genevieve Hoe |
@@ -50,6 +53,7 @@ third_nav_title: Our People
 |
 
 #### **Humanities**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Humanities | Ms Teo Celine |
@@ -73,6 +77,7 @@ third_nav_title: Our People
 |
 
 #### **Learning Technologies**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
@@ -84,6 +89,7 @@ third_nav_title: Our People
 |
 
 #### **Mathematics**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Mathematics | Ms Jacque Loo |
@@ -109,6 +115,7 @@ third_nav_title: Our People
 |
 
 #### **Mother Tongue**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Mother Tongue | Ms Loh Pei Guat |
@@ -130,6 +137,7 @@ third_nav_title: Our People
 |
 
 #### **Physical Education & Aesthetics**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
@@ -151,6 +159,7 @@ third_nav_title: Our People
 |
 
 #### **Science**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Science | Mr Kishan Kumar |
@@ -194,6 +203,7 @@ third_nav_title: Our People
 |
 
 #### **Student Development**
+
 | Designation | Name |
 |---|---|
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
