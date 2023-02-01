@@ -115,11 +115,11 @@ third_nav_title: Our People
 
 #### **Mother Tongue**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
-| Head of Department (Acting), Mother Tongue | Ms Loh Pei Guat |
-| Subject Head (Acting), Mother Tongue  | Ms Nur Diyanah |
+| Head of Department, Mother Tongue | Ms Loh Pei Guat |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
+| Subject Head, Mother Tongue  | Ms Nur Diyanah |
 | Senior Teacher (Educational Support) | Ms Tay Hwee Fern |
 |  | Mr Ma Jun |
 |  | Mr Qiu Nan |
@@ -129,9 +129,10 @@ third_nav_title: Our People
 |  | Mr Li Xue Guang |
 |  | Mdm Teo Puay Kee |
 |  | Ms Pauline Chen |
-|  | Mdm Yap Chui Har |
 |  | Ms Sundaravalli Ravindran |
-|   | Mdm Lim See Shin |
+|  | Mdm Heng Wee Lee |
+|  | Ms Tan Kim Choo |
+|  | Ms Lim See Shin |
 |
 
 #### **Physical Education & Aesthetics**
