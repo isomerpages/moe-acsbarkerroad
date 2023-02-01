@@ -58,9 +58,9 @@ third_nav_title: Our People
 | Head of Department, Humanities | Ms Teo Celine |
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Year Head, Upper Secondary | Mr David Wong |
+| Lead Teacher, Geography | Mr Oh Boon Teck |
 | Subject Head, Geography | Ms Wong Qi Shan |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-| Lead Teacher, Geography | Mr Oh Boon Teck |
 |  | Ms Eng Yuwen |
 |  | Ms Heike Boon |
 |  | Ms Charmaine Lim |
@@ -77,21 +77,22 @@ third_nav_title: Our People
 
 #### **Learning Technologies**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-| ICT Technical Assistant | Mr Tan Joon Kiat |
-| Desktop Engineer | Mr Muhammed Fareed Bin Shahrom |
+| Admin Executive (ICT) | Mr Tan Joon Kiat |
+| ICT Technical Assistant | Mr Muhamad Khairul |
+| Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Saw Heng Loong |
 |
 
 #### **Mathematics**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Head of Department, Mathematics | Ms Jacque Loo |
-| Lead Teacher, CCE  | Mdm Mohana Ratnam |
+| Lead Teacher, Character & Citizenship Education  | Mdm Mohana Ratnam |
 | Subject Head, Mathematics | Ms Joanne Tng |
 | Senior Teacher, POA | Ms Low Hei Chin |
 | Senior Teacher, Mathematics | Mr Melvin Sum |
