@@ -187,8 +187,8 @@ third_nav_title: Our People
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
 |  | Mr Damien Fong |
-|  | Mr Andrew Oh  |
-|  | Ms Pooja Sahu  |
+|  | Mr Andrew Oh |
+|  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
 |  | Mr Lou Yang Hui |
