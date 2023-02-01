@@ -33,49 +33,46 @@ third_nav_title: Our People
 
 #### **English & Literature**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Head of Department, English & Literature | Mrs Genevieve Hoe |
-| Subject Head, English | Mrs Raji Ravi |
 | Subject Head, Partnerships | Mr Mark Goh |
-| Subject Head, Student Well-being (Acting) | Ms Rachel Louis |
+| Subject Head, Student Well-being | Ms Rachel Louis |
+| Subject Head, Student Leadership | Mr Freddy Tan |
 | Senior Teacher, English | Ms Fong Chee Sing |
 |  | Mrs Catherine Wong |
-|  | Mdm Nasreen Abdul Majid |
+|  | Ms Nasreen Abdul Majid |
 |  | Mr Graham Whiteley |
 |  | Ms Kalaivani Subramaniam |
-|  | Mdm Vicky Putaran |
-|  | Mdm Jenny Goh |
-|  | Mr Tay Kia Kwang Anthony |
-|   | Mr Freddy Tan Zhong Rong |
-|   | Ms Calista Chan Kai Wai |
-|   | Ms Rebecca Lo Jia Hui |
-|   | Ms Eunice Loo |
-|   | Ms Heidi Boon |
+|  | Ms Jenny Goh |
+|  | Mr Anthony Tay |
+|  | Ms Siti Maslinda |
+|  | Ms Phua Shih Wen |
+|  | Ms Heidi Boon |
 |
 
 #### **Humanities**
 
 | DESIGNATION | NAME |
-|:---:|:---:|
-| Head of Department, Humanities | Ms Celine Teo |
-| Head of Department, Character & Citizenship Education | Mdm Alice Chia |
+|---|---|
+| Head of Department, Humanities | Ms Teo Celine |
+| Head of Department, Character & Citizenship Education | Ms Alice Chia |
+| Year Head, Upper Secondary | Mr David Wong |
 | Subject Head, Geography | Ms Wong Qi Shan |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-| Year Head, Upper Secondary | Mr David Wong |
 | Lead Teacher, Geography | Mr Oh Boon Teck |
-| Subject Head, National Education and Values-In-Action (Acting) | Mdm Eng Yuwen |
+|  | Ms Eng Yuwen |
 |  | Ms Heike Boon |
 |  | Ms Charmaine Lim |
-|  | Mr Alan Lim Hock Chye |
-|  | Mdm Chong Li Hoon |
-|  | Ms Magdalene Chan |
+|  | Mr Alan Lim |
+|  | Mdm Geraldine Chong |
+|  | Mdm Magdalene Chan |
 |  | Mr Alexis Ho |
-|  | Ms Lim Xin Yi |
 |  | Mr Jopescu Toh |
-|   | Ms Ponniey S Kumar |
-|   | Mr Ang Zhen Ye |
-|   | Ms Natalie Tan Qiao Xin |
+|  | Ms Ponniey S Kumar |
+|  | Mr Ang Zhen Ye |
+|  | Ms Lim Rui |
+|  | Mr Ingmar Salim |
 |
 
 #### **Learning Technologies**
