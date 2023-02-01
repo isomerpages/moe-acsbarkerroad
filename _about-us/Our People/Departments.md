@@ -205,23 +205,25 @@ third_nav_title: Our People
 
 | Designation | Name |
 |---|---|
-| Head of Department, Character & Citizenship Education | Mdm Alice Chia |
-| Head of Department, Learning and Behaviour Support | Mdm Alice Wang |
+| Head of Department, Character & Citizenship Education | Ms Alice Chia |
+| Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Student Management | Mr Dennis Lin |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
-| Assistant Year Head, Lower Secondary | Mdm Elke Puspitasari Handoyo |
 | Year Head, Upper Secondary | Mr David Wong |
-| Assistant Year Head, Upper Secondary | Mr Mohd Azhar Ibrahim |
-| Subject Head, Partnership | Mr Mark Goh |
-| Subject Head, Student Well-being (Acting) | Ms Rachel Louis |
-| Subject Head, National Education and Values-In-Action (Acting) | Mdm Eng Yuwen |
-| Subject Head, Behavioural Coaching | Mr Thio Yu Chong |
-| Full-Time School Counsellor | Mr Chong Meng Lieng |
-| Full-Time School Counsellor | Mr Kevin Lum Cheng Leong |
-| Allied Educator, Learning and Behaviourial Support | Ms Chu Pei Yun |
-| Allied Educator, Learning and Behaviourial Support | Mr Lionel Lin |
-| Allied Educator, Learning and Behaviourial Support | Ms Joan Anne Lim |
-| Allied Educator, Learning and Behaviourial Support | Mr Iskandar Bin Rosli |
+| Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
+| Assistant Year Head, Upper Secondary | Mr Mohamad Azhar |
+| Subject Head, Partnerships | Mr Mark Goh |
+| Subject Head, Student Well-being | Ms Rachel Louis |
+| Subject Head, Student Leadership | Mr Freddy Tan |
+| Subject Head, National Education and Values-In-Action | Ms Jasmine Zheng |
+| Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
+| School Counsellor | Mr Chong Meng Lieng |
+| School Counsellor | Mr Kevin Lum |
+| Special Educational Needs Officer | Ms Chu Pei Yun |
+| Special Educational Needs Officer | Mr Lionel Lin |
+| Special Educational Needs Officer | Ms Joan Anne Lim |
+| Special Educational Needs Officer | Mr Muhammad Iskandar |
+| Educational Psychologist | Mr Jeremy Chian |
 | Financial Assistance Support | Mdm Alice Wang |
 | MOE Education and Career Guidance Counsellor | Ms Ang Hui Min |
 |
