@@ -163,15 +163,17 @@ third_nav_title: Our People
 |---|---|
 | Head of Department, Science | Mr Kishan Kumar |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
-| Head of Department, Learning and Behaviour Support | Mdm Alice Wang |
+| Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Head of Department, Student Management | Mr Dennis Lin |
-| School Staff Developer  | Mr Mohammad Ibrahim Bin Md Samsudin  |
-| Subject Head, Science (Acting) | Ms Lee Qian Ying |
-| Subject Head, Craft & Technology | Ms Siti Suminah |
+| School Staff Developer | Mr Mohammad Ibrahim |
+| Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
+| Assistant Year Head, Upper Secondary | Mr Mohamad Azhar |
 | Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
+| Subject Head, Science | Ms Lee Qian Ying |
+| Subject Head, Craft & Technology | Mr Andrew J Teo |
+| Subject Head, National Education & Values-In-Action | Ms Jasmine Zheng |
 | Senior Teacher, Physics | Mr Leong Chuen Kit |
-| Assistant Year Head (Upper Sec)(Acting) | Mr Mohd Azhar Ibrahim |
 |  | Ms Lim Poh Fang |
 |  | Mr Darius Oh |
 |  | Ms Sherri Tan |
@@ -181,23 +183,21 @@ third_nav_title: Our People
 |  | Ms Sheryl Lim |
 |  | Mr Mak Kuan Pak |
 |  | Mr Siva Sankar |
-|  | Mr Jan Jethro Jonpaul |
+|  | Mr Jethro Jan |
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
-|  | Mr Azlan B Mohd Yuni |
 |  | Mr Damien Fong |
-|  | Mr Dalvin Ho |
-|   | Ms Pang Yuen Chin Christa  |
-|   | Ms Pooja Sahu  |
-|   | Ms Gracies Goh Shu Yi  |
-|   | Mr Tham Soh Jee  |
-|   | Mr Alex Lee |
-| Technical Support Officer  | Mr Abdul Rashid Bin Nordin |
-| Technical Support Officer | Ms Nur' Azeanti |
-| Technical Support Officer | Mr Wong Meng Yin |
+|  | Mr Andrew Oh  |
+|  | Ms Pooja Sahu  |
+|  | Ms Gracies Goh |
+|  | Mr Tham Soh Jee |
+|  | Mr Lou Yang Hui |
+| Teacher Assistant  | Mr Abdul Rashid |
+| Laboratory Technician | Ms Nur' Azeanti |
+| Laboratory Assistant | Mr Wong Meng Yin |
 | Workshop Instructor (D&T) | Mr Rosli Che Embi |
 | Workshop Instructor (D&T) | Mr Iskandar Yussof |
-| Workshop Instructor (D&T)  | Mr Muhammad Fauzi Abdullah |
+| Workshop Instructor (D&T/Mobile Robotics)  | Mr Muhammad Fauzi |
 |
 
 #### **Student Development**
