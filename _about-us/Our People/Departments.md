@@ -137,7 +137,7 @@ third_nav_title: Our People
 
 #### **Physical Education & Aesthetics**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
 | Subject Head, Physical Education | Mr Alvin Lim |
@@ -159,7 +159,7 @@ third_nav_title: Our People
 
 #### **Science**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Head of Department, Science | Mr Kishan Kumar |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
@@ -203,7 +203,7 @@ third_nav_title: Our People
 
 #### **Student Development**
 
-| DESIGNATION | NAME |
+| Designation | Name |
 |---|---|
 | Head of Department, Character & Citizenship Education | Mdm Alice Chia |
 | Head of Department, Learning and Behaviour Support | Mdm Alice Wang |
