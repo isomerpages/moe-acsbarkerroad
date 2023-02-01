@@ -94,22 +94,23 @@ third_nav_title: Our People
 | Head of Department, Mathematics | Ms Jacque Loo |
 | Lead Teacher, Character & Citizenship Education  | Mdm Mohana Ratnam |
 | Subject Head, Mathematics | Ms Joanne Tng |
-| Senior Teacher, POA | Ms Low Hei Chin |
+| Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
+| Senior Teacher, Principles of Accounts | Ms Low Hei Chin |
 | Senior Teacher, Mathematics | Mr Melvin Sum |
 |  | Mdm Sharon Choo |
 |  | Mdm Ng Hwee Fern |
-|  | Mr Foo Shiang Xin |
 |  | Mr Clement Ho |
 |  | Mdm Dorrianne Yeo |
 |  | Mr Nicholas Heng |
 |  | Mrs Jeanette Wee |
-|  | Mr Goh Thiam Hock |
+|  | Mr Jason Goh |
 |  | Ms Eunice Thong |
-|  | Mr M Thiruckumaran |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
-|   | Mdm Neo Chai Meng |
-|   | Mr Lim Chong Hao |
+|  | Mr Ng Eng Chin |
+|  | Ms Tan Hui Fang |
+|  | Ms Peggy Tan |
+|  | Mr Sean Lee |
 |
 
 #### **Mother Tongue**
