@@ -139,20 +139,22 @@ third_nav_title: Our People
 
 | DESIGNATION | NAME |
 |---|---|
-| Head of Department, Physical Education & CCA | Mr Syed Faizal |
+| Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
 | Subject Head, Physical Education | Mr Alvin Lim |
-| Subject Head, Behaviourial Coaching | Mr Thio Yu Chong |
-| Assistant Year Head, Lower Secondary | Mdm Elke Puspitasari Handoyo |
-|  | Mr Mohd Faisal |
-|  | Mr Lim Jit Peow Isaac |
+| Subject Head, CCA | Mr Timothy Teo |
+| Subject Head, Aesthetics | Ms Desiree Chua |
+|  | Mr Syed Faizal |
+|  | Mr Mohammad Faisal |
 |  | Mr Roslan Abdul Ghani |
-|   | Mr Timothy Teo |
-|   | Mr Tan Yong Kai  |
+|  | Mr Tan Yong Kai |
 |  | Ms Diana Kuek |
 |  | Ms Pearlyn Khoo |
-|   | Ms Yoe Gek Li |
+|  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
-|   | Mr Vince Ding |
+|  | Mr Lawrence Teng |
+|  | Mr Yusman Tajap |
+|  | Mr Jonathan Png |
+|  | Mr Jonathan Chan |
 |
 
 #### **Science**
