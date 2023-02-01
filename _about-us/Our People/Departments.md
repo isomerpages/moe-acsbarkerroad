@@ -189,6 +189,7 @@ third_nav_title: Our People
 |  | Mr Damien Fong |
 |  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
+|  | Ms Jazreel Loh |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
 |  | Mr Lou Yang Hui |
