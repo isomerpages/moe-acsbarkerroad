@@ -6,4 +6,4 @@ third_nav_title: Academic
 ---
 ### **Academic Coaching, Weighted Assessment, Examination & Time table**
 
-click [here](https://sites.google.com/moe.edu.sg/acsbr-academic-matters) for more information
+Please visit out ACS(BR) Academic Matters website [here](https://sites.google.com/moe.edu.sg/acsbr-academic-matters).
