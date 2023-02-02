@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### **Recognition**
 
-#### **MOE Staff Long Service Awards**
+#### **MOE Staff Long Service Awards 2022**
 ##### **35 Years**
 1. Mrs Aw Meng Yin
 2. Mrs Lam Yuan Hoon
@@ -25,3 +25,5 @@ third_nav_title: Our People
 3. Mr Graham Whiteley
 
 ##### **10 Years**
+
+
