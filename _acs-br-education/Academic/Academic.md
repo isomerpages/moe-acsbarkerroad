@@ -19,7 +19,7 @@ The school has the following departments/subjects:
 *   Humanities
 *   Physical Education & Aesthetics
 
-Information about Academic Coaching, Weighted Assessment, Examination and Time-table can be found on this [page](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/acsbr/).
+Information about Academic Coaching, Weighted Assessment, Examination and Time-table can be found on this [page](https://sites.google.com/moe.edu.sg/acsbr-academic-matters).
 
 Forms for academic-related matters, e.g. subject dropping, lateral transfer, subject combination and appeal can be found on this [page](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/forms/).
 
