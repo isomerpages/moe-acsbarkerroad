@@ -36,7 +36,6 @@ third_nav_title: Our People
 
 | Designation | Name |
 |---|---|
-| Head of Department, English & Literature | Mrs Genevieve Hoe |
 | Subject Head, Partnerships | Mr Mark Goh |
 | Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
