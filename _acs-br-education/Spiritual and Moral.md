@@ -10,9 +10,9 @@ The school aims to provide a holistic education for all, where values are inculc
 
 First, the weekly Chapel programme which is an integral part of the life of the school, where all staff and students will attend. Second, a brief “Thought for the Day” based on the Bible, followed by a short prayer which will be delivered everyday.
 
-<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/files/MethodistHeritage.pdf">
+<a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/files/MethodistHeritage.pdf">
 <img style="width:75%" src="/images/MethodistHeritage.jpg">
-</a></p>
+</a>
 
 <img src="/images/spiritual1.png" style="width:75%">
 
