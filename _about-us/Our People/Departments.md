@@ -124,7 +124,7 @@ third_nav_title: Our People
 | Senior Teacher (Educational Support) | Ms Tay Hwee Fern |
 |  | Mr Ma Jun |
 |  | Mr Qiu Nan |
-|  | Mdm Norhashikin |
+|  | Mdm Norhashikin Salim |
 |  | Mdm Noreen Mahmood |
 |  | Mdm P Rajesvari |
 |  | Mr Li Xue Guang |
