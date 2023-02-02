@@ -17,5 +17,3 @@ third_nav_title: Our People
 | 10 | Mr Damien Fong<br>Ms Nasreen Abdul Majid<br>Mr Han Wern Kuang<br>Mr Alvin Lim<br>Mr Chew Teng Leong<br>Mdm Christa Pang<br>Mr Thio Yu Chong<br>Mr Benjamin Chen<br>Mr Mark Goh<br>Mr Anthony Tay<br>Mr Nicholas Heng |
 | 5 | 	Ms Lee Qian Ying<br>Ms Chu Pei Yun |
 |
-
-
