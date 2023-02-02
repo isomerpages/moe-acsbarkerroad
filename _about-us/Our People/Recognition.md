@@ -28,7 +28,11 @@ third_nav_title: Our People
 |
 
 #### **National Day Awards 2022**
-
+| Award | Staff |
+| --- | --- |
+| Commendation Medal | Mr Mohammad Ibrahim<br>Mr David Wong |
+| Long Service Medal | Ms Low Hei Chin |
+|
 
 #### **Caring Teacher Awards 2022**
 Ms Alice Chia<br>
