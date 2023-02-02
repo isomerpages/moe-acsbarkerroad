@@ -7,23 +7,22 @@ third_nav_title: Our People
 ### **Recognition**
 
 #### **MOE Staff Long Service Awards 2022**
+
 ##### **35 Years**
-1. Mrs Aw Meng Yin
-2. Mrs Lam Yuan Hoon
-3. Mdm Yap Chui Har
+Mrs Aw Meng Yin<br>
+Mrs Lam Yuan Hoon<br>
+Mdm Yap Chui Har
 
 ##### **30 Years**
-1. Mr Oh Boon Teck
+Mr Oh Boon Teck
 
 ##### **20 Years**
-1. Ms Julia Lim
-2. Ms Nur’ Azeanti
+Ms Julia Lim<br>
+Ms Nur’ Azeanti
 
 ##### **15 Years**
-1. Mr Alan Lim
-2. Ms Kalaivani Subramaniam
-3. Mr Graham Whiteley
+Mr Alan Lim<br>
+Ms Kalaivani Subramaniam<br>
+Mr Graham Whiteley
 
 ##### **10 Years**
-
-
