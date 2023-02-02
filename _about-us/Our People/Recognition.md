@@ -22,4 +22,7 @@ third_nav_title: Our People
 | Years of Service | Staff |
 | --- | --- |
 | 20 | Ms Nur’ Azeanti<br>Mr Alexis Ho |
-| 15 | Mr Loo Ming Yaw<br>Mr Graham Whiteley<br>Mdm Li Yaya<br> |
+| 15 | Mr Loo Ming Yaw<br>Mr Graham Whiteley<br>Mdm Li Yaya<br>Mdm Norhashikin Salim<br>Ms Sherri Tan<br>Mdm Alice Wang<br>Mr David Wong |
+| 10 | Ms Joan Anne Lim |
+| 5 | Mr Jeffrey Tan<br>Ms Charmaine Lim<br>Ms Jacque Loo<br>Ms Lee Qian Ying<br>Ms Nur Diyanah<br>Mr Suhadar Yusoff<br>Mr Tee Chen Kam<br>Mr Wong Meng Yin |
+|
