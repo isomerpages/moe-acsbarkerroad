@@ -21,7 +21,7 @@ third_nav_title: Character & Citizenship Edu
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-#### **Overview of Anglo-Chinese School (Barker Road)'s Sexuality Education Programme For 2023**
+#### **Overview of Anglo-Chinese School (Barker Road)'s Sexuality Education Programme for 2023**
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5. The subjects that incorporate topics on sexuality include:
@@ -63,20 +63,16 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 #### **At Anglo-Chinese School (Barker Road), the *eTeens* programme will be implemented as follows in 2023:**
 
-| Topics/Lessons | Programme Learning Objectives | Time Period |
-|:---:|---|:---:|
-| Mass Talk by HPB appointed vendor  | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV | Term 3 Week 2 |
-| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 2 |
-|
+![](/images/SEd_eTeens.jpg)
 
-#### **INFORMATION FOR PARENTS**
+#### **Information for Parents**
 
-10\. Parents may opt their children out of the Sexuality Education or eTeens lessons. These students will have to attend an alternative Values lessons during the time slot. 
+10. Parents may opt their children out of the Sexuality Education or *eTeens* lessons. These students will have to attend an alternative Values lessons during the time slot.
 
-11\. Only trained teachers conduct Sexuality Education lessons. We do not engage external vendors to conduct Sexuality Education in our school. 
+11. Only trained teachers conduct Sexuality Education lessons. We do not engage external vendors to conduct Sexuality Education in our school.
 
-12\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form, shared via Parents Gateway. The completed form is to be submitted by **21/01/2022**. 
+12. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form, shared via Parents Gateway. The completed form is to be submitted by **09/02/2023**.
 
-13\. Parents who wish to opt their children out of the **_eTeens_ programme** (for sec 3 only) need to complete an opt-out form, shared via Parents Gateway. The completed form is to be submitted by **11/02/2022**.
+13. Parents who wish to opt their children out of the ***eTeens* programme** (for sec 3 only) need to complete an opt-out form, shared via Parents Gateway. The completed form is to be submitted by **09/02/2023**.
 
-14\. Parents can contact the school’s Sexuality Education Coordinator, Ms Sherri Tan, at [tan\_sze\_yun\_sherri@moe.edu.sg](mailto:tan_sze_yun_sherri@moe.edu.sg) , or 62561633 for discussion or to seek clarification about the school’s sexuality education programme.
+14. Parents can contact the school’s Sexuality Education Coordinator, Ms Sherri Tan, at [tan\_sze\_yun\_sherri@moe.edu.sg](mailto:tan_sze_yun_sherri@moe.edu.sg), or 6256 1633 for discussion or to seek clarification about the school’s sexuality education programme.
