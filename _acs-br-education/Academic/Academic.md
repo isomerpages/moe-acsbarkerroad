@@ -9,7 +9,7 @@ Anglo-Chinese School (Barker Road) offers three academic courses, namely Express
 
 There are opportunities for students to take various subjects at a more demanding level based on their subject-specific strengths and aptitudes. Eligible students can also transfer between courses if they meet the demands of the course.
 
-Anglo-Chinese School (Barker Road) is one of 30+ secondary schools which will implement [**Full Subject-Based Banding**](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/full-subject-based-banding/) (Full SBB) from 2022. The school has also been on [**1-to-1 Learning**](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/1-to-1-learning/) since 2012.
+Anglo-Chinese School (Barker Road) is one of 30+ secondary schools which will implement [**Full Subject-Based Banding**](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/full-subject-based-banding/) ([Full SBB](/education/academic/full-subject-based-banding/)) from 2022. The school has also been on [**1-to-1 Learning**](https://staging.dmt6iqif6dkoj.amplifyapp.com/education/academic/1-to-1-learning/) since 2012.
 
 The school has the following departments/subjects:
 *   English and Literature
