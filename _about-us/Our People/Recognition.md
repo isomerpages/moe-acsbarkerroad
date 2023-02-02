@@ -26,3 +26,17 @@ third_nav_title: Our People
 | 10 | Ms Joan Anne Lim |
 | 5 | Mr Jeffrey Tan<br>Ms Charmaine Lim<br>Ms Jacque Loo<br>Ms Lee Qian Ying<br>Ms Nur Diyanah<br>Mr Suhadar Yusoff<br>Mr Tee Chen Kam<br>Mr Wong Meng Yin |
 |
+
+#### **National Day Awards 2022**
+
+
+#### **Caring Teacher Awards 2022**
+Ms Alice Chia<br>
+Mr Alex Lee<br>
+Mdm Dorrianne Yeo<br>
+Mr Mohamad Azhar<br>
+Ms Nasreen Abdul Majid
+
+#### **NSmen Awards 2022**
+Mr Mark Goh<br>
+Mr Foo Shiang Xin
