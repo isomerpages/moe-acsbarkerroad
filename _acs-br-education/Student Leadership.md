@@ -13,7 +13,7 @@ The annual Student Leaders Camp is also an opportunity for student leaders from 
 
 <figure>
 <img src="/images/SL1.jpg" style="width:75%">
-<figcaption>  Dragon Boat activity during Student Leaders Camp\
+<figcaption>  Dragon Boat activity during Student Leaders Camp
  </figcaption>
 </figure>
 
