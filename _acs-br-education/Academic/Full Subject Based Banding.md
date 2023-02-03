@@ -19,7 +19,9 @@ Anglo-Chinese School (Barker Road) is one of 30+ secondary schools which will im
 
 ACS(BR) FSBB School Experience: Find out what students who have gone through SBB have to say here.
 
+<div>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/z7cq6DSFNAQ" title="ACS(BR) FSBB School Experience" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 You can obtain more information on Full SBB from the MOE microsite [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).<br>
 For more information on how our school would implement Full SBB, you can contact us at [acsbr@moe.edu.sg](mailto:acsbr@moe.edu.sg).
