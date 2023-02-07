@@ -2,5 +2,4 @@ collections:
   news-and-events:
     output: true
     order:
-      - News and Events.md
       - A Tribute to Mr Lim Teow Lin.md
