@@ -19,11 +19,13 @@ sections:
           description: ""
           url: /partners/
   - infopic:
-      title: Open House 2022
+      title: MethodistWalk 2023
       subtitle: ACS (Barker Road)
-      description: Happening on 18 November, 2022 3pm-5pm at Mrs Lee Choon Guan Concert Hall
-      button: Register here
-      url: https://for.edu.sg/acsbr-2022openhouse
-      image: /images/ACSBR Open House 2022.jpeg
+      description: The MethodistWalk is a biennial fundraising activity organised by
+        the Methodist Schools’ Foundation (MSF), on behalf of the Methodist
+        schools in Singapore.
+      button: Find out more
+      url: /news-and-events/methodistwalk2023/
+      image: /images/2023 Methodist Walk.png
       alt: Image alt text
 ---
