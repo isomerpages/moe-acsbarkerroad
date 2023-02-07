@@ -18,12 +18,6 @@ sections:
         - title: Partners
           description: ""
           url: /partners/
-  - infobar:
-      title: Latest News & Highlights
-      subtitle: ACS (barker road)
-      description: Find out what's going on
-      button: click here
-      url: /
   - infopic:
       title: Open House 2022
       subtitle: ACS (Barker Road)
