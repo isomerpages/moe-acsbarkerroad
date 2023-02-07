@@ -41,4 +41,5 @@ sections:
       button: Find out more
       url: /education/alp/
       alt: Image alt text
+      image: /images/acsbr-education.jpg
 ---
