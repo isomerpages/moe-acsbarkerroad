@@ -31,5 +31,5 @@ sections:
       subtitle: ACS (Barker Road)
       description: For more info
       button: click here
-      url: /acs-education/
+      url: /
 ---
