@@ -23,7 +23,7 @@ sections:
       subtitle: ACS (barker road)
       description: Find out what's going on
       button: click here
-      url: /highlights/
+      url: /
   - infopic:
       title: Open House 2022
       subtitle: ACS (Barker Road)
