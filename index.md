@@ -32,6 +32,6 @@ sections:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
       button: Find out more
-      url: /
+      url: /education/alp/
       alt: Image alt text
 ---
