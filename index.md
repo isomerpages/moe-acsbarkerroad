@@ -28,4 +28,10 @@ sections:
       url: /news-and-events/methodistwalk2023/
       image: /images/2023 Methodist Walk.png
       alt: Image alt text
+  - infopic:
+      title: ACS(BR) Education
+      subtitle: ACS (Barker Road)
+      button: Find out more
+      url: /
+      alt: Image alt text
 ---
