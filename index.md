@@ -29,7 +29,7 @@ sections:
       image: /images/2023 Methodist Walk.png
       alt: Image alt text
   - infopic:
-      title: National School Games Schedule and Results
+      title: ACS(BR) Gentlemen at Competitions and Festivals
       subtitle: ACS (Barker Road)
       button: Find out more
       url: https://docs.google.com/spreadsheets/d/1YjHIdMqutZl0_9fugswch1_6ovsyt0vfeFeaqRNJgbA/edit?usp=sharing
