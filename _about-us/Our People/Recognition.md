@@ -32,7 +32,7 @@ third_nav_title: Our People
 
 | Award | Staff |
 | --- | --- |
-| Commendation Medal | Mr Mohammad Ibrahim<br>Mr David Wong |
+| Commendation Medal | Mr Mohammed Ibrahim<br>Mr David Wong |
 | Long Service Medal | Ms Low Hei Chin |
 |
 
