@@ -166,7 +166,7 @@ third_nav_title: Our People
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Head of Department, Student Management | Mr Dennis Lin |
-| School Staff Developer | Mr Mohammad Ibrahim |
+| School Staff Developer | Mr Mohammed Ibrahim |
 | Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
 | Assistant Year Head, Upper Secondary | Mr Mohamad Azhar |
 | Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
