@@ -151,7 +151,6 @@ third_nav_title: Our People
 |  | Ms Pearlyn Khoo |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
-|  | Mr Lawrence Teng |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
 |  | Mr Jonathan Chan |
