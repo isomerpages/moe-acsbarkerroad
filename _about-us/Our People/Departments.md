@@ -20,8 +20,8 @@ third_nav_title: Our People
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Corporate Support Officer | Ms V Prasanna |
 | Corporate Support Officer | Ms Christina Teo |
+| Corporate Support Officer | Ms Doris Hong |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Mdm Lim Soon Eng |
 | Librarian | Mr Lim Hwee Teck |
