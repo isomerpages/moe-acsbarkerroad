@@ -30,3 +30,13 @@ CCA is compulsory for all secondary school students. Students can choose from an
 <p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/uniformed-groups/">
 <img src="/images/cca4.jpg" style="width:25%" align=left>
 </a></p>
+
+<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/clubs-and-societies/">
+<img src="/images/cca_clubs.jpg" style="width:33%" align=left>
+</a></p>
+
+<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/performing-arts/">
+<img src="/images/cca_performingarts.jpg" style="width:33%" align=left>
+</a></p>
+
+<br clear="left">	
