@@ -1,0 +1,15 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Information.md
+      - Principal’s Message.md
+      - Vision, Mission & Values.md
+      - ACS Heritage.md
+      - ACS Houses.md
+      - Board of Governors.md
+      - Our Principals.md
+      - Our People/Departments.md
+      - Our People/Recognition.md
+      - Our People/.keep
+      - Personal Data Protection Policy.md

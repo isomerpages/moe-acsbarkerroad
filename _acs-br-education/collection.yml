@@ -1,0 +1,30 @@
+collections:
+  acs-br-education:
+    output: true
+    order:
+      - "ALP: Drama, Debates and Public Speaking.md"
+      - "LLP: Sports and Outdoor Education.md"
+      - Academic/Academic.md
+      - Academic/Full Subject Based Banding.md
+      - Academic/1 to 1 Learning.md
+      - Academic/Academic Coaching, Weighted Assessment, Examination & Time
+        table.md
+      - Academic/Forms.md
+      - Academic/.keep
+      - Character & Citizenship Edu/Character and Citizenship Education.md
+      - Character & Citizenship Edu/Sexuality Education.md
+      - Character & Citizenship Edu/.keep
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities.md
+      - Co Curricular Activities/Clubs and Societies.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Physical Sports.md
+      - Co Curricular Activities/Uniformed Groups.md
+      - Signature Programmes/Signature Programmes.md
+      - Signature Programmes/Secondary One Discovery Camp.md
+      - Signature Programmes/Secondary Two Learning Festival.md
+      - Signature Programmes/Secondary Three Outward Bound School & Values in
+        Action Programme.md
+      - Signature Programmes/.keep
+      - Spiritual and Moral.md
+      - Student Leadership.md
