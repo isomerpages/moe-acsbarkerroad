@@ -109,7 +109,6 @@ third_nav_title: Our People
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Ms Tan Hui Fang |
-|  | Ms Peggy Tan |
 |  | Mr Sean Lee |
 |
 
@@ -153,7 +152,6 @@ third_nav_title: Our People
 |  | Ms Elsie Liu |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
-|  | Mr Jonathan Chan |
 |
 
 #### **Science**
