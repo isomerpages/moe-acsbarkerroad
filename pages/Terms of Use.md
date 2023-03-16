@@ -26,3 +26,10 @@ description: ""
 3. We reserve the right to object to, or disable any link or frame to or from The Website.
 4. We reserve the right to change the Uniform Resource Locator (URL) of The Website.
 
+#### **Intellectual Property**
+1. Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us.
+2. Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
+
+#### **Disclaimer of Warranties and Liability**
+1. We will not be liable for any loss or damage:
+	* 
