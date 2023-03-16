@@ -21,4 +21,8 @@ description: ""
 2. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
 
 #### **Hyperlinks**
-1. 
+1. We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other site is at your own risk.
+2. If you create a link or frame to The Website you do so at your own risk.
+3. We reserve the right to object to, or disable any link or frame to or from The Website.
+4. We reserve the right to change the Uniform Resource Locator (URL) of The Website.
+
