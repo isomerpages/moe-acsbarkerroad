@@ -15,18 +15,18 @@ You can refer to the following links for more information.<br>
 
 CCA is compulsory for all secondary school students. Students can choose from any of these 4 categories:
 
-<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/clubs-and-societies/">
+<p><a href="https://www.acsbr.moe.edu.sg/education/cca/clubs-and-societies/">
 <img src="/images/cca_cs.jpg" style="width:25%" align=left>
 </a></p>
 
-<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/performing-arts/">
+<p><a href="https://www.acsbr.moe.edu.sg/education/cca/performing-arts/">
 <img src="/images/cca_pa.jpg" style="width:25%" align=left>
 </a></p>
 
-<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/physical-sports/">
+<p><a href="https://www.acsbr.moe.edu.sg/education/cca/physical-sports/">
 <img src="/images/cca_ps.jpg" style="width:25%" align=left>
 </a></p>
 
-<p><a href="https://staging.dmt6iqif6dkoj.amplifyapp.com/education/cca/uniformed-groups/">
+<p><a href="https://www.acsbr.moe.edu.sg/education/cca/uniformed-groups/">
 <img src="/images/cca_ug.jpg" style="width:25%" align=left>
 </a></p>
