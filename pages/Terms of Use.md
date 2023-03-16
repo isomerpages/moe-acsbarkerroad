@@ -3,19 +3,22 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-#### **General**
-1. We thank you for visiting www.acsbr.moe.edu.sg (“this Site”). This Site is the official website of Anglo-Chinese School (Barker Road) (“ACS(BR)”). Your access and use of this Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Site.
-2. ACS(BR) may, from time to time and at its sole and absolute discretion, amend these Terms of Use without prior notice. The amended Terms of Use will be posted on this Site. Your access and use of this Site after the amended Terms of Use have been posted, will constitute your acceptance and agreement to be bound by the amended Terms of Use. For the avoidance of doubt, references to these “Terms of Use” shall include such Terms of Use as amended from time to time by ACS(BR) and posted on this Site.
+#### **Agreement – Terms**
+1. Thank you for visiting this Website (“The Website”). The Website is owned and maintained by Anglo-Chinese School (Barker Road) (hereinafter “ACS(BR)”).
+2. All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
+3. In these Terms, the words “we,” “our” and “us” refer to ACS(BR).
+4. ACS(BR) reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
 
-#### **Proprietary Rights**
-3. All materials contained in this Site (“the Contents”), including without limitation text, images, music, computer programmes and all other kinds of works, are protected by applicable copyright, trademark and/or other intellectual property laws. All titles, rights and/or interests in the Contents are owned by, licensed to or controlled by ACS(BR).
+#### **Access to The Website**
+1. The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
 
-#### **Restrictions on Use**
-4. You may only access and use this Site and the Contents in the manner permitted in these Terms of Use.
-5. You may use, hyperlink, copy and distribute the Contents found on this Site solely for personal, internal, non-commercial, informational purposes only. You may download one copy of any information provided in this Site onto a single computer for your own personal, non-commercial use provided that you keep intact all accompanying copyright and other proprietary notices. You may not display, distribute or otherwise use any of the Content found on this Site for any commercial purpose unless you have obtained specific prior written consent from ACS(BR).
-6. Unless expressly permitted by these Terms of Use, you may not reproduce, publish, upload, display, transmit or otherwise distribute this Site or any of the Contents in any manner or form, without the prior written permission of ACS(BR). You acknowledge that any use of this Site or the Contents otherwise than in accordance with these Terms of Use will constitute a violation of the relevant intellectual property rights subsisting therein.
-7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of ACS(BR)’s copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without the prior written permission of their respective copyright owners.
-8. The design and layout of this Site is protected by intellectual property and other laws, and may not be copied or imitated in whole or in part. No logo, graphic, sound, image or search engine from this Site may be copied or transmitted unless with the prior express permission of ACS(BR)’.
+#### **Relying on Information**
+1. The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
+2. The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by ACS(BR).
 
-#### **Disclaimer of Warranties and Liability**
-9. 
+#### **Security**
+1. Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
+2. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+
+#### **Hyperlinks**
+1. 
