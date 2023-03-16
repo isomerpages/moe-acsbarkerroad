@@ -32,4 +32,6 @@ description: ""
 
 #### **Disclaimer of Warranties and Liability**
 1. We will not be liable for any loss or damage:
-	* 
+	* that you may incur on account of using, visiting or relying on any statement, opinion, representation or information in The Website;
+	* resulting from any delay in the operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software; or
+	* the conduct or the views of any person who accesses or uses The Website.
