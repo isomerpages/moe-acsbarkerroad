@@ -19,9 +19,9 @@ third_nav_title: Our People
 | Assistant Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
+| Admin Executive | Mr Sunny Ng |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
-| Corporate Support Officer | Ms Doris Hong |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Mdm Lim Soon Eng |
 | Librarian | Mr Lim Hwee Teck |
@@ -152,6 +152,7 @@ third_nav_title: Our People
 |  | Ms Elsie Liu |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
+|  | Mr Wong Tze Chau |
 |
 
 #### **Science**
@@ -190,6 +191,7 @@ third_nav_title: Our People
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
 |  | Mr Lou Yang Hui |
+|  | Mr Chew Sui Jin, Glenn |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |
 | Laboratory Assistant | Mr Wong Meng Yin |
