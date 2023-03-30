@@ -48,6 +48,7 @@ third_nav_title: Our People
 |  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
+|  | Mrs Florence Lim |
 |  | Ms Heidi Boon |
 |
 
