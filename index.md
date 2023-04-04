@@ -25,6 +25,8 @@ sections:
       url: /news-and-events/open-house-2023
       image: /images/acsbr-open-house-2023.jpeg
       alt: Image alt text
+      description: We welcome young gentlemen and their parents who are interested in
+        an education in ACS(BR) to join us at our Open House
   - infopic:
       title: ACS(BR) Gentlemen at Competitions and Festivals
       subtitle: ACS (Barker Road)
