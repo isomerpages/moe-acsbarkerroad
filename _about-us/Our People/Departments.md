@@ -48,6 +48,7 @@ third_nav_title: Our People
 |  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
+|  | Mrs Florence Lim |
 |  | Ms Heidi Boon |
 |
 
@@ -190,7 +191,6 @@ third_nav_title: Our People
 |  | Ms Jazreel Loh |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
-|  | Mr Lou Yang Hui |
 |  | Mr Chew Sui Jin, Glenn |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |

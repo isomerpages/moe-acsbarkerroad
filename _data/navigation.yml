@@ -41,12 +41,14 @@ links:
       - title: Student Leadership
         url: /education/student-leadership/
   - title: News and Events
-    url: /news-and-events/methodistwalk2023/
+    url: /news-and-events/open-house-2023/
     sublinks:
-      - title: MethodistWalk 2023
-        url: /news-and-events/methodistwalk2023/
+      - title: Open House 2023
+        url: /news-and-events/open-house-2023
       - title: ACS(BR) Gentlemen at Competi..
         url: https://docs.google.com/spreadsheets/d/1YjHIdMqutZl0_9fugswch1_6ovsyt0vfeFeaqRNJgbA/edit?usp=sharing
+      - title: MethodistWalk 2023
+        url: /news-and-events/methodistwalk2023/
   - title: Admissions
     url: /admissions/
     sublinks:

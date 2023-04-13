@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-bg-1.gif
+      background: /images/hero-bg-5.gif
       key_highlights:
         - title: Students
           description: ""
@@ -19,15 +19,14 @@ sections:
           description: ""
           url: /partners/
   - infopic:
-      title: MethodistWalk 2023
+      title: Open House 2023
       subtitle: ACS (Barker Road)
-      description: The MethodistWalk is a biennial fundraising activity organised by
-        the Methodist Schools’ Foundation (MSF), on behalf of the Methodist
-        schools in Singapore.
       button: Find out more
-      url: /news-and-events/methodistwalk2023/
-      image: /images/2023 Methodist Walk.png
+      url: /news-and-events/open-house-2023
+      image: /images/acsbr-open-house-2023-banner.jpeg
       alt: Image alt text
+      description: We cordially invite young gentlemen and their parents who are
+        interested in an ACS(BR) education to join us at our Open House
   - infopic:
       title: ACS(BR) Gentlemen at Competitions and Festivals
       subtitle: ACS (Barker Road)
