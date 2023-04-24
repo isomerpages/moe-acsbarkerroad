@@ -73,7 +73,6 @@ third_nav_title: Our People
 |  | Ms Ponniey S Kumar |
 |  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
-|  | Mr Ingmar Salim |
 |
 
 #### **Learning Technologies**
