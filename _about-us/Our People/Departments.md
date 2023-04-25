@@ -193,6 +193,7 @@ third_nav_title: Our People
 |  | Mr Chew Sui Jin, Glenn |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |
+| Laboratory Technician | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
 | Workshop Instructor (D&T) | Mr Rosli Che Embi |
 | Workshop Instructor (D&T) | Mr Iskandar Yussof |
