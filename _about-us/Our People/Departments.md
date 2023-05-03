@@ -73,7 +73,6 @@ third_nav_title: Our People
 |  | Ms Ponniey S Kumar |
 |  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
-|  | Mr Ingmar Salim |
 |
 
 #### **Learning Technologies**
@@ -111,6 +110,7 @@ third_nav_title: Our People
 |  | Mr Ng Eng Chin |
 |  | Ms Tan Hui Fang |
 |  | Mr Sean Lee |
+|  | Mr Lou Yang Hui |
 |
 
 #### **Mother Tongue**
@@ -194,6 +194,7 @@ third_nav_title: Our People
 |  | Mr Chew Sui Jin, Glenn |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |
+| Laboratory Technician | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
 | Workshop Instructor (D&T) | Mr Rosli Che Embi |
 | Workshop Instructor (D&T) | Mr Iskandar Yussof |

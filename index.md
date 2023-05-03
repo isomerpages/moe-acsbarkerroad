@@ -23,15 +23,15 @@ sections:
       subtitle: ACS (Barker Road)
       button: Find out more
       url: /news-and-events/open-house-2023
-      image: /images/acsbr-open-house-2023-banner.jpeg
+      image: /images/acsbr-oh2023.jpg
       alt: Image alt text
       description: We cordially invite young gentlemen and their parents who are
         interested in an ACS(BR) education to join us at our Open House
   - infopic:
-      title: ACS(BR) Gentlemen at Competitions and Festivals
+      title: Direct School Admission Exercise 2023
       subtitle: ACS (Barker Road)
       button: Find out more
-      url: https://docs.google.com/spreadsheets/d/1YjHIdMqutZl0_9fugswch1_6ovsyt0vfeFeaqRNJgbA/edit?usp=sharing
+      url: https://go.gov.sg/acsbr-dsa
       image: /images/nsg-schedule-results.jpeg
       alt: Image alt text
   - infopic:
