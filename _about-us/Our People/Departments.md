@@ -110,6 +110,7 @@ third_nav_title: Our People
 |  | Mr Ng Eng Chin |
 |  | Ms Tan Hui Fang |
 |  | Mr Sean Lee |
+|  | Mr Lou Yang Hui |
 |
 
 #### **Mother Tongue**
