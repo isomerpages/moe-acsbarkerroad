@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic
 ---
 ### **Full Subject-Based Banding**
-Anglo-Chinese School (Barker Road) is one of 30+ secondary schools which will implement Full Subject-Based Banding (FSBB) from 2022.
+Anglo-Chinese School (Barker Road) was one of 30+ secondary schools which implemented Full Subject-Based Banding (FSBB) in 2022.
 
 <img src="/images/fsbb.png" style="width:95%">
 
