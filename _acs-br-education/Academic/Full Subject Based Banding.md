@@ -25,6 +25,13 @@ Under Full SBB, the GCE O- and N-Level will be replaced with the new Singapore-C
 #### **ACS(BR) FSBB School Experience**
 ##### **Find out what students who have gone through SBB have to say here.**
 
+###### Reflections from Isaac Wong, 4 Abraham (2022)
+I was offered to take up English at the Express level in Secondary One. It was a fairly straightforward decision for English as I had attained an ‘A’ grade in the PSLE and English is often deemed to be my forte and I swiftly took up the offer. Subsequently, I was also offered for Mathematics at the end of Secondary One..  
+However, I believed that Mathematics was my achilles heel. Nevertheless, after some coaxing from the my parents and teachers, I eventually decided to accept the offer as it would be beneficial to me, especially in the GCE ‘N’ Level Examinations because of the highly favourable conversion of the Express grade to the Normal (Academic) grade.
+
+My Subject-Based Banding journey started off with me reaping mediocre results. I had Bs for English, and was failing my E Math in Secondary Three. Admittedly, I developed a blase attitude towards my learning. However, after some reflection, I figured that it was my attitude that needed improvement and not my grades per se. I realised that adjustments take time, and that results will turn around if I continue to put in the effort. This was when I started to see improvements in my grades.
+
+
 <div>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/z7cq6DSFNAQ" title="ACS(BR) FSBB School Experience" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 </div>
