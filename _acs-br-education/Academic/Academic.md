@@ -13,7 +13,7 @@ Anglo-Chinese School (Barker Road) was one of 30+ secondary schools which implem
 
 The school has the following departments/subjects:
 *   English and Literature
-*   [**Mother Tongue Languages**](https://sites.google.com/acsbr.org/mtl-department/mtl-department)
+*   [**Mother Tongue Languages**](https://sites.google.com/moe.edu.sg/acsbr-mtl-website)
 *   Mathematics
 *   Science
 *   Humanities
