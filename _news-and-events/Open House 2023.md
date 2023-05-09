@@ -10,7 +10,7 @@ We cordially invite young gentlemen and their parents who are interested in an A
 
 To register for the event, please scan the QR code or click on the [link](https://go.gov.sg/acsbr-open-house) provided.
 
-Please find attached the layout and programme for the day. The document also contains hyperlinks for your convenience.  
+Please find attached the [layout and programme](/files/2023%20Open%20House/acsbr%20open%20house%202023%20-%20layout%20&amp;%20programme.pdf) for the day. The [document](/files/2023%20Open%20House/acsbr%20open%20house%202023%20-%20layout%20&amp;%20programme.pdf) also contains hyperlinks for your convenience.  
   
 Do note that parking at the school is restricted to the limited white bays available. We recommend that visitors park at the open space at Chancery Lane or at Balmoral Plaza. Alternatively, please use public transport. There is a bus stop right in front of the school and 2 MRT stations (Newton and Stevens MRT stations) nearby. Please kindly refrain from illegal parking which may inconvenience the residents in the area.
 
