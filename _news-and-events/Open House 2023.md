@@ -8,7 +8,7 @@ description: ""
 
 We cordially invite young gentlemen and their parents who are interested in an ACS(BR) education to join us at our Open House on **Saturday, 13 May 2023**.
 
-To register for the event, please scan the QR code or click on the [link](https://go.gov.sg/acsbr-open-house) provided.
+To register for the event, please scan the QR code or click on this [link](https://go.gov.sg/acsbr-open-house).
 
 Please find attached the [layout and programme](/files/2023%20Open%20House/acsbr%20open%20house%202023%20-%20layout%20&amp;%20programme.pdf) for the day. The document also contains hyperlinks for your convenience.  
   
