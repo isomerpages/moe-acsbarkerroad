@@ -14,13 +14,16 @@ Anglo-Chinese School (Barker Road) was one of 30+ secondary schools which implem
 From 2024 Secondary 1 cohort, students will be posted into secondary schools through three Posting Groups (PG 1, PG 2 and PG 3), assigned based on students’ PSLE Scores.
 
 <img src="/images/fsbb_1.jpg" style="width:100%">
-
+<div style="font-size:1.25rem">
+	
 | Aspect of Full SBB | How will this aspect be implemented? |
 |---|---|
 | Students eligible to opt for subjects taken at a more demanding level (MDL) should receive an application form, based on the following criteria: | <img src="/images/fsbb_2.jpg" style="width:70%" align="left"> |
 | Mixed form classes with the provision of a common curriculum | As part of the Full SBB, our school has implemented mixed form classes at Secondary 1. Secondary 1 students will be grouped in mixed form classes, comprising students from different courses of study. Students will attend lessons in their respective form classes for the following Common Curiculum subjects:<br>Character and Citizenship Education, Music, Physical Education, Art, Design &amp; Technology, as well as Food and Consumer Education.<br><br>![](/images/fsbb_3.jpg)<br>For the remaining academic subjects, namely English, Mother Tongue Language, Mathematics, Science, and Humanities (after Secondary 1), students will be attending lessons based on their subject classes at a higher or lower demanding level (MDL or LDL). The subject classes will be organised based on their respective course levels [G1, G2 or G3].<br><br>The learning experiences gained through the mixed form classes create a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives. It can also help reduce the inadvertent labelling associated with streaming.
 
 Under Full SBB, the GCE O- and N-Level will be replaced with the new Singapore-Cambridge Secondary Education Certificate (SEC) examinations. This will apply from the 2024 S1 cohort onwards. From 2027, the national certification will reflect the subject level at which each subject is taken.
+	
+</div>
 
 #### **ACS(BR) FSBB School Experience**
 ##### **Find out what students who have gone through SBB have to say here.**
