@@ -9,6 +9,6 @@ description: ""
 * **[Alumni](https://acsbr.moe.edu.sg/partners/alumni/)**
 * **[Family@Barker](https://sites.google.com/a/acsbr.org/familyatbarker/)**
 * **[Barker Road Methodist Church (BRMC)](https://www.brmc.org.sg/)**
-* **[Methodist Message](https://www.methodist.org.sg/message/)**
+* **[The Methodist Church in Singapore](https://acsbr.moe.edu.sg/partners/the-methodist-church-in-singapore)**
 
 <img src="/images/partners1.jpg" style="width:55%">
