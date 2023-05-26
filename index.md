@@ -19,15 +19,6 @@ sections:
           description: ""
           url: /partners/
   - infopic:
-      title: Open House 2023
-      subtitle: ACS (Barker Road)
-      button: Find out more
-      url: /news-and-events/open-house-2023
-      image: /images/acsbr-oh2023.jpg
-      alt: Image alt text
-      description: We cordially invite young gentlemen and their parents who are
-        interested in an ACS(BR) education to join us at our Open House
-  - infopic:
       title: Direct School Admission Exercise 2023
       subtitle: ACS (Barker Road)
       button: Find out more
