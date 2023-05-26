@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - The Methodist Church in Singapore.md
       - Partners.md
       - ACS Family of Schools.md
       - ACS Echo.md
