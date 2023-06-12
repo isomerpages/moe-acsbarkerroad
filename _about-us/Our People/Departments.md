@@ -20,10 +20,11 @@ third_nav_title: Our People
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
 | Admin Executive | Mr Sunny Ng |
+| Admin Executive | Mdm Lim Soon Eng |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
-| Receptionist | Mdm Lim Soon Eng |
+| Receptionist | Mdm Saniah Ali |
 | Librarian | Mr Lim Hwee Teck |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
