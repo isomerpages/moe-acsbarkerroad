@@ -63,7 +63,6 @@ third_nav_title: Our People
 | Lead Teacher, Geography | Mr Oh Boon Teck |
 | Subject Head, Geography | Ms Wong Qi Shan |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-|  | Ms Eng Yuwen |
 |  | Ms Heike Boon |
 |  | Ms Charmaine Lim |
 |  | Mr Alan Lim |
