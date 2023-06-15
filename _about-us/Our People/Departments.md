@@ -49,7 +49,6 @@ third_nav_title: Our People
 |  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
-|  | Mrs Florence Lim |
 |  | Ms Heidi Boon |
 |
 
@@ -108,7 +107,6 @@ third_nav_title: Our People
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Ms Tan Hui Fang |
 |  | Mr Sean Lee |
 |  | Mr Lou Yang Hui |
 |
@@ -153,7 +151,6 @@ third_nav_title: Our People
 |  | Ms Elsie Liu |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
-|  | Mr Wong Tze Chau |
 |
 
 #### **Science**
