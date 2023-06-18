@@ -16,7 +16,7 @@ third_nav_title: Our People
 | Admin Manager | Ms Nur' Ezzati |
 | Admin Manager  | Mr Glenn Tan |
 | Operations Manager | Mr Ng Kok Foo |
-| Assistant Operations Manager | Mr Tan Yi Fan |
+| Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
 | Admin Executive | Mr Sunny Ng |
