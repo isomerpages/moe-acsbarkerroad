@@ -49,7 +49,9 @@ third_nav_title: Our People
 |  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
+|  | Mr Keh Chien Yung |
 |  | Ms Heidi Boon |
+|  | Ms Amanda Ng Jin Yi |
 |
 
 #### **Humanities**
