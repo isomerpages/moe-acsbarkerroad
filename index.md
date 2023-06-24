@@ -34,7 +34,7 @@ sections:
       image: /images/acsbr-education.jpg
   - infobar:
       title: Infobar Title
-      subtitle: Infobar Subtitle
+      subtitle: Infobar
       description: Infobar description
       button: Button Text
 ---
