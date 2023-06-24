@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Semester 2 Timetable
       subtitle: ACS (Barker Road)
-      description: Infopic description
+      description: Visit our microsite for the latest Timetable matters.
       button: Find out more
       url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
       image: /images/academic.jpg
@@ -40,10 +40,4 @@ sections:
       url: /education/alp/
       alt: Image alt text
       image: /images/acsbr-education.jpg
-  - infobar:
-      title: b
-      subtitle: a
-      description: c
-      button: Button Text
-      url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
 ---
