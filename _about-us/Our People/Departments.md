@@ -106,11 +106,12 @@ third_nav_title: Our People
 |  | Mrs Jeanette Wee |
 |  | Mr Jason Goh |
 |  | Ms Eunice Thong |
+|  | Mr Sean Lee |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Mr Sean Lee |
 |  | Mr Lou Yang Hui |
+|  | Mr Alex Lee |
 |
 
 #### **Mother Tongue**
@@ -153,6 +154,7 @@ third_nav_title: Our People
 |  | Ms Elsie Liu |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
+|  | Ms Koh Kai En |
 |
 
 #### **Science**
