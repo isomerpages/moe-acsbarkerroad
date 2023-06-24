@@ -32,4 +32,9 @@ sections:
       url: /education/alp/
       alt: Image alt text
       image: /images/acsbr-education.jpg
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
