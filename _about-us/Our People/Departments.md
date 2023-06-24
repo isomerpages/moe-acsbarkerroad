@@ -16,14 +16,15 @@ third_nav_title: Our People
 | Admin Manager | Ms Nur' Ezzati |
 | Admin Manager  | Mr Glenn Tan |
 | Operations Manager | Mr Ng Kok Foo |
-| Assistant Operations Manager | Mr Tan Yi Fan |
+| Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
 | Admin Executive | Mr Sunny Ng |
+| Admin Executive | Mdm Lim Soon Eng |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
-| Receptionist | Mdm Lim Soon Eng |
+| Receptionist | Mdm Saniah Ali |
 | Librarian | Mr Lim Hwee Teck |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
@@ -48,8 +49,9 @@ third_nav_title: Our People
 |  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
-|  | Mrs Florence Lim |
+|  | Mr Keh Chien Yung |
 |  | Ms Heidi Boon |
+|  | Ms Amanda Ng Jin Yi |
 |
 
 #### **Humanities**
@@ -62,7 +64,6 @@ third_nav_title: Our People
 | Lead Teacher, Geography | Mr Oh Boon Teck |
 | Subject Head, Geography | Ms Wong Qi Shan |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-|  | Ms Eng Yuwen |
 |  | Ms Heike Boon |
 |  | Ms Charmaine Lim |
 |  | Mr Alan Lim |
@@ -105,12 +106,12 @@ third_nav_title: Our People
 |  | Mrs Jeanette Wee |
 |  | Mr Jason Goh |
 |  | Ms Eunice Thong |
+|  | Mr Sean Lee |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Ms Tan Hui Fang |
-|  | Mr Sean Lee |
 |  | Mr Lou Yang Hui |
+|  | Mr Alex Lee |
 |
 
 #### **Mother Tongue**
@@ -153,7 +154,7 @@ third_nav_title: Our People
 |  | Ms Elsie Liu |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
-|  | Mr Wong Tze Chau |
+|  | Ms Koh Kai En |
 |
 
 #### **Science**

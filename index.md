@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /partners/
   - infopic:
+      title: Semester 2 Timetable
+      subtitle: ACS (Barker Road)
+      description: Visit our microsite for the latest Timetable matters.
+      button: Find out more
+      url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
+      image: /images/academic.jpg
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission Exercise 2023
       subtitle: ACS (Barker Road)
       button: Find out more
