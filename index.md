@@ -41,8 +41,9 @@ sections:
       alt: Image alt text
       image: /images/acsbr-education.jpg
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar
-      description: Infobar description
+      title: b
+      subtitle: a
+      description: c
       button: Button Text
+      url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
 ---
