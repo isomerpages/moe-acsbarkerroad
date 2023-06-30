@@ -145,6 +145,7 @@ third_nav_title: Our People
 | Subject Head, CCA | Mr Timothy Teo |
 | Subject Head, Aesthetics | Ms Desiree Chua |
 |  | Mr Syed Faizal |
+|  | Mr Lim Jit Peow, Isaac |
 |  | Mr Mohammad Faisal |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
