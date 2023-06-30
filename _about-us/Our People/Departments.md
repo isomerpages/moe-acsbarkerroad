@@ -112,7 +112,7 @@ third_nav_title: Our People
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
 |  | Mdm Lim Pui Wah (Mrs Lau Lam Seng)
-|  | Mr Stanley Ambrose Ho Yin Heng
+|  | Mr Stanley Ambrose Ho
 |
 
 #### **Mother Tongue**
