@@ -6,6 +6,7 @@ description: ""
 ### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
 | Noodle Stall | 7 August 2023 | Any Chinese noodle menu is acceptable.|
 
 #### **Application Procedure**
