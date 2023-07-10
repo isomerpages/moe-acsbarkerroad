@@ -111,7 +111,6 @@ third_nav_title: Our People
 |  | Mr Ng Eng Chin |
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
-|  | Mdm Lim Pui Wah (Mrs Lau Lam Seng)
 |  | Mr Stanley Ambrose Ho
 |
 
