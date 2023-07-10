@@ -3,12 +3,12 @@ title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
 ---
-### School Canteen Advertisement
+### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
 | Noodle Stall | 7 August 2023 | Any Chinese noodle menu is acceptable.|
 
-**Application Procedure**
+#### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 * [Application Form](/files/formbf7%20-%20application%20form.pdf)
@@ -25,7 +25,7 @@ description: ""
 * Email: acsbr@moe.edu.sg
 * Contact Person: Mr Glenn Tan or Ms Nur Ezzati 
 
-**How to get there?**
+#### **How to get there?**
 * Nearest MRT: Newton MRT (NS21/DT11 line) – 10 minutes walking distance
 * Bus number: 48, 67, 170, 960, 960e, 972M
 
@@ -37,7 +37,7 @@ description: ""
 * Healthy and fit to operate the stall.
 
 
-**Applicants should preferably fulfil the following criteria:**
+#### **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
