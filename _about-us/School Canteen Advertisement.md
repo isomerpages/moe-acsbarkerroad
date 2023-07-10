@@ -29,7 +29,7 @@ description: ""
 * Nearest MRT: Newton MRT (NS21/DT11 line) – 10 minutes walking distance
 * Bus number: 48, 67, 170, 960, 960e, 972M
 
-**Interest applicants must meet the following criteria:**
+#### **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
