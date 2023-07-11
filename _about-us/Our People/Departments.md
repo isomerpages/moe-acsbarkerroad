@@ -85,7 +85,6 @@ third_nav_title: Our People
 | Admin Executive (ICT) | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
-| Desktop Engineer | Mr Saw Heng Loong |
 |
 
 #### **Mathematics**
@@ -112,6 +111,7 @@ third_nav_title: Our People
 |  | Mr Ng Eng Chin |
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
+|  | Mr Stanley Ambrose Ho
 |
 
 #### **Mother Tongue**
@@ -141,10 +141,10 @@ third_nav_title: Our People
 | Designation | Name |
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
-| Subject Head, Physical Education | Mr Alvin Lim |
 | Subject Head, CCA | Mr Timothy Teo |
 | Subject Head, Aesthetics | Ms Desiree Chua |
 |  | Mr Syed Faizal |
+|  | Mr Lim Jit Peow, Isaac |
 |  | Mr Mohammad Faisal |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
