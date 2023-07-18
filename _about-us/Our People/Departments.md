@@ -112,6 +112,10 @@ third_nav_title: Our People
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
 |  | Mr Stanley Ambrose Ho
+|  | Ms Chia Hui Qi
+|  | Ms Elaine Wee
+|  | Mr Quek Yong Kang
+|  | Mr Hiero Ong
 |
 
 #### **Mother Tongue**
@@ -161,7 +165,6 @@ third_nav_title: Our People
 
 | Designation | Name |
 |---|---|
-| Head of Department, Science | Mr Kishan Kumar |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
