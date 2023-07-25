@@ -25,7 +25,6 @@ third_nav_title: Our People
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Mdm Saniah Ali |
-| Librarian | Mr Lim Hwee Teck |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
 | Operations Support Officer | Mr Tan Seng Hwa |
@@ -46,7 +45,6 @@ third_nav_title: Our People
 |  | Mr Graham Whiteley |
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
-|  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
