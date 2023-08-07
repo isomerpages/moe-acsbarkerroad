@@ -80,6 +80,7 @@ third_nav_title: Our People
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
+| ICT Manager | Mr Muhammad Hadri
 | Admin Executive (ICT) | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
@@ -113,7 +114,6 @@ third_nav_title: Our People
 |  | Ms Chia Hui Qi
 |  | Ms Elaine Wee
 |  | Mr Quek Yong Kang
-|  | Mr Hiero Ong
 |
 
 #### **Mother Tongue**
