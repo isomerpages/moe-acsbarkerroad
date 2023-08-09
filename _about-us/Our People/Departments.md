@@ -25,7 +25,6 @@ third_nav_title: Our People
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Mdm Saniah Ali |
-| Librarian | Mr Lim Hwee Teck |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
 | Operations Support Officer | Mr Tan Seng Hwa |
@@ -46,7 +45,6 @@ third_nav_title: Our People
 |  | Mr Graham Whiteley |
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
-|  | Mr Anthony Tay |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
@@ -82,6 +80,7 @@ third_nav_title: Our People
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
+| ICT Manager | Mr Muhammad Hadri
 | Admin Executive (ICT) | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
@@ -112,6 +111,9 @@ third_nav_title: Our People
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
 |  | Mr Stanley Ambrose Ho
+|  | Ms Chia Hui Qi
+|  | Ms Elaine Wee
+|  | Mr Quek Yong Kang
 |
 
 #### **Mother Tongue**
@@ -161,7 +163,6 @@ third_nav_title: Our People
 
 | Designation | Name |
 |---|---|
-| Head of Department, Science | Mr Kishan Kumar |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
