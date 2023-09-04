@@ -112,7 +112,6 @@ third_nav_title: Our People
 |  | Mr Alex Lee |
 |  | Mr Stanley Ambrose Ho
 |  | Ms Chia Hui Qi
-|  | Ms Elaine Wee
 |  | Mr Quek Yong Kang
 |
 
