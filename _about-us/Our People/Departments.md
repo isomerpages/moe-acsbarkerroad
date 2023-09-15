@@ -49,7 +49,7 @@ third_nav_title: Our People
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
 |  | Ms Heidi Boon |
-|  | Ms Amanda Ng Jin Yi |
+|  | Ms Amanda Ng |
 |
 
 #### **Humanities**
@@ -162,6 +162,7 @@ third_nav_title: Our People
 
 | Designation | Name |
 |---|---|
+| Head of Department, Science | Mr Matthias Low |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
