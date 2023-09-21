@@ -40,4 +40,12 @@ sections:
       url: /education/alp/
       alt: Image alt text
       image: /images/acsbr-education.jpg
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have a question?
+      id: infopic
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/acs%20(br)#home
+      image: /images/acs(br)-askgov.png
+      alt: AskGov
 ---
