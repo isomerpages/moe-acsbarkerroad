@@ -84,6 +84,7 @@ third_nav_title: Our People
 | Admin Executive (ICT) | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
+| Desktop Engineer | Veerapandi Punithan |
 |
 
 #### **Mathematics**
