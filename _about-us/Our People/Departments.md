@@ -84,6 +84,7 @@ third_nav_title: Our People
 | Admin Executive (ICT) | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
+| Desktop Engineer | Mr Veerapandi Punithan |
 |
 
 #### **Mathematics**
@@ -110,8 +111,6 @@ third_nav_title: Our People
 |  | Mr Ng Eng Chin |
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
-|  | Mr Stanley Ambrose Ho
-|  | Ms Chia Hui Qi
 |  | Mr Quek Yong Kang
 |
 
