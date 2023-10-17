@@ -23,7 +23,7 @@ sections:
       subtitle: ACS (Barker Road)
       button: Find out more
       url: https://acsecho.com/
-      image: /images/echo_magazine_oct_nov_23.png
+      image: /images/echo_oct_nov_2023.png
       alt: Image alt text
   - infopic:
       title: Direct School Admission Exercise 2023
