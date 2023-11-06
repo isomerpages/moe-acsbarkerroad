@@ -18,19 +18,18 @@ sections:
         - title: Partners
           description: ""
           url: /partners/
+  - infobar:
+      title: SCHOOL BOOKLIST 2024
+      subtitle: ACS (BARKER ROAD)
+      id: infobar
+      button: FIND OUT MORE
+      url: /parents/booklist
   - infopic:
       title: ACS Echo
       subtitle: ACS (Barker Road)
       button: Find out more
       url: https://acsecho.com/
       image: /images/echo_oct_nov_2023.png
-      alt: Image alt text
-  - infopic:
-      title: Direct School Admission Exercise 2023
-      subtitle: ACS (Barker Road)
-      button: Find out more
-      url: https://go.gov.sg/acsbr-dsa
-      image: /images/nsg-schedule-results.jpeg
       alt: Image alt text
   - infopic:
       title: ACS(BR) Education
