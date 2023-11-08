@@ -10,4 +10,4 @@ variant: markdown
 You are encouraged to purchase your textbooks via the Pacific Bookstores online platform at **[https://www.pacificbookstores.com](https://www.pacificbookstores.com/)**. You may choose between Home Delivery and Self-Collection at the School Bookshop.
 
 ##### **Booklist Download**
-Soft copy of the booklist will be made available soon.
+[SEC 1](/files/2024%20Booklist/s1%20booklist.pdf)
