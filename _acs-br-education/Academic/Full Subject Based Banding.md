@@ -9,6 +9,8 @@ Anglo-Chinese School (Barker Road) was one of 30+ secondary schools which implem
 
 <img src="/images/fsbb.png" style="width:95%">
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FGjXlsTBRN0?si=OF6qkUlNQLFbQfMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### **Full SBB in Anglo-Chinese School (Barker Road)**
 
 From 2024 Secondary 1 cohort, students will be posted into secondary schools through three Posting Groups (PG 1, PG 2 and PG 3), assigned based on students’ PSLE Scores.
