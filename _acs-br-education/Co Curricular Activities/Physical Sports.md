@@ -3,6 +3,7 @@ title: Physical Sports
 permalink: /education/cca/physical-sports/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### **Physical Sports**
 
@@ -24,7 +25,7 @@ third_nav_title: Co Curricular Activities
 <img src="/images/sports4.jpg" style="width:33%" align="left">
 </a></p>
 
-<p><a href="https://sites.google.com/acsbr.org/football/home">
+<p><a href="https://sites.google.com/moe.edu.sg/acsbr-football/home">
 <img src="/images/sports5.jpg" style="width:33%" align="left">
 </a></p>
 
@@ -48,7 +49,7 @@ third_nav_title: Co Curricular Activities
 
 <br clear="left">	
 
-<p><a href="https://sites.google.com/acsbr.org/tennis">
+<p><a href="https://sites.google.com/moe.edu.sg/acsbrtennis/home">
 <img src="/images/sports10.jpg" style="width:33%" align="left">
 </a></p>
 
