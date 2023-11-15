@@ -49,7 +49,7 @@ variant: markdown
 
 <br clear="left">	
 
-<p><a href="https://sites.google.com/acsbr.org/tennis">
+<p><a href="https://sites.google.com/moe.edu.sg/acsbrtennis/home">
 <img src="/images/sports10.jpg" style="width:33%" align="left">
 </a></p>
 
