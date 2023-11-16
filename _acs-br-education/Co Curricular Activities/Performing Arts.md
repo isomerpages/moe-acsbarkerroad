@@ -3,6 +3,7 @@ title: Performing Arts
 permalink: /education/cca/performing-arts/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### **Performing Arts**
 
@@ -10,11 +11,11 @@ third_nav_title: Co Curricular Activities
 <img src="/images/pa1.jpg" style="width:33%" align="left">
 </a></p>
 
-<p><a href="https://sites.google.com/acsbr.org/choir">
+<p><a href="https://sites.google.com/moe.edu.sg/acsbrchoir">
 <img src="/images/pa2.jpg" style="width:33%" align="left">
 </a></p>
 
-<p><a href="https://sites.google.com/acsbr.org/concertband">
+<p><a href="https://sites.google.com/moe.edu.sg/concertbandacsbr/home">
 <img src="/images/pa3.jpg" style="width:33%" align="left">
 </a></p>
 
