@@ -2,6 +2,7 @@
 title: Financial Support
 permalink: /parents/financial-support/
 description: ""
+variant: markdown
 ---
 ### **Financial Support**
 
@@ -11,5 +12,5 @@ description: ""
 |
 
 ##### **Application:**
-1. Click on this **[Link](/files/Annex%20A%20-%20FAS%20Application%20Form%20(Oct%202022).pdf)** and download the application form.<br>
+1. Click on this&nbsp;**[link](/files/2024_MOE_FAS_Application_Form.pdf)**&nbsp;and download the application form.<br>
 2. Complete the application form and submit it with the necessary updated documents to the school's General Office (attention to the Administration Manager).
