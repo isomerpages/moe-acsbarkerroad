@@ -35,7 +35,7 @@ variant: markdown
 
 <br clear="left">	
 
-<p><a href="https://sites.google.com/acsbr.org/rugby">
+<p><a href="https://sites.google.com/moe.edu.sg/acsbrrugby/home">
 <img src="/images/sports7.jpg" style="width:33%" align="left">
 </a></p>
 
