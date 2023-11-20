@@ -30,8 +30,8 @@ For those students who have placed purchases before February, the chromebooks wi
 
 All the students' chromebooks are to be installed with the Device Management Application (DMA) which comprise of
 
-1. Chrome Device Management (CDM) License and
-2. Chromebook Management Application, e.g. Mobile Guardian.
+*  Chrome Device Management (CDM) License and
+*  Chromebook Management Application, e.g. Mobile Guardian.
     
 
 The CDM license will allow MOE and the school to centrally manage and monitor the students' usage of the chromebook. The management application is a security app that will further keep the students safe and minimise harmful internet content and distraction. Do note that the school has deployed a "Block All Except Whitelisted" policy on all chromebooks.
@@ -51,11 +51,9 @@ Subsidies will be provided for MOE Financial Assistance Scheme (FAS) students an
 
 To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fpdlpadmin&sa=D&sntz=1&usg=AOvVaw3VIflBwyK7tkU69jw0p6PB) (Singpass to access). The online form will consist:
 
-1.  Intent to Purchase. For parents/guardians to indicate intent to purchase PLD.
-    
-2.  Use of Edusave (for Singapore Citizens only). For parents/guardians who have opted to use their child’s/ward’s Edusave to pay for the PLD bundle.
-    
-3.  Collection of PLD (if purchasing). For parents/guardians to authorise their child/ward or an adult to collect the device on their behalf. You may appoint your child/ward to collect the PLD as the Vendor will run through a device checklist with the students at the point of collection to ensure that the device is in good working condition.
+*   Intent to Purchase. For parents/guardians to indicate intent to purchase PLD.
+*   Use of Edusave (for Singapore Citizens only). For parents/guardians who have opted to use their child’s/ward’s Edusave to pay for the PLD bundle.
+*   Collection of PLD (if purchasing). For parents/guardians to authorise their child/ward or an adult to collect the device on their behalf. You may appoint your child/ward to collect the PLD as the Vendor will run through a device checklist with the students at the point of collection to ensure that the device is in good working condition.
     
 
 If you are unable to submit the form online, you can print the hardcopy version (**Annexes A to C** are appended below) and submit them to the school’s General Office.
