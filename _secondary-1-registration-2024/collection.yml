@@ -2,8 +2,6 @@ collections:
   secondary-1-registration-2024:
     output: true
     order:
-      - Uniform Requirements.md
-      - Transport.md
       - Secondary 1 Registration 2024.md
       - 1:1 Learning.md
       - Book List.md
@@ -12,3 +10,5 @@ collections:
       - Financial Assistance.md
       - School Smart Card.md
       - Secondary 1 Discovery Camp.md
+      - Uniform Requirements.md
+      - Transport.md
