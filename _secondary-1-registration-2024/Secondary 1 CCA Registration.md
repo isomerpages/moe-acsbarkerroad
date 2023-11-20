@@ -14,7 +14,7 @@ Should you have any queries, please email Mr Alvin Lim at [lim\_kar\_keng\_alvi
 
 (https://sites.google.com/acsbr.org/s1registration2021/cca-matters#h.p_aDm67JodkrHq)
 
-**CCA GENERAL INFORMATION**
+**CCA General Information**
 
 ---------------------------------------------------------------------------------------------------------------------
 
