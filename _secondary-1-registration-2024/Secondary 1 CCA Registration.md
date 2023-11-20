@@ -4,12 +4,9 @@ permalink: /secondary-1-registration-2024/s1cca/
 variant: markdown
 description: ""
 ---
-#### **SEC 1 CCA REGISTRATION** ####
+**CCA Trials/Selection for Sec 1 Students** 
 
-
---------------------------
-
-**CCA Trials/Selection for Sec 1 Students**
+---------------------------------------------------------------------------------------------------------------------
 
 More information on CCA trials/selection will be given during the CCA Virtual Open House on Friday 8th January. Alternatively, you could visit the ACSBR CCA website for more information: [ACSBR CCA Site](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Facsbr.org%2Fcca%2Fhome&sa=D&sntz=1&usg=AOvVaw3xAa9CX91cjeX8OSwrSeMi)
 
@@ -17,8 +14,7 @@ Should you have any queries, please email Mr Alvin Lim at [lim\_kar\_keng\_alvi
 
 (https://sites.google.com/acsbr.org/s1registration2021/cca-matters#h.p_aDm67JodkrHq)
 
-CCA GENERAL INFORMATION
-
+**CCA GENERAL INFORMATION**
 
 ---------------------------------------------------------------------------------------------------------------------
 
