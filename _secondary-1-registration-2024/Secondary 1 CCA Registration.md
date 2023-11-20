@@ -24,10 +24,9 @@ CCAs bring students from diverse backgrounds together. By learning and interacti
 
 CCA is compulsory for all secondary school students. Students can choose from any of these 4 categories:
 
-1.  Physical Sports
-2.  Visual and Performing Arts Group
-3.  Uniformed Group   
-4.  Clubs and Societies
-        
+* Physical Sports
+* Uniformed Group   
+* Clubs and Societies
+* Visual and Performing Arts Group
 
 For more information on the different CCAs, please visit the ACSBR CCA Website: [Link](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Facsbr.org%2Fcca%2Fhome&sa=D&sntz=1&usg=AOvVaw3xAa9CX91cjeX8OSwrSeMi)
