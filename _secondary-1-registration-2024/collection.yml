@@ -2,5 +2,6 @@ collections:
   secondary-1-registration-2024:
     output: true
     order:
+      - Book List.md
       - Secondary 1 Registration 2024.md
       - 1:1 Learning.md
