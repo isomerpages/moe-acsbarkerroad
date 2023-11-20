@@ -6,7 +6,6 @@ description: ""
 ---
 Click here for [Sec 1 Online Registration](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Facsbr2021s1reg&sa=D&sntz=1&usg=AOvVaw1LJiN-Fi02MrIcObB7KMrK)!
 
-
 --------------------------------------------------------------------------------------------------------------------
 ### **A warm welcome to our Secondary 1 Students!** ###
 --------------------------------------------------------------------------------------------------------------------
