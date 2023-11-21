@@ -35,7 +35,7 @@ There will be a Sec 1 e-MTP webinar and Virtual CCA Open House on **Friday, 8 J
 Please click the link below to join the e-MTP on **8 January 2021** from 2:45 pm
 [Link](https://moe-singapore.zoom.us/j/83520992007](https://www.google.com/url?q=https%3A%2F%2Fmoe-singapore.zoom.us%2Fj%2F83520992007&sa=D&sntz=1&usg=AOvVaw027T0DG_oeol1qtQyzAGq-))
 
-Passcode: **448693**(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_kbiZMEOWjutb)
+Passcode: **448693**
 
 
 #### **Start of School in 2021 - Important Information for Students and Parents** ####
