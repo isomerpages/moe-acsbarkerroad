@@ -3,6 +3,7 @@ title: Departments
 permalink: /about-us/our-people/departments/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **Departments**
 
@@ -49,7 +50,6 @@ third_nav_title: Our People
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
 |  | Ms Heidi Boon |
-|  | Ms Amanda Ng |
 |
 
 #### **Humanities**
@@ -111,7 +111,6 @@ third_nav_title: Our People
 |  | Mr Ng Eng Chin |
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
-|  | Mr Quek Yong Kang
 |
 
 #### **Mother Tongue**
@@ -154,7 +153,6 @@ third_nav_title: Our People
 |  | Ms Elsie Liu |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
-|  | Ms Koh Kai En |
 |
 
 #### **Science**
