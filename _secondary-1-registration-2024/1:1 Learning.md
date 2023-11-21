@@ -11,8 +11,8 @@ description: ""
 ----------------------------------------------------
 Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school will leverage the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook procurement process. The school has evaluated the given options and chosen the **Lenovo 500e Chromebook Convertible** for the 2021 Sec 1 cohort. The specifications of the chromebook are as follows:
 
-![](https://lh3.googleusercontent.com/6coCG5AjCRM4kxmWt-Wh2ZnzbowZ5Ak_9B8hoIhEvZSgmZn5OWCFXMfGF9XaA7vL4J0rTUGJOtt-TEmJJKo_Uf9AOUINPAh7ya39gSUiahBuqbiiyaJloT9dmdBMkOm2=w1280)
 
+![](/images/image.png)
 *   Accessories include: USB Mouse, Notebook Carrying Case, Power Adapter and Lenovo Pen
     
 
