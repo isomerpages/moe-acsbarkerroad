@@ -2,7 +2,7 @@
 title: Main
 permalink: /admissions/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ### **Admissions**
 * **[Appeals for Sec One](https://form.gov.sg/639c484bad255700122688bd)**
