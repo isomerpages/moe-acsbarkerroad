@@ -38,6 +38,7 @@ variant: markdown
 |
 
 #### **MOE Service Excellence Award 2023**
+
 | Award | Staff |
 | --- | --- |
 | Gold | Mr Chew Teng Leong<br>Mr Foo Shiang Xin<br> Ms Heriana Bte Ab Samad<br> Mr Ho Chin Han Alexis<br> Mr Ho Shern Shuen Dalvin<br> Ms Lee Qian Ying<br> MrLeong Chuen Kit<br> Mr Oh Boon Teck<br>Ms Pearlyn Khoo Bei Ling<br> Mr Siva Sankar Sinnasamy<br>
