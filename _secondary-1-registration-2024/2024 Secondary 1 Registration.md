@@ -119,13 +119,11 @@ Reporting attire: **PE attire**
 
 Cost: Nil
 
-Items to bring: Packing list for the camp will be given to your son.
+Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date..
 
-*   Parents will be invited to attend the badge ceremony on 18 January at 1030am (in school).
-    
-*   More information will be disseminated via Parents Gateway nearer to date. 
-    
-Fri 19 Jan, will be Wellness Day for Sec 1 Students to rest at home after the Camp.
+Parents will be invited to attend the badge ceremony on **18 January at 1030am (in school)**.
+
+**Fri 19 January, will be Wellness Day** for Sec 1 Students to rest at home after the Camp.
 
 #### **Sec 1 CCA Registration Matters** #####
 ---------------------------------------------------------------------------------------------------------------------
