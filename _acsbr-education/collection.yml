@@ -1,5 +1,5 @@
 collections:
-  acs-br-education:
+  acsbr-education:
     output: true
     order:
       - "ALP: Drama, Debates and Public Speaking.md"
