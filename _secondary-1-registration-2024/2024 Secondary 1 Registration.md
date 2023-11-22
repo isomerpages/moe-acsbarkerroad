@@ -26,6 +26,13 @@ The online registration portal will open on **Thursday, 21 December 2023** from 
 
 There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December 2023**.
 
+When: Dec 21, 2023 08:00 AM Singapore
+Topic: Anglo-Chinese School (Barker Road) Secondary 1 Briefing
+
+Please click the link below to join the webinar:
+https://moe-singapore.zoom.us/j/89103611386
+Passcode: 139819
+
 **Sec 1 Meet The Parent and CCA Fair**
 
 There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 6 January 2024 from 2 pm.**
@@ -99,7 +106,7 @@ To help our Secondary 1 students get to know their classmates and their new envi
 |**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
 |**Week 2 Fri (12 Jan)**|1:30 pm|
 
-**Secondary** **1** **Discovery Camp 2021 – “Beacon of Truth & Light”**
+**Secondary** **1** **Discovery Camp 2024– “Beacon of Truth & Light”**
 
 As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp during the second week of school term. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2021.
 
