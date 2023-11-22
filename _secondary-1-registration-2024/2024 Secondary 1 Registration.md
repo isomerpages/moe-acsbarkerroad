@@ -16,7 +16,7 @@ Congratulations on your posting to ACS (Barker Road) to commence your secondary 
 
 As a first step, please complete the **online registration** following the instructions below:
 
-1\. Go to [https://go.gov.sg/acsbr2021s1reg](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Facsbr2021s1reg&sa=D&sntz=1&usg=AOvVaw32tncyuOaqItbD05Pim990).
+1\. Go to [https://go.gov.sg/acsbr2024s1reg](https://go.gov.sg/acsbr2024s1reg)
 
 2\. Complete all fields and click 'Submit'.
 
