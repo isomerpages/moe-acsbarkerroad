@@ -4,7 +4,7 @@ permalink: /admissions/2024-sec-1-registration/
 variant: markdown
 description: ""
 ---
-Click here for [Sec 1 Online Registration](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Facsbr2021s1reg&sa=D&sntz=1&usg=AOvVaw1LJiN-Fi02MrIcObB7KMrK)!
+Click here for [Sec 1 Online Registration](https://go.gov.sg/acsbr2024s1reg)
 
 --------------------------------------------------------------------------------------------------------------------
 ### **A warm welcome to our Secondary 1 Students!** ###
@@ -20,25 +20,19 @@ As a first step, please complete the **online registration** following the ins
 
 2\. Complete all fields and click 'Submit'.
 
-The online registration portal will open on **Wednesday, 23 December 2020** from **8:30 am**. Please complete the registration latest by **Sunday, 27 December 2020, 11:59 pm**.
+The online registration portal will open on **Thursday, 21 December 2023** from **8:30 am**. Please complete the registration latest by **Wednesday, 27 December 2023, 11:59 pm**.
 
 **Online Briefing for all Sec 1 students and parents**
 
-Slides of the briefing for all Sec 1 students and their parents at **8:30 am on Wednesday, 23 December** **2020** is appended for reference.
+There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December** **2023**.
 
-**Sec 1 e-MTP (Meet The Parent) Webinar and Virtual CCA Open House**
+**Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 e-MTP webinar and Virtual CCA Open House on **Friday, 8 January 2021 from 3:00 pm.**
+There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 6 January 2023 from 2 pm.**
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 2pm to 3.30pm
+* CCA Fair at various venues on-site ACS(BR) from 3.30pm - 5.00pm
 
-  
-
-Please click the link below to join the e-MTP on **8 January 2021** from 2:45 pm
-[Link](https://moe-singapore.zoom.us/j/83520992007](https://www.google.com/url?q=https%3A%2F%2Fmoe-singapore.zoom.us%2Fj%2F83520992007&sa=D&sntz=1&usg=AOvVaw027T0DG_oeol1qtQyzAGq-))
-
-Passcode: **448693**
-
-
-#### **Start of School in 2021 - Important Information for Students and Parents** ####
+#### **Start of School in 2024 - Important Information for Students and Parents** ####
 --------------------------------------------------------------------------------------------------------------------------------------
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
@@ -47,17 +41,17 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Daily reporting time:**
 
-Mondays, Tuesdays, Thursdays and Fridays: Students are to report to their classrooms by 7:35 am (Assembly will begin at 7:40 am sharp).
+Mondays, Tuesdays, Thursdays and Fridays: Students are to report to their reporting venues by 7:35 am (Assembly will begin at 7:40 am sharp).
 
-Wednesdays: Students are to report to their classrooms by 8:35 am (Assembly will begin at 8:40 am sharp).
+Wednesdays: Students are to report to their reporting venues by 8:35 am (Assembly will begin at 8:40 am sharp).
 
-Reporting venue: Classrooms
+Reporting venue: Auditorium or Tennis Courts / Classrooms (Inclement weather) 
 
-Note: Classrooms for Secondary 1 students are on Level 4 of the Secondary school academic block. Prefects will be present on the first day of school to direct the students to their classrooms. The classes of each student will be posted by 31 Dec 2020 on the school website, with login instructions.
+Prefects will be present on the first day of school to direct the students to the Auditorium/Classrooms.
 
 **Dismissal time:**
 
-Mondays, Tuesdays, Wednesdays and Thursdays: 2:30 pm (for Term 1 in 2021)
+Mondays, Tuesdays, Wednesdays and Thursdays: 2:30 pm
 
 Fridays: 1:30 pm (Muslim students are dismissed at 12:30 pm for Friday prayers at the mosques)
 
@@ -87,7 +81,6 @@ No gel, wax or any sort of hair product should be used.
 
 Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Students with such hairstyles or colours will be sent home to rectify it immediately.
 
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_eFp0nYbxjyPD)
 
 
 #### **Secondary 1 Orientation Programme** ####
