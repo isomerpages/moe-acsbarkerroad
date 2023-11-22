@@ -2,5 +2,5 @@ collections:
   admissions:
     output: true
     order:
-      - Secondary 1 Registration 2024.md
+      - 2024 Secondary 1 Registration.md
       - Admissions.md
