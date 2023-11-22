@@ -32,7 +32,7 @@ Passcode: 139819
 
 **Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 6 January 2024 from 2 pm.**
+There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 5 January 2024 from 2 pm.**
 * Sec 1 Meet The Parents at ACS(BR) Concert Hall from 2 pm to 3.30 pm
 * CCA Fair at various venues on-site ACS(BR) from 3.30 pm - 5 pm
 
@@ -98,8 +98,8 @@ To help our Secondary 1 students get to know their classmates and their new envi
 
 | Date | Timing |
 | -------- | -------- | 
-|**Week 1 Tue-Thurs (2-5 Jan)**|1 pm|
-|**Week 1 Fri (6 Jan)** | 1:30 pm followed by Meet-the-Parents session and CCA Fair|
+|**Week 1 Tue-Thurs (2-4 Jan)**|1 pm|
+|**Week 1 Fri (5 Jan)** | 1:30 pm followed by Meet-the-Parents session and CCA Fair|
 |**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
 |**Week 2 Fri (12 Jan)**|1:30 pm|
 
@@ -132,7 +132,7 @@ Items to bring: Packing list for the camp will be given to your son.
 
 **CCA trials and CCA registration for Sec 1 Students**
 
-More information on CCA trials and registration will be posted on the school CCA website on 4 January 2021: [ACSBR CCA Site](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Facsbr.org%2Fcca%2Fhome&sa=D&sntz=1&usg=AOvVaw3xAa9CX91cjeX8OSwrSeMi)
+More information on CCA trials and registration will be posted on the school CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
 
 Note: There will be no trials scheduled during the Sec 1 Discovery Camp (14, 15 and 18 January 2021)
 
