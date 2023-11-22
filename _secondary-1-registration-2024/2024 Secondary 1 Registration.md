@@ -130,13 +130,7 @@ Parents will be invited to attend the badge ceremony on **18 January at 1030am (
 
 **CCA trials and CCA registration for Sec 1 Students**
 
-More information on CCA trials and registration will be posted on the school CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
-
-Note: There will be no trials scheduled during the Sec 1 Discovery Camp (14, 15 and 18 January 2021)
-
-Should you have any queries, please email Mr Alvin Lim at [lim\_kar\_keng\_alvin@acsbr.moe.edu.sg](mailto:lim_kar_keng_alvin@acsbr.moe.edu.sg).
-
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_OgaaCSlQj32E)
+More information on CCA trials and registration will be posted on the school's CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
 
 
 #### **Purchase of Text Books** ####
