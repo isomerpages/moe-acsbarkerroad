@@ -99,13 +99,6 @@ To help our Secondary 1 students get to know their classmates and their new envi
 |**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
 |**Week 2 Fri (12 Jan)**|1:30 pm|
 
-
-
-
-
-
-  
-
 **Secondary** **1** **Discovery Camp 2021 – “Beacon of Truth & Light”**
 
 As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp during the second week of school term. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2021.
