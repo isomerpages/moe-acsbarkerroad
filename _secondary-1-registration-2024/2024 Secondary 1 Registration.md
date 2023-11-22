@@ -24,13 +24,13 @@ The online registration portal will open on **Thursday, 21 December 2023** from 
 
 **Online Briefing for all Sec 1 students and parents**
 
-There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December** **2023**.
+There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December 2023**.
 
 **Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 6 January 2023 from 2 pm.**
-* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 2pm to 3.30pm
-* CCA Fair at various venues on-site ACS(BR) from 3.30pm - 5.00pm
+There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 6 January 2024 from 2 pm.**
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 2 pm to 3.30 pm
+* CCA Fair at various venues on-site ACS(BR) from 3.30 pm - 5 pm
 
 #### **Start of School in 2024 - Important Information for Students and Parents** ####
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -45,7 +45,9 @@ Mondays, Tuesdays, Thursdays and Fridays: Students are to report to their report
 
 Wednesdays: Students are to report to their reporting venues by 8:35 am (Assembly will begin at 8:40 am sharp).
 
-Reporting venue: Auditorium or Tennis Courts / Classrooms (Inclement weather) 
+Reporting venue: 
+* Auditorium or Tennis Courts (Dry weather)
+* Classrooms (Inclement weather) 
 
 Prefects will be present on the first day of school to direct the students to the Auditorium/Classrooms.
 
@@ -86,7 +88,21 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 #### **Secondary 1 Orientation Programme** ####
 ------------------------------------------------------------------------------------------------------------------------
 
-To help our Secondary 1 students get to know their classmates and their new environment, the Secondary 1 Orientation programme will be held on **4 and 5 January 2021**. They will be dismissed at 2:30 pm on both days.
+To help our Secondary 1 students get to know their classmates and their new environment, the Secondary 1 Orientation programme will be held from 2 Jan to 12 Jan. Dismissal timing are as follows:
+
+
+
+| Date | Timing |
+| -------- | -------- | 
+|**Week 1 Tue-Thurs (2-5 Jan)**|1 pm|
+|**Week 1 Fri (6 Jan)** | 1:30 pm followed by Meet-the-Parents session and CCA Fair|
+|**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
+|**Week 2 Fri (12 Jan)**|1:30 pm|
+
+
+
+
+
 
   
 
