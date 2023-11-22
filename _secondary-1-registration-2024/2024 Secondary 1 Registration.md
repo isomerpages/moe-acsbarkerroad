@@ -26,7 +26,7 @@ The online registration portal will open on **Thursday, 21 December 2023** from 
 
 There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December 2023**.
 
-When: Dec 21, 2023 08:00 AM Singapore
+When: Dec 21, 2023 08:30 AM Singapore
 Topic: Anglo-Chinese School (Barker Road) Secondary 1 Briefing
 
 Please click the link below to join the webinar:
