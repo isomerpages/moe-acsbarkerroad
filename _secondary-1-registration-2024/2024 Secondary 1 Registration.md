@@ -105,27 +105,27 @@ To help our Secondary 1 students get to know their classmates and their new envi
 
 **Secondary** **1** **Discovery Camp 2024– “Beacon of Truth & Light”**
 
-As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp during the second week of school term. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2021.
+As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2024.
 
 The details of the camp are as follows:
 
-Date: **14, 15 and 18 January 2021 (Thursday, Friday and Monday)**
+Date: **15 to 18 January 2024 (Monday to Thursday)**
 
-Venue: **Anglo-Chinese School (Barker Road)**
+Venue: **Jalan Bahtera MOE Outdoor Adventure Learning Centre (OALC)**
 
-Reporting on **14 January 2021****, 7****:30 am @ Assembly (Classrooms)**
+Reporting on **15 January 2024, 7:30 am @ School**
 
 Reporting attire: **PE attire**
-
-**Dismissal Time on 14 and 15 January 2021****, 5:30** **pm from school**
-
-**Dismissal Time on 1****8** **January 2021****,** **2:30pm**
 
 Cost: Nil
 
 Items to bring: Packing list for the camp will be given to your son.
 
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_aVqjDcL0j1Vq)
+*   Parents will be invited to attend the badge ceremony on 18 January at 1030am (in school).
+    
+*   More information will be disseminated via Parents Gateway nearer to date. 
+    
+Fri 19 Jan, will be Wellness Day for Sec 1 Students to rest at home after the Camp.
 
 #### **Sec 1 CCA Registration Matters** #####
 ---------------------------------------------------------------------------------------------------------------------
