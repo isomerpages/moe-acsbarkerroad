@@ -136,7 +136,7 @@ More information on CCA trials and registration will be posted on the school's C
 #### **Purchase of Text Books** ####
 -------------------------------------------------------------------------------------------------------------
 
-The Secondary 1 booklists can be downloaded from this [**LINK**](https://www.google.com/url?q=https%3A%2F%2Fwww.acsbr.moe.edu.sg%2Fschool-information%2Fbooklist-for-2021&sa=D&sntz=1&usg=AOvVaw1aEKQdBSdbIy_B2gYVuw1R).
+The Secondary 1 booklists can be downloaded from this [LINK](https://www.acsbr.moe.edu.sg/parents/booklist/).
 
 You may purchase the school books from the school vendor, Pacific Bookstores.
 
