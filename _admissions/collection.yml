@@ -2,4 +2,4 @@ collections:
   admissions:
     output: true
     order:
-      - Main.md
+      - Admissions.md
