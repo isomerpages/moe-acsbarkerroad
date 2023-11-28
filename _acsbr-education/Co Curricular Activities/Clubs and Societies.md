@@ -3,6 +3,7 @@ title: Clubs and Societies
 permalink: /education/cca/clubs-and-societies/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### **Clubs and Societies**
 	
@@ -20,6 +21,6 @@ third_nav_title: Co Curricular Activities
 
 <br clear="left">	
 
-<p><a href="https://sites.google.com/acsbr.org/christiansociety/home">
+<p><a href="https://sites.google.com/moe.edu.sg/acts/home">
 <img src="/images/ccas4.jpg" style="width:33%" align="left">
 </a></p>
