@@ -11,9 +11,3 @@ Anglo-Chinese School (Barker Road) has been one of the pioneers in using technol
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021. Given that the school has been on 1-to-1 Learning for the past decade, it was a seamless transition for the school and the students to PDLP.
 
 <img src="/images/1to1learning.jpg" style="width:75%">
-
-```
-<div style="font-family:Helvetica; font-size:2.6vw; font-weight:bold;">
-
-</div>
-```
