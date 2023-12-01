@@ -1,10 +1,10 @@
 ---
-title: Secondary 1 Registration 2024
-permalink: /secondary-1-registration-2024/s1registration2024/
+title: 2024 Secondary 1 Registration
+permalink: /admissions/2024-sec-1-registration/
 variant: markdown
 description: ""
 ---
-Click here for [Sec 1 Online Registration](http://www.google.com/url?q=http%3A%2F%2Fgo.gov.sg%2Facsbr2021s1reg&sa=D&sntz=1&usg=AOvVaw1LJiN-Fi02MrIcObB7KMrK)!
+Click here for [Sec 1 Online Registration](https://go.gov.sg/acsbr2024s1reg)
 
 --------------------------------------------------------------------------------------------------------------------
 ### **A warm welcome to our Secondary 1 Students!** ###
@@ -16,29 +16,27 @@ Congratulations on your posting to ACS (Barker Road) to commence your secondary 
 
 As a first step, please complete the **online registration** following the instructions below:
 
-1\. Go to [https://go.gov.sg/acsbr2021s1reg](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Facsbr2021s1reg&sa=D&sntz=1&usg=AOvVaw32tncyuOaqItbD05Pim990).
+1\. Go to [https://go.gov.sg/acsbr2024s1reg](https://go.gov.sg/acsbr2024s1reg)
 
 2\. Complete all fields and click 'Submit'.
 
-The online registration portal will open on **Wednesday, 23 December 2020** from **8:30 am**. Please complete the registration latest by **Sunday, 27 December 2020, 11:59 pm**.
+The online registration portal will open on **Thursday, 21 December 2023** from **8:30 am**. Please complete the registration latest by **Wednesday, 27 December 2023, 11:59 pm**.
 
 **Online Briefing for all Sec 1 students and parents**
 
-Slides of the briefing for all Sec 1 students and their parents at **8:30 am on Wednesday, 23 December** **2020** is appended for reference.
+There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December 2023**.
 
-**Sec 1 e-MTP (Meet The Parent) Webinar and Virtual CCA Open House**
+Please click the link below to join the webinar:
+https://moe-singapore.zoom.us/j/89103611386
+Passcode: 139819
 
-There will be a Sec 1 e-MTP webinar and Virtual CCA Open House on **Friday, 8 January 2021 from 3:00 pm.**
+**Sec 1 Meet The Parent and CCA Fair**
 
-  
+There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 5 January 2024 from 2 pm.**
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 2 pm to 3.30 pm
+* CCA Fair at various venues on-site ACS(BR) from 3.30 pm - 5 pm
 
-Please click the link below to join the e-MTP on **8 January 2021** from 2:45 pm
-[Link](https://moe-singapore.zoom.us/j/83520992007](https://www.google.com/url?q=https%3A%2F%2Fmoe-singapore.zoom.us%2Fj%2F83520992007&sa=D&sntz=1&usg=AOvVaw027T0DG_oeol1qtQyzAGq-))
-
-Passcode: **448693**
-
-
-#### **Start of School in 2021 - Important Information for Students and Parents** ####
+#### **Start of School in 2024 - Important Information for Students and Parents** ####
 --------------------------------------------------------------------------------------------------------------------------------------
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
@@ -47,17 +45,19 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Daily reporting time:**
 
-Mondays, Tuesdays, Thursdays and Fridays: Students are to report to their classrooms by 7:35 am (Assembly will begin at 7:40 am sharp).
+Mondays, Tuesdays, Thursdays and Fridays: Students are to report to their reporting venues by 7:35 am (Assembly will begin at 7:40 am sharp).
 
-Wednesdays: Students are to report to their classrooms by 8:35 am (Assembly will begin at 8:40 am sharp).
+Wednesdays: Students are to report to their reporting venues by 8:35 am (Assembly will begin at 8:40 am sharp).
 
-Reporting venue: Classrooms
+Reporting venue: 
+* Auditorium or Tennis Courts (Dry weather)
+* Classrooms (Inclement weather) 
 
-Note: Classrooms for Secondary 1 students are on Level 4 of the Secondary school academic block. Prefects will be present on the first day of school to direct the students to their classrooms. The classes of each student will be posted by 31 Dec 2020 on the school website, with login instructions.
+Prefects will be present on the first day of school to direct the students to the Auditorium/Classrooms.
 
 **Dismissal time:**
 
-Mondays, Tuesdays, Wednesdays and Thursdays: 2:30 pm (for Term 1 in 2021)
+Mondays, Tuesdays, Wednesdays and Thursdays: 2:30 pm
 
 Fridays: 1:30 pm (Muslim students are dismissed at 12:30 pm for Friday prayers at the mosques)
 
@@ -87,58 +87,56 @@ No gel, wax or any sort of hair product should be used.
 
 Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Students with such hairstyles or colours will be sent home to rectify it immediately.
 
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_eFp0nYbxjyPD)
 
 
 #### **Secondary 1 Orientation Programme** ####
 ------------------------------------------------------------------------------------------------------------------------
 
-To help our Secondary 1 students get to know their classmates and their new environment, the Secondary 1 Orientation programme will be held on **4 and 5 January 2021**. They will be dismissed at 2:30 pm on both days.
+To help our Secondary 1 students get to know their classmates and their new environment, the Secondary 1 Orientation programme will be held from 2 Jan to 12 Jan. Dismissal timing are as follows:
 
-  
 
-**Secondary** **1** **Discovery Camp 2021 – “Beacon of Truth & Light”**
 
-As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp during the second week of school term. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2021.
+| Date | Timing |
+| -------- | -------- | 
+|**Week 1 Tue-Thurs (2-4 Jan)**|1 pm|
+|**Week 1 Fri (5 Jan)** | 1:30 pm followed by Meet-the-Parents session and CCA Fair|
+|**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
+|**Week 2 Fri (12 Jan)**|1:30 pm|
+
+**Secondary** **1** **Discovery Camp 2024– “Beacon of Truth & Light”**
+
+As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2024.
 
 The details of the camp are as follows:
 
-Date: **14, 15 and 18 January 2021 (Thursday, Friday and Monday)**
+Date: **15 to 18 January 2024 (Monday to Thursday)**
 
-Venue: **Anglo-Chinese School (Barker Road)**
+Venue: **Jalan Bahtera MOE Outdoor Adventure Learning Centre (OALC)**
 
-Reporting on **14 January 2021****, 7****:30 am @ Assembly (Classrooms)**
+Reporting on **15 January 2024, 7:30 am @ School**
 
 Reporting attire: **PE attire**
 
-**Dismissal Time on 14 and 15 January 2021****, 5:30** **pm from school**
-
-**Dismissal Time on 1****8** **January 2021****,** **2:30pm**
-
 Cost: Nil
 
-Items to bring: Packing list for the camp will be given to your son.
+Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date..
 
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_aVqjDcL0j1Vq)
+Parents will be invited to attend the badge ceremony on **18 January at 1030am (in school)**.
+
+**Fri 19 January, will be Wellness Day** for Sec 1 Students to rest at home after the Camp.
 
 #### **Sec 1 CCA Registration Matters** #####
 ---------------------------------------------------------------------------------------------------------------------
 
 **CCA trials and CCA registration for Sec 1 Students**
 
-More information on CCA trials and registration will be posted on the school CCA website on 4 January 2021: [ACSBR CCA Site](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Facsbr.org%2Fcca%2Fhome&sa=D&sntz=1&usg=AOvVaw3xAa9CX91cjeX8OSwrSeMi)
-
-Note: There will be no trials scheduled during the Sec 1 Discovery Camp (14, 15 and 18 January 2021)
-
-Should you have any queries, please email Mr Alvin Lim at [lim\_kar\_keng\_alvin@acsbr.moe.edu.sg](mailto:lim_kar_keng_alvin@acsbr.moe.edu.sg).
-
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_OgaaCSlQj32E)
+More information on CCA trials and registration will be posted on the school's CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
 
 
 #### **Purchase of Text Books** ####
 -------------------------------------------------------------------------------------------------------------
 
-The Secondary 1 booklists can be downloaded from this [**LINK**](https://www.google.com/url?q=https%3A%2F%2Fwww.acsbr.moe.edu.sg%2Fschool-information%2Fbooklist-for-2021&sa=D&sntz=1&usg=AOvVaw1aEKQdBSdbIy_B2gYVuw1R).
+The Secondary 1 booklists can be downloaded from this [LINK](https://www.acsbr.moe.edu.sg/parents/booklist/).
 
 You may purchase the school books from the school vendor, Pacific Bookstores.
 
