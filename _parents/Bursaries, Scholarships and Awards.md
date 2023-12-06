@@ -2,6 +2,7 @@
 title: Bursaries, Scholarships and Awards
 permalink: /parents/bursaries-scholarships-and-awards/
 description: ""
+variant: markdown
 ---
 ### **Bursaries, Scholarships and Awards**
 #### **Bursaries**
@@ -42,7 +43,6 @@ description: ""
 | **Ong Ai Teik Outstanding Student Leader Award** | Mr. Ong Ai Teik was a dedicated ACSian, first as a student, then a devoted teacher and later as a nurturing volunteer. Through his passionate interests, undying enthusiasm and dedicated leadership in the Boys’ Brigade and various sports, these activities under his charge blossomed.<br><br>A group of ex-students who have benefitted from his leadership aspire that such wonderful qualities should be encouraged and promoted through ACS, hence the Ong Ai Teik Fund was established to achieve said purpose. | 1. Individual Certificate of Recognition<br><br>2. Medallion | 1. Mandatory indicators:<br>- Leadership role in CCA<br>- Excellent participation and performance in his CCA<br>- Exemplary conduct<br>- Teacher/Coach’s recommendations, with special consideration  if supported by at least 50 students<br><br>2. Discretionary considerations:<br>- Outstanding personal achievements in other contributions to school, be it in academia or school representation<br>- Spearheaded initiatives for other students/ communities<br>- Participation with external organization(s) | No monetary incentives will be offered.<br><br>Student will be selected by a convening selection committee. |
 | **Tan Poh Soon Basketball and Tennis Scholarship** | These 4 annual scholarships are made possible through the generous sponsorship of Mr. Tan Poh Soon for current ACSians in their pursuit of sporting excellence. | Quantum value of $1,000 | Applicable to Sec 3 students who show exemplary conduct, good academic performance and have displayed talent in the sporting arena in the LLP.<br> | Student will be selected by a convening selection committee.<br> |
 | **Oldham Scholarships for Rugby and Waterpolo** | These 2 annual scholarships are made possible through the generous sponsorship of Mr. Cheo Chai Hong for current ACSians in their pursuit of sporting excellence. | Quantum value of $1,000 | Applicable to Sec 3 students who show exemplary conduct, good academic performance and have displayed talent in the sporting arena in the LLP.<br> | Student will be selected by a convening selection committee.<br> |
-| **Wan Fook Weng Drama and Debates Scholarship** | These 3 annual scholarships are sponsored by Mr. Wan Fook Weng, former principal of ACJC in support of current ACSians in their pursuit of Drama, Debates, and the Performing Arts. | Quantum value of $1,000 | Applicable to Sec 3 students who show exemplary conduct, good academic performance and have displayed talent in Drama and Debates, and the Performing Arts.<br> | Student will be selected by a convening selection committee.<br> |
 |
 
 **_ACS (Barker Road) thanks all our sponsors for these various awards and scholarships._**
