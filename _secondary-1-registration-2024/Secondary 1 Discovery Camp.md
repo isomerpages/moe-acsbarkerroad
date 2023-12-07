@@ -4,42 +4,38 @@ permalink: /secondary-1-registration-2024/acscamp/
 variant: markdown
 description: ""
 ---
-#### **ACS (Barker Road) Outdoor Experiential Programme** ####
+#### **Secondary 1 Orientation Programme** ####
+------------------------------------------------------------------------------------------------------------------------
+
+To help our Secondary 1 students get to know their classmates and their new environment, the Secondary 1 Orientation programme will be held from 2 Jan to 12 Jan. Dismissal timing are as follows:
 
 
---------------------------------------------------------------------------------------------------------------------------------------
 
-In ACS (Barker Road), we believe in the holistic development of the individual through the school curriculum. Every ACS (Barker Road) student will undergo a progressive three-year Outdoor Experiential Programme from Secondary 1 to 3 which seeks to expose him to outdoor living, encourage independence, teamwork and resilience, and eventually develop his leadership potential. Outdoor Education capitalises on the learning opportunities afforded by an outdoor setting that are not possible in a classroom setting.
+| Date | Timing |
+| -------- | -------- | 
+|**Week 1 Tue-Thurs (2-4 Jan)**|1 pm|
+|**Week 1 Fri (5 Jan)** | 1:30 pm followed by Meet-the-Parents session and CCA Fair|
+|**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
+|**Week 2 Fri (12 Jan)**|1:30 pm|
 
-In the first year of the ACS (Barker Road) Outdoor Experiential Programme, all Secondary 1 students will undergo a 4D3N Discovery Camp where they will be exposed to outdoor elements and activities. In Secondary 3, they will further develop their ruggedness by undergoing a 5D4N expeditionary course at Outward Bound Singapore.
+**Secondary** **1** **Discovery Camp 2024– “Beacon of Truth & Light”**
 
-The ACS (Barker Road) Outdoor Experiential Programme is compulsory for every ACS (Barker Road) student.
-
-(https://sites.google.com/acsbr.org/s1registration2021/sec-1-discovery-camp#h.p_DkdYUctTlqBq)
-
-Secondary One Discovery Camp 2021 – “Beacon of Truth & Light”
-
-
---------------------------------------------------------------------------------------------------------------------------------------
-
-As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary One Discovery Camp during the second week of school term. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2021.
-
-  
+As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2024.
 
 The details of the camp are as follows:
 
-Date: **14, 15 and 18 January 2021 (Thursday, Friday and Monday)**
+Date: **15 to 18 January 2024 (Monday to Thursday)**
 
-Venue: **Anglo-Chinese School (Barker Road)**
+Venue: **Jalan Bahtera MOE Outdoor Adventure Learning Centre (OALC)**
 
-Reporting on **14 January 2021****, 7****:30 am @ Assembly (Classrooms)**
+Reporting on **15 January 2024, 7:30 am @ School**
 
 Reporting attire: **PE attire**
 
-**Dismissal Time on 14 and 15 January 2021****, 5:30** **pm from school**
+Cost: Nil
 
-**Dismissal Time on 1****8** **January 2021****,** **2:30pm**
+Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date..
 
-Cost: Free
+Parents will be invited to attend the badge ceremony on **18 January at 1030am (in school)**.
 
-Items to bring: Packing list for the camp will be given to your son.**
+**Fri 19 January, will be Wellness Day** for Sec 1 Students to rest at home after the Camp.
