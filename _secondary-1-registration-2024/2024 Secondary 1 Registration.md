@@ -95,14 +95,6 @@ No gel, wax or any sort of hair product should be used.
 
 Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Students with such hairstyles or colours will be sent home to rectify it immediately.
 
-
-#### **Sec 1 CCA Registration Matters** #####
----------------------------------------------------------------------------------------------------------------------
-
-**CCA trials and CCA registration for Sec 1 Students**
-
-More information on CCA trials and registration will be posted on the school's CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
-
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
 FAS application form can be found at [here](https://go.gov.sg/acsbr-fas)
