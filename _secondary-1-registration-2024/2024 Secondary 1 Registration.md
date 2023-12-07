@@ -105,17 +105,6 @@ Students applying for financial aid, please purchase your books and school unifo
 
 Households with students who need assistance for home broadband connectivity, can apply for the [Home Access Progam](http://www.digitalaccess.gov.sg/ ).
 
-#### **Chromebooks (Personal Learning Devices)** ####
---------------------------------------------------------------------------------------------------
-
-The school has been on the 1:1 Learning (1 student to 1 computing device) programme since 2012 where ICT is closely integrated into the students’ core and co-curriculums. Within the academic domain, students use their computing devices for collaborating, research and creating artefacts of their learning. On the character front, students are also challenged to think about their values in making responsible decisions while using technology. From 2021, the school's 1:1 Learning will be aligned to the MOE [Personalised Digital Learning Programme (PDLP)](https://www.google.com/url?q=https%3A%2F%2Fwww.straitstimes.com%2Fpolitics%2Feach-secondary-student-to-get-learning-device-by-next-year&sa=D&sntz=1&usg=AOvVaw35gk7RuFwNll2QUtyxc1-h).
-
-Your son is required to purchase a chromebook for 1:1 Learning. You can find more details about the chromebook purchase at this [link](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase).
-
-1:1 Learning for the Sec 1s will commence from 29th March 2021 and students should bring their chromebooks to school daily for their learning.
-
-Once again, we want to welcome you to ACS (Barker Road) . The next few years will be a time of growing and development for our young men. It will be interesting and exciting as we see each become an ACS Gentleman, for we know that The Best Is Yet To Be!
-
 #### **Communication with Parents/Guardians** ####
 --------------------------------------------------------------------------------------------------
 Parents Gateway is our primary mode of communication with parents/guardians. 
@@ -127,3 +116,14 @@ Parents/Guardians may contact the class form teachers via email.
 ![](/images/Screenshot_2023_12_07_101141.png)
 
 You may contact my Year Head (Lower Sec), Mdm Koh Poh Li at koh_poh_li@moe.edu.sg or her Assistant Year Head (Lower Sec), Ms Pearlyn Khoo at pearlyn_khoo_bei_ling@moe.edu.sg for any clarification.
+
+#### **Chromebooks (Personal Learning Devices)** ####
+--------------------------------------------------------------------------------------------------
+
+The school has been on the 1:1 Learning (1 student to 1 computing device) programme since 2012 where ICT is closely integrated into the students’ core and co-curriculums. Within the academic domain, students use their computing devices for collaborating, research and creating artefacts of their learning. On the character front, students are also challenged to think about their values in making responsible decisions while using technology. From 2021, the school's 1:1 Learning will be aligned to the MOE [Personalised Digital Learning Programme (PDLP)](https://www.google.com/url?q=https%3A%2F%2Fwww.straitstimes.com%2Fpolitics%2Feach-secondary-student-to-get-learning-device-by-next-year&sa=D&sntz=1&usg=AOvVaw35gk7RuFwNll2QUtyxc1-h).
+
+Your son is required to purchase a chromebook for 1:1 Learning. You can find more details about the chromebook purchase at this [link](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase).
+
+1:1 Learning for the Sec 1s will commence from 29th March 2021 and students should bring their chromebooks to school daily for their learning.
+
+Once again, we want to welcome you to ACS (Barker Road) . The next few years will be a time of growing and development for our young men. It will be interesting and exciting as we see each become an ACS Gentleman, for we know that The Best Is Yet To Be!
