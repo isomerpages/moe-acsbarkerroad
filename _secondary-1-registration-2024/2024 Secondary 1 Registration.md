@@ -10,17 +10,15 @@ Click here for [Sec 1 Online Registration](https://go.gov.sg/acsbr2024s1reg)
 ### **A warm welcome to our Secondary 1 Students!** ###
 --------------------------------------------------------------------------------------------------------------------
 
-Congratulations on your posting to ACS (Barker Road) to commence your secondary school education. It will be a new phase of your development and we are happy to welcome you to be part of the family.
+Congratulations! Your son/ward has finished his Primary School education and is embarking on his Secondary School education journey with us at ACS (Barker Road). A warm welcome in joining us in our ACS family of schools. We hope to work closely in partnership with you as we journey alongside you to nurture and develop your son/ward holistically. 
 
 **Sec 1 Online Registration**
 
-As a first step, please complete the **online registration** following the instructions below:
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in the registration form at  https://go.gov.sg/acsbr2024s1reg by 26 Dec 2023, 12 pm.
 
-1\. Go to [https://go.gov.sg/acsbr2024s1reg](https://go.gov.sg/acsbr2024s1reg)
+**Offer Letter for subjects at More Demanding Level (MDL)**
 
-2\. Complete all fields and click 'Submit'.
-
-The online registration portal will open on **Thursday, 21 December 2023** from **8:30 am**. Please complete the registration latest by **Wednesday, 27 December 2023, 11:59 pm**.
+Parents/Guardians whose child/ward is eligible to do certain subjects at a MDL, will be receiving another PG notification on this. A response will be required on that PG notification. 
 
 **Online Briefing for all Sec 1 students and parents**
 
@@ -41,27 +39,41 @@ There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 5 January 2024
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
 
-**Reporting and Dismissal Time**
+**Arrival and Dismissal Procedures**
 
-**Daily reporting time:**
+School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are expected to be at the tennis courts for morning assembly by 7.35am daily, except for Wednesdays at 8.35am. Students are to report to school in their school uniform daily. 
 
-Mondays, Tuesdays, Thursdays and Fridays: Students are to report to their reporting venues by 7:35 am (Assembly will begin at 7:40 am sharp).
+Dismissal is at 2.30pm daily, except for Fridays at 1.30pm. 
+(Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different; refer to para 4 for details)
 
-Wednesdays: Students are to report to their reporting venues by 8:35 am (Assembly will begin at 8:40 am sharp).
+**Recess Timing and Snack Break**
 
-Reporting venue: 
-* Auditorium or Tennis Courts (Dry weather)
-* Classrooms (Inclement weather) 
+The Lower Secondary levels will have their recess from11:00-11:30am daily. 
 
-Prefects will be present on the first day of school to direct the students to the Auditorium/Classrooms.
+They will have a 5-min snack break in class at 1pm daily, except for Friday which is a shorter day. The intent of the snack break is to allow students to have a light snack that can provide them with an energy boost and help them to be better focused in class. The snack should be small, healthy, and easily consumed within 5 minutes, without leaving a mess.
 
-**Dismissal time:**
 
-Mondays, Tuesdays, Wednesdays and Thursdays: 2:30 pm
+| Foods Items Allowed for Snack Break (1:00pm)|
+| -------- | 
+| Energy Bars/ Nuts | 
+| Plain Water | 
+| Fruits (Cut or Whole) | 
+| Dried Food (Biscuits/ Chips (Healthy Symbol)/ Cereal | 
+| Waffles/ Pau/ Muffins | 
+|
 
-Fridays: 1:30 pm (Muslim students are dismissed at 12:30 pm for Friday prayers at the mosques)
+  Food items not allowed during snack breaks include
+i. Sweets and chocolates
+ii. Drinks other than plain water are not allowed (this includes Ayataka & Oolong tea)
+iii. Junk/Fried food
+iv. Entire packets of rice/noodles/pasta, etc.
 
-Depending on the student's involvement in CCAs, Academic Coaching or school programme (such as Learning Journeys, Values-In-Action), he may have a different dismissal time on the day of activities.
+**Parking on campus**
+
+Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped. Other designated drop-off/pick-up points include the Chancery Lane Activity Area and Gate C, along Barker Road. 
+
+To prevent traffic congestion and crowding outside the school gate, LTA does not allow any vehicle to wait outside the school gate along Barker Road and Dunearn Road. LTA will take enforcement action against vehicles found waiting/parking at this stretch (please refer to the map). Should you arrive too early for immediate pick-up, please utilise the pick-up/drop off space located near Chancery Lane.
+![](/images/Picture2.png)
 
 **School Uniform and Badge**
 
@@ -88,43 +100,6 @@ No gel, wax or any sort of hair product should be used.
 Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Students with such hairstyles or colours will be sent home to rectify it immediately.
 
 
-
-#### **Secondary 1 Orientation Programme** ####
-------------------------------------------------------------------------------------------------------------------------
-
-To help our Secondary 1 students get to know their classmates and their new environment, the Secondary 1 Orientation programme will be held from 2 Jan to 12 Jan. Dismissal timing are as follows:
-
-
-
-| Date | Timing |
-| -------- | -------- | 
-|**Week 1 Tue-Thurs (2-4 Jan)**|1 pm|
-|**Week 1 Fri (5 Jan)** | 1:30 pm followed by Meet-the-Parents session and CCA Fair|
-|**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
-|**Week 2 Fri (12 Jan)**|1:30 pm|
-
-**Secondary** **1** **Discovery Camp 2024– “Beacon of Truth & Light”**
-
-As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2024.
-
-The details of the camp are as follows:
-
-Date: **15 to 18 January 2024 (Monday to Thursday)**
-
-Venue: **Jalan Bahtera MOE Outdoor Adventure Learning Centre (OALC)**
-
-Reporting on **15 January 2024, 7:30 am @ School**
-
-Reporting attire: **PE attire**
-
-Cost: Nil
-
-Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date..
-
-Parents will be invited to attend the badge ceremony on **18 January at 1030am (in school)**.
-
-**Fri 19 January, will be Wellness Day** for Sec 1 Students to rest at home after the Camp.
-
 #### **Sec 1 CCA Registration Matters** #####
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -135,36 +110,33 @@ More information on CCA trials and registration will be posted on the school's C
 
 #### **Purchase of Text Books** ####
 -------------------------------------------------------------------------------------------------------------
+You can obtain the book list on our school website at https://www.acsbr.moe.edu.sg/parents/booklist/ 
 
-The Secondary 1 booklists can be downloaded from this [LINK](https://www.acsbr.moe.edu.sg/parents/booklist/).
-
-You may purchase the school books from the school vendor, Pacific Bookstores.
-
-Online purchase at: [https://www.pacificbookstores.com/](https://www.google.com/url?q=https%3A%2F%2Fwww.pacificbookstores.com%2F&sa=D&sntz=1&usg=AOvVaw02a6UfHYca8vzOFAWrS7l7). **Online order must be placed between 22 to 27 December 2020.**
-
-At the point of online ordering, you can select home delivery or select the self-collection option to pick up the books from the school campus between 28 to 30 December 2020 (9:00 am to 3:00 pm). The book shop will be opened from 9:00 am to 12:00 pm on 31 Dec 2020.
-
-You can visit the vendor's website for more information: [https://www.pacificbookstores.com/](https://www.google.com/url?q=https%3A%2F%2Fwww.pacificbookstores.com%2F&sa=D&sntz=1&usg=AOvVaw02a6UfHYca8vzOFAWrS7l7).
-
-Alternatively, you can email them at acsb@pacificbookstores.com or contact them at 6559 2269.
-(https://sites.google.com/acsbr.org/s1registration2021/home#h.p_QPd-_hocj6wX)
-
+You are encouraged to purchase your textbooks via the Pacific Bookstores online platform at https://www.pacificbookstores.com. You may choose between Home Delivery and Self-Collection at the School Bookshop.
 
 #### **Purchase of Uniform** ####
 ----------------------------------------------------------------------------------------------------------
+You can purchase the uniforms at the following address:
 
-You may purchase the school uniform from the school vendor, Bibi & Baba.
+**Bibi & Baba,
+#02-28, Far East Shopping Centre
+545 Orchard Road,
+Singapore 238882**
 
-Online purchase at: [https://www.schooluniforms.sg/bb-acs-barker-road](https://www.google.com/url?q=https%3A%2F%2Fwww.schooluniforms.sg%2Fbb-acs-barker-road&sa=D&sntz=1&usg=AOvVaw2R1g1lNdV9xwRLuNkz80fd)
+For made to measure uniforms, please call 6271 9248 (Main line) for operating hours and made to measure appointment before visiting 213 Henderson Road, #01-12, Singapore 159553.
 
-For this year, **online order must be placed between 22 to 25 December 2020.**
+More information can be found on the Bibi & Baba website at http://bibibaba.com/
 
-At the point of online ordering, you can select home delivery or select the self-collection option to pick up the uniform from the school campus between 28 to 30 December 2020 (9:00 am to 4:00 pm).
+#### **Financial Assistance Scheme (FAS) Matters** ####
+--------------------------------------------------------------------------------------------------
+For more information on financial support, you may visit our school website at https://www.acsbr.moe.edu.sg/parents/financial-support/ 
 
-After 25 December 2020, uniform can only be purchased from Bibi & Baba's retail shops. You can visit the vendor's website for their retail shop information and opening hours: [http://www.bibibaba.com/](http://www.google.com/url?q=http%3A%2F%2Fwww.bibibaba.com%2F&sa=D&sntz=1&usg=AOvVaw2YMNsqgoYi2sWURR3bclEx)
+FAS application form can be found at https://go.gov.sg/acsbr-fas
+To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2023, 12pm. 
+ 
+Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
 
-  (https://sites.google.com/acsbr.org/s1registration2021/home#h.p_KXPPhRRDj9Oz)
-
+Households with students who need assistance for home broadband connectivity, can apply for the Home Access programme at http://www.digitalaccess.gov.sg/ 
 
 #### **Chromebooks (Personal Learning Devices)** ####
 --------------------------------------------------------------------------------------------------
@@ -177,8 +149,14 @@ Your son is required to purchase a chromebook for 1:1 Learning. You can find mor
 
 Once again, we want to welcome you to ACS (Barker Road) . The next few years will be a time of growing and development for our young men. It will be interesting and exciting as we see each become an ACS Gentleman, for we know that The Best Is Yet To Be!
 
-  
+#### **Communication with Parents/Guardians** ####
+--------------------------------------------------------------------------------------------------
+Parents Gateway is our primary mode of communication with parents/guardians. 
+https://pg.moe.edu.sg/
 
-Mr Loo Ming Yaw
+The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en&gl=US&pli=1) phones
 
-Principal
+Parents/Guardians may contact the class form teachers via email.
+![](/images/Screenshot_2023_12_07_101141.png)
+
+You may contact my Year Head (Lower Sec), Mdm Koh Poh Li at koh_poh_li@moe.edu.sg or her Assistant Year Head (Lower Sec), Ms Pearlyn Khoo at pearlyn_khoo_bei_ling@moe.edu.sg for any clarification.
