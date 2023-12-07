@@ -105,21 +105,19 @@ More information on CCA trials and registration will be posted on the school's C
 
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
-For more information on financial support, you may visit our school website at https://www.acsbr.moe.edu.sg/parents/financial-support/ 
-
-FAS application form can be found at https://go.gov.sg/acsbr-fas
+FAS application form can be found at [here](https://go.gov.sg/acsbr-fas)
 To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2023, 12pm. 
  
 Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
 
-Households with students who need assistance for home broadband connectivity, can apply for the Home Access programme at http://www.digitalaccess.gov.sg/ 
+Households with students who need assistance for home broadband connectivity, can apply for the [Home Access Progam](http://www.digitalaccess.gov.sg/ ).
 
 #### **Chromebooks (Personal Learning Devices)** ####
 --------------------------------------------------------------------------------------------------
 
 The school has been on the 1:1 Learning (1 student to 1 computing device) programme since 2012 where ICT is closely integrated into the students’ core and co-curriculums. Within the academic domain, students use their computing devices for collaborating, research and creating artefacts of their learning. On the character front, students are also challenged to think about their values in making responsible decisions while using technology. From 2021, the school's 1:1 Learning will be aligned to the MOE [Personalised Digital Learning Programme (PDLP)](https://www.google.com/url?q=https%3A%2F%2Fwww.straitstimes.com%2Fpolitics%2Feach-secondary-student-to-get-learning-device-by-next-year&sa=D&sntz=1&usg=AOvVaw35gk7RuFwNll2QUtyxc1-h).
 
-Your son is required to purchase a chromebook for 1:1 Learning. You can find more details about the chromebook purchase at this [LINK](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase).
+Your son is required to purchase a chromebook for 1:1 Learning. You can find more details about the chromebook purchase at this [link](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase).
 
 1:1 Learning for the Sec 1s will commence from 29th March 2021 and students should bring their chromebooks to school daily for their learning.
 
