@@ -4,7 +4,7 @@ permalink: /secondary-1-registration-2024/uniform/
 variant: markdown
 description: ""
 ---
-#### **Requirements** ####
+#### **Dress Code** ####
 
 
 ----------------
@@ -82,41 +82,3 @@ Please note the following for required attire and appearance for all our Lower S
 *   Recommended colours for watches are black or silver.
     
 *   Wearing of any other accessories on the wrist or fingers is not allowed.
-    
-(https://sites.google.com/acsbr.org/s1registration2021/uniform-requirements#h.p_GqbOpWtpmZY5)
-
-#### **Compulsory Items** ####
-
-
------------------------------------------------------------------------------------------------------------------------
-
-**Bibi&Baba**
-
-1.  School shirt
-    
-2.  School bermudas
-    
-3.  School tie
-    
-4.  School badge
-    
-5.  School or House PE T-shirt / tank-top
-    
-6.  School PE shorts
-    
-7.  ACS(BR) Socks
-    
-
-(https://sites.google.com/acsbr.org/s1registration2021/uniform-requirements#h.p_49hHEavCnC6N)
-
-#### **Optional Items** ####
-
-
----------------------------------------------------------------------------------------------------------------------
-
-*   School windcheater
-    
-
-_\*Note that the school varsity jacket is not sold by Bibi&Baba and the school bookshop. Orders would be taken on a once-a-year basis by the student leaders, for students who wish to own the school varsity jacket. The school varsity jacket is an optional item and is for students to iron-on the badges that would be given by the school for completion of their milestone level programmes and the CCA badge(s) that students can purchase._
-
-Should you require any clarification, you may contact the HoD Student Development at Tel: **62561633**.
