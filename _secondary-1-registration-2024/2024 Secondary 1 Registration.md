@@ -106,6 +106,7 @@ More information on CCA trials and registration will be posted on the school's C
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
 FAS application form can be found at [here](https://go.gov.sg/acsbr-fas)
+
 To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2023, 12pm. 
  
 Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
