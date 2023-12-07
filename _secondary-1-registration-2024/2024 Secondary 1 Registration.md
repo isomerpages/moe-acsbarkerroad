@@ -4,9 +4,7 @@ permalink: /admissions/2024-sec-1-registration/
 variant: markdown
 description: ""
 ---
-Click here for [Sec 1 Online Registration](https://go.gov.sg/acsbr2024s1reg)
 
---------------------------------------------------------------------------------------------------------------------
 ### **A warm welcome to our Secondary 1 Students!** ###
 --------------------------------------------------------------------------------------------------------------------
 
