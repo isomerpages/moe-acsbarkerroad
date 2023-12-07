@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2024:
     output: true
     order:
+      - CCA Matters.md
       - 2024 Secondary 1 Registration.md
       - Book List.md
       - Class Posting.md
