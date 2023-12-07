@@ -103,19 +103,6 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 
 More information on CCA trials and registration will be posted on the school's CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
 
-#### **Purchase of Uniform** ####
-----------------------------------------------------------------------------------------------------------
-You can purchase the uniforms at the following address:
-
-**Bibi & Baba,
-#02-28, Far East Shopping Centre
-545 Orchard Road,
-Singapore 238882**
-
-For made to measure uniforms, please call 6271 9248 (Main line) for operating hours and made to measure appointment before visiting 213 Henderson Road, #01-12, Singapore 159553.
-
-More information can be found on the Bibi & Baba website at http://bibibaba.com/
-
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
 For more information on financial support, you may visit our school website at https://www.acsbr.moe.edu.sg/parents/financial-support/ 
