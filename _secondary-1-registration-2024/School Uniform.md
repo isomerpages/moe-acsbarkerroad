@@ -4,6 +4,19 @@ permalink: /secondary-1-registration-2024/schooluniform/
 variant: markdown
 description: ""
 ---
+#### **Purchase of Uniform** ####
+----------------------------------------------------------------------------------------------------------
+You can purchase the uniforms at the following address:
+
+**Bibi & Baba,
+#02-28, Far East Shopping Centre
+545 Orchard Road,
+Singapore 238882**
+
+For made to measure uniforms, please call 6271 9248 (Main line) for operating hours and made to measure appointment before visiting 213 Henderson Road, #01-12, Singapore 159553.
+
+More information can be found on the Bibi & Baba [website](http://bibibaba.com/)
+
 #### **Dress Code** ####
 
 
