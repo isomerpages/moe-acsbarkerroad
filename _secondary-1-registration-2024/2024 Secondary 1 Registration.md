@@ -4,7 +4,6 @@ permalink: /admissions/2024-sec-1-registration/
 variant: markdown
 description: ""
 ---
-
 ### **A warm welcome to our Secondary 1 Students!** ###
 --------------------------------------------------------------------------------------------------------------------
 
@@ -12,7 +11,7 @@ Congratulations! Your son/ward has finished his Primary School education and is 
 
 **Sec 1 Online Registration**
 
-Parents/Guardians will need to complete the Sec 1 Registration process by filling in the registration form at  https://go.gov.sg/acsbr2024s1reg by 26 Dec 2023, 12 pm.
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in the [registration form](https://go.gov.sg/acsbr2024s1reg) by 26 Dec 2023, 12 pm.
 
 **Offer Letter for subjects at More Demanding Level (MDL)**
 
@@ -21,9 +20,8 @@ Parents/Guardians whose child/ward is eligible to do certain subjects at a MDL, 
 **Online Briefing for all Sec 1 students and parents**
 
 There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December 2023**.
+Please click the [here](https://moe-singapore.zoom.us/j/89103611386) to join the Zoom Webinar.
 
-Please click the link below to join the webinar:
-https://moe-singapore.zoom.us/j/89103611386
 Passcode: 139819
 
 **Sec 1 Meet The Parent and CCA Fair**
@@ -104,13 +102,6 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 **CCA trials and CCA registration for Sec 1 Students**
 
 More information on CCA trials and registration will be posted on the school's CCA website on 5 January 2024: [ACSBR CCA Site](https://sites.google.com/moe.edu.sg/acsbr-cca/)
-
-
-#### **Purchase of Text Books** ####
--------------------------------------------------------------------------------------------------------------
-You can obtain the book list on our school website at https://www.acsbr.moe.edu.sg/parents/booklist/ 
-
-You are encouraged to purchase your textbooks via the Pacific Bookstores online platform at https://www.pacificbookstores.com. You may choose between Home Delivery and Self-Collection at the School Bookshop.
 
 #### **Purchase of Uniform** ####
 ----------------------------------------------------------------------------------------------------------
