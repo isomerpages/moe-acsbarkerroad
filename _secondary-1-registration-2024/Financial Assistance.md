@@ -14,4 +14,4 @@ To avoid delay in your application, kindly submit the completed form together wi
  
 Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
 
-Households with students who need assistance for home broadband connectivity, can apply for the Home Access programme at http://www.digitalaccess.gov.sg/ 
+Households with students who need assistance for home broadband connectivity, can apply for the Home Access programme at http://www.digitalaccess.gov.sg/
