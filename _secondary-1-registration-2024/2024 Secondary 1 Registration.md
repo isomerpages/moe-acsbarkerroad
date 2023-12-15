@@ -11,7 +11,7 @@ Congratulations! Your son/ward has finished his Primary School education and is 
 
 **Sec 1 Online Registration**
 
-Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [FORM](https://go.gov.sg/acsbr2024s1reg) by 27 Dec 2023, 12 pm.
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2024s1reg) by 27 Dec 2023, 12 pm.
 
 **Offer Letter for subjects at More Demanding Level (MDL)**
 
@@ -64,7 +64,6 @@ The Lower Secondary levels will have their recess from 11:00-11:30am daily.
 
 They will have a 5-min snack break in class at 1pm daily, except for Friday which is a shorter day. The intent of the snack break is to allow students to have a light snack that can provide them with an energy boost and help them to be better focused in class. The snack should be small, healthy, and easily consumed within 5 minutes, without leaving a mess.
 
-
 | Foods Items Allowed for Snack Break (1:00pm)|
 | -------- | 
 | Energy Bars / Nuts | 
@@ -72,13 +71,14 @@ They will have a 5-min snack break in class at 1pm daily, except for Friday whic
 | Fruits (Cut or Whole) | 
 | Dried Food, e.g. Biscuits / Chips (Healthy Symbol) / Cereal | 
 | Waffles / Pau / Muffins | 
-|
 
-  Food items not allowed during snack breaks include:
-* Sweets and chocolates
-* Drinks other than plain water are not allowed (this includes Ayataka & Oolong tea)
-* Junk/Fried food
-* Entire packets of rice/noodles/pasta, etc.
+
+| Food items not allowed during snack breaks include: |
+| -------- | 
+| Sweets and chocolates |
+| Drinks other than plain water are not allowed (this includes Ayataka & Oolong tea) |
+| Junk/Fried food |
+| Entire packets of rice/noodles/pasta, etc. |
 
 **Parking on campus**
 
