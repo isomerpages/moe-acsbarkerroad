@@ -12,7 +12,7 @@ description: ""
 Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. The school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R756TN chromebook** for the 2024 Sec 1 cohort. The specifications of the chromebook are as follows:
 
 
-•	Acer R756TN chromebook
+Acer R756TN chromebook
 * Intel Processor N200 
 * 8 GB LPDDR5 RAM
 * 64GB eMMC
