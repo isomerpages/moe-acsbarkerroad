@@ -123,8 +123,8 @@ Households with students who need assistance for home broadband connectivity, ca
 
 #### **Communication with Parents/Guardians** ####
 --------------------------------------------------------------------------------------------------
-Parents Gateway is our primary mode of communication with parents/guardians. 
-https://pg.moe.edu.sg/
+Parents Gateway is our primary mode of communication with parents/guardians: 
+[https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)
 
 The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en&gl=US&pli=1) phones
 
