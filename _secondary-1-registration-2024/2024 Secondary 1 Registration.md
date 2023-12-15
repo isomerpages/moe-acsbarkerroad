@@ -91,7 +91,7 @@ To prevent traffic congestion and crowding outside the school gate, LTA does not
 
 Students are to report in their school uniform on the first day of school.
 
-The school uniform can be purchased from Bibi & Baba. Please refer to 'Purchase of Uniform' details found below.
+The school uniform can be purchased from Bibi & Baba. Please refer to 'School Uniform' webpage.
 
 The ACS badge and ACS(BR) socks are part of the school uniform and can be purchased from the school bookshop. _Do note however, that a badge will be presented to your son/ward on the first day of school during the Welcome Service._
 
