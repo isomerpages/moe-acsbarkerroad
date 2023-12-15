@@ -37,7 +37,7 @@ Total Cost with GST: **S$570.07**
 
 --------------------------------------------------------------------------------------------------------------------------
 
-A Device Management Application (“DMA”) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. 
+A Device Management Application (“DMA”) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices. The DMA is fully funded by MOE.
 
 The DMA has 3 main components which will support the use of the chromebook PLD in the classroom and safeguard students’ cyber wellness:
 *  Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
