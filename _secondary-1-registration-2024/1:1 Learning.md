@@ -5,10 +5,10 @@ variant: markdown
 description: ""
 ---
 #### **Personal Learning Device (Chromebook) Purchase** #####
+----------------------------------------------------
 
 **Hardware**
 
-----------------------------------------------------
 Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. The school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R756TN chromebook** for the 2024 Sec 1 cohort. The specifications of the chromebook are as follows:
 
 
@@ -33,8 +33,6 @@ Total Cost with GST: **S$570.07**
 
 **IT Applications**
 
-
---------------------------------------------------------------------------------------------------------------------------
 The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
 * Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
 *	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
@@ -43,9 +41,6 @@ The school will also progressively roll out IT applications that will be vital f
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
 
 **Device Management App (DMA)**
-
-
---------------------------------------------------------------------------------------------------------------------------
 
 A Device Management Application (DMA) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices. The DMA is fully funded by MOE.
 
@@ -56,14 +51,7 @@ The DMA has 3 main components which will support the use of the chromebook PLD i
 
 Please note that the school currently has a Block All Except Whitelist DMA policy in place for all our chromebook PLDs during school hours.
 
-
-
-
 **Procurement**
-
-
----------------------------------------------------------------------------------------------------------------------------
-
 
 Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
 
@@ -89,8 +77,6 @@ If you are unable to submit the form online, please contact the school for a har
 
 **Payment**
 
------------------------------------------------------------------------------------------------------------------------
-
 Each student would receive a personalised bill subsequently later in February/March 2024.
 
 For parents who have chose to pay by cash and are already on GIRO with MOE, the system will auto-deduct the charges from their GIRO account directly and they will not be required to pay cash or cheque.
@@ -99,10 +85,7 @@ For those parents who are not on GIRO, the school bill will indicate the outstan
 
 **Enquiries**
 
-
----------------------------------------------------------------------------------------------------------------------------
-
-FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are further questions, please email Mr Toh Hun Khim, Head of Department of Learning Technologies at [toh\_hun\_khim@moe.edu.sg](mailto:toh_hun_khim@moe.edu.sg)
+FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are further questions, please email Mr Toh Hun Khim, Head of Department of Learning Technologies at [toh_hun_khim@moe.edu.sg](mailto:toh_hun_khim@moe.edu.sg)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
