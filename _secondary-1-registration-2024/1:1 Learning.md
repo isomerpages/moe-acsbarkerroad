@@ -109,6 +109,6 @@ All Sec 1 students are to attend a **compulsory** ICT induction session. Purpo
 | 1T     | 1 Feb     | Thursday     | 3 pm to 3:45 pm |
 | Makeup for 1M, 1N, 1S and 1T     | 2 Feb     | Friday     | 2 pm to 2:45 pm |
 
-As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to CCA or valid reasons), they can join any session that are planned for other classes. Do email [acsbr_it@moe.edu.sg](mailto:acsbr_it@moe.edu.sg) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. 
+As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to CCA or any valid reasons), they can join any session that are planned for other classes or the makeup session every Friday. Do email [acsbr_it@moe.edu.sg](mailto:acsbr_it@moe.edu.sg) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. 
 
 Thank you.
