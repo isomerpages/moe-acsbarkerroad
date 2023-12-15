@@ -77,39 +77,20 @@ Subsidies are available for students who require funding support to purchase a P
 
 
 
-To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**] (Singpass to access). The online form will consist:
+To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**] (Singpass to access).
 
-*   Intent to Purchase. For parents/guardians to indicate intent to purchase PLD.
-*   Use of Edusave (for Singapore Citizens only). For parents/guardians who have opted to use their child’s/ward’s Edusave to pay for the PLD bundle.
-*   Collection of PLD (if purchasing). For parents/guardians to authorise their child/ward or an adult to collect the device on their behalf. You may appoint your child/ward to collect the PLD as the Vendor will run through a device checklist with the students at the point of collection to ensure that the device is in good working condition.
-    
+If you are unable to submit the form online, please contact the school for a hardcopy version.
 
-If you are unable to submit the form online, you can print the hardcopy version (**Annexes A to C** are appended below) and submit them to the school’s General Office.
-
-  
-
-Permanent Residents/International Students
-
-Subsidies will be provided for students from lower income families.
-
-Fill up hardcopy **Annex A: Intent to Purchase** form and submit to admin office.
-
-Parents could submit the **Annex C: Authorisation** Form if you would like to appoint your child/ward to collect his/her device personally
-
-**Annexes A, B and C - for parents/guardians without Singpass access**
-
-(https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase#h.y89x02lxmnkd)
 
 **Payment**
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Each student would receive a personalised bill subsequently in Feb 2021.
+Each student would receive a personalised bill subsequently later in February/March 2024.
 
 For parents who have chose to pay by cash and are already on GIRO with MOE, the system will auto-deduct the charges from their GIRO account directly and they will not be required to pay cash or cheque.
 
 For those parents who are not on GIRO, the school bill will indicate the outstanding amount which they will need to pay in either cash/cheque to the school or through AXS.
-(https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase#h.p_FPsa7LIojHhT)
 
 **Enquiries**
 
