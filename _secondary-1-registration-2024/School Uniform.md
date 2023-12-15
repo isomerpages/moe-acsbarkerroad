@@ -6,16 +6,23 @@ description: ""
 ---
 #### **Purchase of Uniform** ####
 ----------------------------------------------------------------------------------------------------------
-You can purchase the uniforms at the following address:
+Our school uniform vendor is Bibi & Baba Pte Ltd. 
+For online orders, you may purchase at https://www.schooluniforms.sg/bb-acs-barker-road-1
 
-**Bibi & Baba,
-#02-28, Far East Shopping Centre
-545 Orchard Road,
-Singapore 238882**
+*  Self-collection at (Orders can be collected after 4 working days) 
+**Bibi & Baba, #02-28, Far East Shopping Centre, 545 Orchard Road, Singapore 238882**
+*  Home delivery - Orders placed after 20 Dec 2023 (12pm), the delivery will be from 4 Jan 2024 onwards.
 
-For made to measure uniforms, please call 6271 9248 (Main line) for operating hours and made to measure appointment before visiting 213 Henderson Road, #01-12, Singapore 159553.
+Direct purchase can only be made during their operating hours.
 
-More information can be found on the Bibi & Baba [website](http://bibibaba.com/)
+| Operating Hours (1 to 31 Dec 2023) |
+| ----- |
+Mon – Sat	10 am to 7 pm
+Sun	10 am to 6 pm
+Dec 24 & 31	10 am to 4 pm
+Dec 25	CLOSED
+
+More information can be found on the Bibi & Baba [website](https://www.schooluniforms.sg/)
 
 #### **Dress Code** ####
 
