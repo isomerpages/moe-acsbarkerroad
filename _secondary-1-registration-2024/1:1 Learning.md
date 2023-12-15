@@ -77,7 +77,7 @@ Subsidies are available for students who require funding support to purchase a P
 
 
 
-To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**] (Singpass to access).
+To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**] (Singpass to access) by 12 Jan 2024.
 
 If you are unable to submit the form online, please contact the school for a hardcopy version.
 
