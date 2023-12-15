@@ -11,18 +11,11 @@ Congratulations! Your son/ward has finished his Primary School education and is 
 
 **Sec 1 Online Registration**
 
-Parents/Guardians will need to complete the Sec 1 Registration process by filling in the [registration form](https://go.gov.sg/acsbr2024s1reg) by 26 Dec 2023, 12 pm.
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [FORM](https://go.gov.sg/acsbr2024s1reg) by 27 Dec 2023, 12 pm.
 
 **Offer Letter for subjects at More Demanding Level (MDL)**
 
-Parents/Guardians whose child/ward is eligible to do certain subjects at a MDL, will be receiving another PG notification on this. A response will be required on that PG notification. 
-
-**Online Briefing for all Sec 1 students and parents**
-
-There will be an online briefing for all Sec 1 students and their parents at **8:30 am on Thursday, 21 December 2023**.
-Please click the [here](https://moe-singapore.zoom.us/j/89103611386) to join the Zoom Webinar.
-
-Passcode: 139819
+Parents/Guardians whose child/ward is eligible to do certain subjects at a MDL, will be receiving a Parents Gateway (PG) notification on this. A response will be required on that PG notification. 
 
 **Sec 1 Meet The Parent and CCA Fair**
 
@@ -40,11 +33,11 @@ To ensure you are well prepared for the start of your Secondary school journey w
 School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are expected to be at the tennis courts for morning assembly by 7.35am daily, except for Wednesdays at 8.35am. Students are to report to school in their school uniform daily. 
 
 Dismissal is at 2.30pm daily, except for Fridays at 1.30pm. 
-(Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different; refer to para 4 for details)
+(Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different)
 
 **Recess Timing and Snack Break**
 
-The Lower Secondary levels will have their recess from11:00-11:30am daily. 
+The Lower Secondary levels will have their recess from 11:00-11:30am daily. 
 
 They will have a 5-min snack break in class at 1pm daily, except for Friday which is a shorter day. The intent of the snack break is to allow students to have a light snack that can provide them with an energy boost and help them to be better focused in class. The snack should be small, healthy, and easily consumed within 5 minutes, without leaving a mess.
 
