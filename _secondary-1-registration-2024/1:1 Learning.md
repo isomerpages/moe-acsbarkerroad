@@ -44,7 +44,14 @@ The DMA has 3 main components which will support the use of the chromebook PLD i
 *  Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
 *  Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
-Please note that the school currently has a Block All Except Whitelist policy in place for all our chromebook PLDs during school hours.
+Please note that the school currently has a Block All Except Whitelist DMA policy in place for all our chromebook PLDs during school hours.
+
+The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
+* Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
+*	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
+*	Zoom: Every secondary school student will be given a free Zoom account with a 40 min time limit for their video conferencing needs.  
+
+The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
 
 
 **Procurement**
@@ -52,13 +59,25 @@ Please note that the school currently has a Block All Except Whitelist policy in
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-Singapore Citizens
 
-Students who are Singaporean citizens are allowed to draw on their Edusave Pupils Fund (EPF) to procure the chromebook bundle. This will minimise the cash out-of-pocket for parents. A one-time EPF top-up of $200 has been provided to all Primary and Secondary students in Apr 2020. This is on top of the annual contribution of $290 for Secondary students. Parents/guardians can also choose to pay cash for the chromebook bundle.
+Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students.
 
-Subsidies will be provided for MOE Financial Assistance Scheme (FAS) students and those from lower income families. Please note that it is compulsory for all existing students on the MOE FAS to use their Edusave to pay for the chromebook bundle, after subsidies have been granted.
+Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums due for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:
 
-To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fpdlpadmin&sa=D&sntz=1&usg=AOvVaw3VIflBwyK7tkU69jw0p6PB) (Singpass to access). The online form will consist:
+
+
+| Students eligible for subsidy | Income criteria | How to Apply for Subsidy |
+| -------- | -------- | -------- |
+| Students under MOE FAS | Gross Household Income (“GHI”) is $3,000 or less, or Per Capita Income (“PCI”)* is $750 or less | No action required. Automatically subsidised for the PLD.    |
+| Students under School-based FAS | GHI is $4,400 or less, or PCI is $1,100 or less | Approach the school’s General Office to apply for a subsidy. |
+ | Students who are currently not under the MOE FAS or School-based FAS | GHI is $4,400 or less, or PCI is $1,100 or less | Approach the school’s General Office to apply for a subsidy. |
+
+*PCI refers to the GHI divided by the total number of family members in the household.*
+
+
+
+
+To proceed with the purchase, please fill in the online form at this link: [**https://go.gov.sg/pdlpadmin**] (Singpass to access). The online form will consist:
 
 *   Intent to Purchase. For parents/guardians to indicate intent to purchase PLD.
 *   Use of Edusave (for Singapore Citizens only). For parents/guardians who have opted to use their child’s/ward’s Edusave to pay for the PLD bundle.
