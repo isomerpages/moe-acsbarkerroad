@@ -97,7 +97,7 @@ For those parents who are not on GIRO, the school bill will indicate the outstan
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-FAQs can be found [here](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-faq). If there are further questions, please email Mr Toh Hun Khim, Head of Department of Learning Technologies at [toh\_hun\_khim@moe.edu.sg](mailto:toh_hun_khim@moe.edu.sg)
+FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are further questions, please email Mr Toh Hun Khim, Head of Department of Learning Technologies at [toh\_hun\_khim@moe.edu.sg](mailto:toh_hun_khim@moe.edu.sg)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
