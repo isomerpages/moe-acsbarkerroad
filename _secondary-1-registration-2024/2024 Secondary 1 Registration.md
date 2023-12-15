@@ -115,7 +115,7 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 --------------------------------------------------------------------------------------------------
 FAS application form can be found at [here](https://go.gov.sg/acsbr-fas)
 
-To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2023, 12 pm. 
+To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 28th Dec 2023, 12 pm. Do note that the school admin office will be closed on 26 Dec 2023.
  
 Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
 
