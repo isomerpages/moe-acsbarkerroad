@@ -33,7 +33,17 @@ To ensure you are well prepared for the start of your Secondary school journey w
 School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are expected to be at the tennis courts for morning assembly by 7.35am daily, except for Wednesdays at 8.35am. Students are to report to school in their school uniform daily. 
 
 Dismissal is at 2.30pm daily, except for Fridays at 1.30pm. 
-(Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different)
+
+
+A typical school week is as follows: 
+
+| Day(s) | Start Time | Dismissal Time |
+| -------- | -------- | -------- |
+| Mon, Tue, Thurs | 7.40am | 2.30pm |
+| Wed (late start day) | 8.40am | 2.30pm |
+| Fri | 7.40am | 1.30pm |
+
+Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different.
 
 **Sec 1 Orientation Programme (2nd Jan – 12th Jan 2024)**
 
@@ -105,7 +115,7 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 --------------------------------------------------------------------------------------------------
 FAS application form can be found at [here](https://go.gov.sg/acsbr-fas)
 
-To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2023, 12pm. 
+To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2023, 12 pm. 
  
 Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
 
