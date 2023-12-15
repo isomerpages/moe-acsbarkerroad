@@ -91,7 +91,7 @@ To prevent traffic congestion and crowding outside the school gate, LTA does not
 
 Students are to report in their school uniform on the first day of school.
 
-The school uniform can be purchased from Bibi & Baba. Please refer to 'School Uniform' webpage.
+The school uniform can be purchased from Bibi & Baba. Please refer to the ['School Uniform' page](/schooluniform/).
 
 The ACS badge and ACS(BR) socks are part of the school uniform and can be purchased from the school bookshop. _Do note however, that a badge will be presented to your son/ward on the first day of school during the Welcome Service._
 
@@ -138,7 +138,7 @@ You may contact my Year Head (Lower Sec), Mdm Koh Poh Li at koh_poh_li@moe.edu.s
 
 The school has been on the 1:1 Learning (1 student to 1 computing device) programme since 2012 where ICT is closely integrated into the students’ core and co-curriculums. Within the academic domain, students use their computing devices for collaborating, research and creating artefacts of their learning. On the character front, students are also challenged to think about their values in making responsible decisions while using technology. Students in Anglo-Chinese School (Barker Road) have been using chromebooks as their Personal Learning Device for 1:1 Learning since 2016 and the school will leverage on the MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook procurement process. 
 
-Your son is required to purchase a chromebook for 1:1 Learning. More details will be provided during the Meet-The-Parent session on 5 Jan. You can also refer to this page and this [FAQ](https://go.gov.sg/acsbr-chromebook-faq) for more information.
+Your son is required to purchase a chromebook for 1:1 Learning. More details will be provided during the Meet-The-Parent session on 5 Jan. You can also refer to this [page](/11learning/) and this [FAQ](https://go.gov.sg/acsbr-chromebook-faq) for more information.
 
 1:1 Learning for the Sec 1s is scheduled to commence from Term 2 Week 2  and students should bring their chromebooks to school daily for their learning.
 
