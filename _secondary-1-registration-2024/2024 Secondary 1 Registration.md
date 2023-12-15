@@ -35,6 +35,19 @@ School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are
 Dismissal is at 2.30pm daily, except for Fridays at 1.30pm. 
 (Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different)
 
+**Sec 1 Orientation Programme (2nd Jan – 12th Jan 2024)**
+
+In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
+
+
+
+| Date(s) | Dismissal Time |
+| -------- | -------- |
+| Week 1 Tue – Thurs (2-4 Jan) | 1 pm |
+| Week 1 Fri 5 Jan     | 1:30 pm followed by Meet-the-Parents session and CCA Fair |
+| Week 2 Mon – Thurs (8-11 Jan) | 1 pm |
+| Week 2 Fri 12 Jan | 1:30 pm |
+
 **Recess Timing and Snack Break**
 
 The Lower Secondary levels will have their recess from 11:00-11:30am daily. 
