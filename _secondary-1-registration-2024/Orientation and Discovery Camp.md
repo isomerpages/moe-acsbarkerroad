@@ -40,4 +40,4 @@ Packing list for the camp will be given to your son and more information will be
 
 Parents will be invited to attend the badge ceremony on **18 January at 10:30am (in school)**.
 
-**Fri 19 January, will be Wellness Day** for Sec 1 Students to rest at home after the Camp.
+**Fri 19 January**, will be **Wellness Day** for Sec 1 Students to rest at home after the Camp.
