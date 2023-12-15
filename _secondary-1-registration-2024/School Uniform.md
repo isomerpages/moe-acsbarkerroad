@@ -17,10 +17,10 @@ Direct purchase can only be made during their operating hours.
 
 | Operating Hours (1 to 31 Dec 2023) |
 | ----- |
-Mon – Sat	10 am to 7 pm
-Sun	10 am to 6 pm
-Dec 24 & 31	10 am to 4 pm
-Dec 25	CLOSED
+| Mon – Sat	10 am to 7 pm |
+| Sun	10 am to 6 pm |
+| Dec 24 & 31	10 am to 4 pm |
+| Dec 25	CLOSED |
 
 More information can be found on the Bibi & Baba [website](https://www.schooluniforms.sg/)
 
