@@ -46,6 +46,8 @@ A typical school week is as follows: 
 Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different.
 
 **Sec 1 Orientation Programme (2nd Jan – 12th Jan 2024)**
+Students are to report to the **school auditorium** on 2 Jan 2024 for assembly by 7.35am in full school uniform. 
+Prefects will be around to assist your son/ward to find his way to the required venues. 
 
 In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
 
