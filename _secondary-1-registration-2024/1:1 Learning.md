@@ -31,13 +31,23 @@ In addition, the chromebook will be bundled with **3 years carry-in warranty an
 
 Total Cost with GST: **S$570.07**
 
+**IT Applications**
 
-**Software**
+
+--------------------------------------------------------------------------------------------------------------------------
+The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
+* Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
+*	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
+*	Zoom: Every secondary school student will be given a free Zoom account with a 40 min time limit for their video conferencing needs.  
+
+The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
+
+**Device Management App (DMA)**
 
 
 --------------------------------------------------------------------------------------------------------------------------
 
-A Device Management Application (“DMA”) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices. The DMA is fully funded by MOE.
+A Device Management Application (DMA) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices. The DMA is fully funded by MOE.
 
 The DMA has 3 main components which will support the use of the chromebook PLD in the classroom and safeguard students’ cyber wellness:
 *  Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
@@ -46,12 +56,7 @@ The DMA has 3 main components which will support the use of the chromebook PLD i
 
 Please note that the school currently has a Block All Except Whitelist DMA policy in place for all our chromebook PLDs during school hours.
 
-The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
-* Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
-*	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
-*	Zoom: Every secondary school student will be given a free Zoom account with a 40 min time limit for their video conferencing needs.  
 
-The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
 
 
 **Procurement**
@@ -105,12 +110,22 @@ FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are f
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to introduce them to the use of the school Gmail account and NTRIX. The induction will be conducted after school from **3 pm to 3:45 pm** at the **Computer Lab (Academic Block Level 3)**. Please refer to the schedule listed below for the stipulated dates/timing for each Sec 1 class.
+All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' ICON account and introduce them to the school's ICT systems. The induction will be conducted after school at the **Computer Lab (Academic Block Level 3)**. Please refer to the schedule listed below for the stipulated dates/timing for each Sec 1 class.
 
-_Induction session for 29 Jan (Fri) will take place from 2 pm to 2:45 pm instead._
 
-![](https://lh3.googleusercontent.com/i7k7YmX3Eg8xc_1LHCcZ6G4Vy0Zl4BQqtXaXutkx-12E1USLQbyU6UnoBi0ns4qkgDrxp83U0E_hjTeGdVPQ9Dg1Yh4lS3y_9SU3cSyNaOyUq3ZbqqYLk9MePhQgECw3ww=w1280)
+| Class | Date | Day | Timing |
+| -------- | -------- | -------- | -------- |
+| 1A     | 22 Jan     | Monday     | 3 pm to 3:45 pm |
+| 1C     | 23 Jan     | Tuesday     | 3 pm to 3:45 pm |
+| 1G     | 24 Jan     | Wednesday     | 3 pm to 3:45 pm |
+| 1L     | 25 Jan     | Thursday     | 3 pm to 3:45 pm |
+| Makeup for 1A, 1C, 1G and 1L     | 26 Jan     | Friday     | 2 pm to 2:45 pm |
+| 1M     | 29 Jan     | Monday     | 3 pm to 3:45 pm |
+| 1N     | 30 Jan     | Tuesday     | 3 pm to 3:45 pm |
+| 1S     | 31 Jan     | Wednesday    | 3 pm to 3:45 pm |
+| 1T     | 1 Feb     | Thursday     | 3 pm to 3:45 pm |
+| Makeup for 1M, 1N, 1S and 1T     | 2 Feb     | Friday     | 2 pm to 2:45 pm |
 
-As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to Academic Coaching, CCA or whatever reason), they can join any session that are planned for other classes. Do email [it\_helpdesk@acsbr.org](mailto:it_helpdesk@acsbr.org) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. Students from 1M do not need to stay back as their induction will be conducted during their CPA lessons.
+As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to CCA or valid reasons), they can join any session that are planned for other classes. Do email [acsbr_it@moe.edu.sg](mailto:acsbr_it@moe.edu.sg) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. 
 
-Please email Mr Toh Hun Khim at [toh\_hun\_khim@acsbr.moe.edu.sg](mailto:toh_hun_khim@acsbr.moe.edu.sg) for any clarifications. Thank you.
+Thank you.
