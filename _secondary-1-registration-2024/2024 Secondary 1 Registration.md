@@ -44,11 +44,11 @@ They will have a 5-min snack break in class at 1pm daily, except for Friday whic
 
 | Foods Items Allowed for Snack Break (1:00pm)|
 | -------- | 
-| Energy Bars/ Nuts | 
+| Energy Bars / Nuts | 
 | Plain Water | 
 | Fruits (Cut or Whole) | 
-| Dried Food (Biscuits/ Chips (Healthy Symbol)/ Cereal | 
-| Waffles/ Pau/ Muffins | 
+| Dried Food, e.g. Biscuits / Chips (Healthy Symbol) / Cereal | 
+| Waffles / Pau / Muffins | 
 |
 
   Food items not allowed during snack breaks include:
