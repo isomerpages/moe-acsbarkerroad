@@ -51,11 +51,11 @@ They will have a 5-min snack break in class at 1pm daily, except for Friday whic
 | Waffles/ Pau/ Muffins | 
 |
 
-  Food items not allowed during snack breaks include
-i. Sweets and chocolates
-ii. Drinks other than plain water are not allowed (this includes Ayataka & Oolong tea)
-iii. Junk/Fried food
-iv. Entire packets of rice/noodles/pasta, etc.
+  Food items not allowed during snack breaks include:
+* Sweets and chocolates
+* Drinks other than plain water are not allowed (this includes Ayataka & Oolong tea)
+* Junk/Fried food
+* Entire packets of rice/noodles/pasta, etc.
 
 **Parking on campus**
 
