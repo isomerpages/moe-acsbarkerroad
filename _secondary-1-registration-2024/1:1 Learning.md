@@ -4,39 +4,48 @@ permalink: /secondary-1-registration-2024/11learning/
 variant: markdown
 description: ""
 ---
-#### **Chromebook Purchase** #####
+#### **Personal Learning Device (Chromebook) Purchase** #####
 
 **Hardware**
 
 ----------------------------------------------------
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school will leverage the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook procurement process. The school has evaluated the given options and chosen the **Lenovo 500e Chromebook Convertible** for the 2021 Sec 1 cohort. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. The school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R756TN chromebook** for the 2024 Sec 1 cohort. The specifications of the chromebook are as follows:
 
 
-![](/images/image.png)
-*   Accessories include: USB Mouse, Notebook Carrying Case, Power Adapter and Lenovo Pen
+•	Acer R756TN chromebook
+* Intel Processor N200 
+* 8 GB LPDDR5 RAM
+* 64GB eMMC
+* 11.6" HD (1366 x 768) Multi-Touch IPS LCD panel		
+* Intel UHD Graphics
+* 2x USB-C, 2x USB-A, 1x 3.5mm headphone jack		
+* Intel Wifi 6E AX201 802.11abgn/acR2 & Bluetooth v5.1		
+* Dual Cameras (display top & keyboard top)
+* Google Chrome OS
+* 3 year Carry-in Warranty + Comprehensive Accidental Damage Protection (Insurance)
+* Weight: 1.35 kg
+* Accessories include: Power Adaptor, Mouse, Stylus, Carrier Bag
     
 
-In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (\*2 repairs or 1 replacement) to cover accidental damage to the chromebook device.
+In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$518.95**
+Total Cost with GST: **S$570.07**
 
-For those students who have placed purchases before February, the chromebooks will be delivered on 28th April 2021.
-(https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase#h.p_elW1uP9Di_Xs)
 
 **Software**
 
 
 --------------------------------------------------------------------------------------------------------------------------
 
-All the students' chromebooks are to be installed with the Device Management Application (DMA) which comprise of
+A Device Management Application (“DMA”) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. 
 
-*  Chrome Device Management (CDM) License and
-*  Chromebook Management Application, e.g. Mobile Guardian.
-    
+The DMA has 3 main components which will support the use of the chromebook PLD in the classroom and safeguard students’ cyber wellness:
+*  Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
+*  Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
+*  Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
-The CDM license will allow MOE and the school to centrally manage and monitor the students' usage of the chromebook. The management application is a security app that will further keep the students safe and minimise harmful internet content and distraction. Do note that the school has deployed a "Block All Except Whitelisted" policy on all chromebooks.
+Please note that the school currently has a Block All Except Whitelist policy in place for all our chromebook PLDs during school hours.
 
-(https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-purchase#h.urjfuxdzbp08)
 
 **Procurement**
 
@@ -88,7 +97,7 @@ For those parents who are not on GIRO, the school bill will indicate the outstan
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-FAQs can be found [here](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-faq). If there are further questions, please email Mr Toh Hun Khim, Head of Department of Learning Technologies at [toh\_hun\_khim@acsbr.moe.edu.sg](mailto:toh_hun_khim@acsbr.moe.edu.sg)
+FAQs can be found [here](https://sites.google.com/acsbr.org/s1registration2021/11-learning/chromebook-faq). If there are further questions, please email Mr Toh Hun Khim, Head of Department of Learning Technologies at [toh\_hun\_khim@moe.edu.sg](mailto:toh_hun_khim@moe.edu.sg)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
