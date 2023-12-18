@@ -132,7 +132,7 @@ Parents Gateway is our primary mode of communication with parents/guardians:
 The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en&gl=US&pli=1) phones.
 
 Parents/Guardians may contact the class form teachers via email.
-![](/images/Screenshot_2023_12_07_101141.png)
+![](/images/2024_S1_FT.jpg)
 
 You may contact our Year Head (Lower Sec), Mdm Koh Poh Li at [koh_poh_li@moe.edu.sg](mailto:koh_poh_li@moe.edu.sg) or our Assistant Year Head (Lower Sec), Ms Pearlyn Khoo at [pearlyn_khoo_bei_ling@moe.edu.sg](mailto:pearlyn_khoo_bei_ling@moe.edu.sg) for any clarification.
 
