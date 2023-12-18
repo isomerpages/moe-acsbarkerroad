@@ -116,7 +116,7 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
-FAS application form can be found at [here](https://go.gov.sg/acsbr-fas)
+FAS application form can be found at [here](https://go.gov.sg/acsbr-fas).
 
 To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 28th Dec 2023, 12 pm. Do note that the school admin office will be closed on 26 Dec 2023.
  
@@ -129,7 +129,7 @@ Households with students who need assistance for home broadband connectivity, ca
 Parents Gateway is our primary mode of communication with parents/guardians: 
 [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)
 
-The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en&gl=US&pli=1) phones
+The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en&gl=US&pli=1) phones.
 
 Parents/Guardians may contact the class form teachers via email.
 ![](/images/Screenshot_2023_12_07_101141.png)
