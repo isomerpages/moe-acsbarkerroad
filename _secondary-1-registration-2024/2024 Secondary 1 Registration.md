@@ -134,7 +134,7 @@ The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-
 Parents/Guardians may contact the class form teachers via email.
 ![](/images/Screenshot_2023_12_07_101141.png)
 
-You may contact our Year Head (Lower Sec), Mdm Koh Poh Li at koh_poh_li@moe.edu.sg or our Assistant Year Head (Lower Sec), Ms Pearlyn Khoo at pearlyn_khoo_bei_ling@moe.edu.sg for any clarification.
+You may contact our Year Head (Lower Sec), Mdm Koh Poh Li at [koh_poh_li@moe.edu.sg](mailto:koh_poh_li@moe.edu.sg) or our Assistant Year Head (Lower Sec), Ms Pearlyn Khoo at [pearlyn_khoo_bei_ling@moe.edu.sg](mailto:pearlyn_khoo_bei_ling@moe.edu.sg) for any clarification.
 
 #### **Chromebooks (Personal Learning Devices)** ####
 --------------------------------------------------------------------------------------------------
