@@ -1,6 +1,6 @@
 ---
 title: Transport Matters
-permalink: /secondary-1-registration-2024/transportmatters/
+permalink: /admissions/2024-sec-1-registration/transportmatters/
 variant: markdown
 description: ""
 ---

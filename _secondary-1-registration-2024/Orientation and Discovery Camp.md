@@ -1,6 +1,6 @@
 ---
-title: Secondary 1 Discovery Camp
-permalink: /secondary-1-registration-2024/acscamp/
+title: Orientation and Discovery Camp
+permalink: /admissions/2024-sec-1-registration/acscamp/
 variant: markdown
 description: ""
 ---
@@ -18,7 +18,9 @@ To help our Secondary 1 students get to know their classmates and their new envi
 |**Week 2 Mon - Thurs (8-11 Jan)**|1 pm|
 |**Week 2 Fri (12 Jan)**|1:30 pm|
 
-**Secondary** **1** **Discovery Camp 2024– “Beacon of Truth & Light”**
+#### **Secondary 1 Discovery Camp 2024– “Beacon of Truth & Light”** ####
+------------------------------------------------------------------------------------------------------------------------
+
 
 As part of your son/ward’s orientation and initiation into the traditions and culture of ACS (Barker Road), he is required to attend the Secondary 1 Discovery Camp. This will be an excellent time for your son to strengthen his friendship with his new classmates and Form Teachers as they prepare to forge ahead together in the year 2024.
 
@@ -36,6 +38,6 @@ Cost: Nil
 
 Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date..
 
-Parents will be invited to attend the badge ceremony on **18 January at 1030am (in school)**.
+Parents will be invited to attend the badge ceremony on **18 January at 10:30am (in school)**.
 
-**Fri 19 January, will be Wellness Day** for Sec 1 Students to rest at home after the Camp.
+**Fri 19 January**, will be **Wellness Day** for Sec 1 Students to rest at home after the Camp.
