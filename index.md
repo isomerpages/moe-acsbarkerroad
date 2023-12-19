@@ -18,19 +18,16 @@ sections:
         - title: Partners
           description: ""
           url: /partners/
-  - infobar:
-      title: SCHOOL BOOKLIST 2024
-      subtitle: ACS (BARKER ROAD)
-      id: infobar
-      button: FIND OUT MORE
-      url: /parents/booklist
-  - infopic:
-      title: ACS Echo
-      subtitle: ACS (Barker Road)
-      button: Find out more
-      url: https://acsecho.com/
-      image: /images/echo_oct_nov_2023.png
-      alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: School Booklist 2024
+          date: 08 November 2023
+          announcement: For purchase information and download, please click on the link
+            below.
+          link_text: https://www.acsbr.moe.edu.sg/parents/booklist
+          link_url: /parents/booklist
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
