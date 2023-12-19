@@ -16,7 +16,6 @@ Acer R756TN chromebook
 * 8GB LPDDR5 RAM (On-Board at factory level)
 * 64GB eMMC
 * 11.6" HD (1366 x 768) Multi-Touch IPS LCD panel		
-* Intel UHD Graphics
 * 2x USB-C, 2x USB-A, 1x 3.5mm headphone jack
 * Intel Wifi 6E
 * Bluetooth v5.1
