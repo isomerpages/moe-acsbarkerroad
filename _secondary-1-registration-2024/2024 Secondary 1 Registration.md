@@ -11,7 +11,7 @@ Congratulations! Your son/ward has finished his Primary School education and is 
 
 **Sec 1 Online Registration**
 
-Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2024s1reg) by 26 Dec 2023, 12 pm.
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2024s1reg) by **26 Dec 2023, 12 pm**.
 
 **Offer Letter for subjects at More Demanding Level (MDL)**
 
