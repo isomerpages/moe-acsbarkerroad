@@ -11,7 +11,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| Principal | Mr Loo Ming Yaw |
+| Principal | Mr Khoo Tse Horng |
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
 | Admin Manager | Ms Nur' Ezzati |
