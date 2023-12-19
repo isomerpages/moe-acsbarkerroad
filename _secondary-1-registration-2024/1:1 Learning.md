@@ -29,7 +29,7 @@ Acer R756TN chromebook
 
 In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$570.07**
+Total Cost with GST: **S$570.00**
 *(Information accurate as of 19th December 2023. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
 
 **IT Applications**
