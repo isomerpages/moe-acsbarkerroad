@@ -24,7 +24,7 @@ sections:
       announcement_items:
         - title: 2024 Secondary 1 Registration
           date: 19 December 2023
-          announcement: Announcement content
+          announcement: Please click on the link below for more information.
           link_text: https://www.acsbr.moe.edu.sg/admissions/2024-sec-1-registration/
           link_url: /admissions/2024-sec-1-registration/
         - title: School Booklist 2024
