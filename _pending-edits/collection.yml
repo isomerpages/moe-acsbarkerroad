@@ -1,0 +1,5 @@
+collections:
+  pending-edits:
+    output: true
+    order:
+      - Principal’s Message.md
