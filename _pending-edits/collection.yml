@@ -1,0 +1,4 @@
+collections:
+  pending-edits:
+    output: true
+    order: []
