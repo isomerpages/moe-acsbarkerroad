@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Information.md
-      - Principal’s Message.md
       - Vision, Mission & Values.md
       - ACS Heritage.md
       - ACS Houses.md
