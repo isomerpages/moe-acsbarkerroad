@@ -11,7 +11,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| Principal | Mr Loo Ming Yaw |
+| Principal | Mr Khoo Tse Horng |
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
 | Admin Manager | Ms Nur' Ezzati |
@@ -37,6 +37,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
+| Head of Department, English Language & Literature | Mdm Chong Seok Ying |
 | Subject Head, Partnerships | Mr Mark Goh |
 | Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
