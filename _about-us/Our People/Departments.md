@@ -37,6 +37,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
+| Head of Department, English Language & Literature | Mdm Chong Seok Ying |
 | Subject Head, Partnerships | Mr Mark Goh |
 | Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
