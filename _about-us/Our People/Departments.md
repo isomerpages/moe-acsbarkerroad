@@ -37,7 +37,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| Head of Department, English Language & Literature | Mdm Chong Seok Ying |
+| Head of Department, English Language & Literature | Ms Chong Seok Ying |
 | Subject Head, Partnerships | Mr Mark Goh |
 | Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
@@ -50,6 +50,7 @@ variant: markdown
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
+|  | Mdm Grace Jayanthi Mohan |
 |
 
 #### **Humanities**
@@ -103,13 +104,14 @@ variant: markdown
 |  | Mdm Dorrianne Yeo |
 |  | Mr Nicholas Heng |
 |  | Mrs Jeanette Wee |
-|  | Mr Jason Goh |
 |  | Mr Sean Lee |
+|  | Mr Chia Kah Kheng |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mr Lou Yang Hui |
 |  | Mr Alex Lee |
+|  | Mrs Susan Neo |
 |
 
 #### **Mother Tongue**
@@ -148,6 +150,7 @@ variant: markdown
 |  | Ms Pearlyn Khoo |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
+|  | Mdm Marina Bohari |
 |  | Mr Yusman Tajap |
 |  | Mr Jonathan Png |
 |
@@ -182,7 +185,7 @@ variant: markdown
 |  | Mr Damien Fong |
 |  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
-|  | Ms Jazreel Loh |
+|  | Mr Su Richmond |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
 |  | Mr Chew Sui Jin, Glenn |
