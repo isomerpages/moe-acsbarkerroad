@@ -50,7 +50,6 @@ variant: markdown
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
-|  | Ms Heidi Boon |
 |
 
 #### **Humanities**
@@ -105,7 +104,6 @@ variant: markdown
 |  | Mr Nicholas Heng |
 |  | Mrs Jeanette Wee |
 |  | Mr Jason Goh |
-|  | Ms Eunice Thong |
 |  | Mr Sean Lee |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
@@ -142,7 +140,6 @@ variant: markdown
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
 | Subject Head, CCA | Mr Timothy Teo |
 | Subject Head, Aesthetics | Ms Desiree Chua |
-|  | Mr Syed Faizal |
 |  | Mr Lim Jit Peow, Isaac |
 |  | Mr Mohammad Faisal |
 |  | Mr Roslan Abdul Ghani |
@@ -163,7 +160,6 @@ variant: markdown
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
-| Head of Department, Student Management | Mr Dennis Lin |
 | School Staff Developer | Mr Mohammed Ibrahim |
 | Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
 | Assistant Year Head, Upper Secondary | Mr Mohamad Azhar |
@@ -173,7 +169,6 @@ variant: markdown
 | Subject Head, National Education & Values-In-Action | Ms Jasmine Zheng |
 | Senior Teacher, Physics | Mr Leong Chuen Kit |
 |  | Ms Lim Poh Fang |
-|  | Mr Darius Oh |
 |  | Ms Sherri Tan |
 |  | Mdm Mei Pui Leng |
 |  | Mr Chew Teng Leong |
@@ -206,7 +201,6 @@ variant: markdown
 |---|---|
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
-| Head of Department, Student Management | Mr Dennis Lin |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Year Head, Upper Secondary | Mr David Wong |
 | Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
