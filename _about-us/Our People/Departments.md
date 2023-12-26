@@ -109,7 +109,7 @@ variant: markdown
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Mrs Susan Neo |
+|  | Mrs Susan Neo (Chew Choo Geok) |
 |
 
 #### **Mother Tongue**
@@ -139,7 +139,7 @@ variant: markdown
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
-| Subject Head, PE | Mr Mohammad Faisal |
+| Subject Head, CCA | Mr Mohammad Faisal |
 | Subject Head, Aesthetics | Ms Desiree Chua |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
