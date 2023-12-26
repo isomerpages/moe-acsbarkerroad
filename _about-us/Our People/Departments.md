@@ -45,12 +45,12 @@ variant: markdown
 |  | Mrs Catherine Wong |
 |  | Ms Nasreen Abdul Majid |
 |  | Mr Graham Whiteley |
+|  | Mdm Grace Jayanthi Mohan |
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
-|  | Mdm Grace Jayanthi Mohan |
 |
 
 #### **Humanities**
@@ -105,6 +105,7 @@ variant: markdown
 |  | Mrs Jeanette Wee |
 |  | Mr Sean Lee |
 |  | Mr Chia Kah Kheng |
+|  | Mr Su Jiahao Richmond |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
@@ -176,6 +177,7 @@ variant: markdown
 |  | Mr Mak Kuan Pak |
 |  | Mr Siva Sankar |
 |  | Mr Jethro Jan |
+|  | Mr Su Jiahao Richmond |
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
 |  | Mr Damien Fong |
