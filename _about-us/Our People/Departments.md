@@ -37,7 +37,7 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| Head of Department, English Language & Literature | Mdm Chong Seok Ying |
+| Head of Department, English Language & Literature | Ms Chong Seok Ying |
 | Subject Head, Partnerships | Mr Mark Goh |
 | Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
@@ -45,12 +45,12 @@ variant: markdown
 |  | Mrs Catherine Wong |
 |  | Ms Nasreen Abdul Majid |
 |  | Mr Graham Whiteley |
+|  | Mdm Grace Jayanthi Mohan |
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
-|  | Ms Heidi Boon |
 |
 
 #### **Humanities**
@@ -67,7 +67,6 @@ variant: markdown
 |  | Ms Charmaine Lim |
 |  | Mr Alan Lim |
 |  | Mdm Geraldine Chong |
-|  | Mdm Magdalene Chan |
 |  | Mr Alexis Ho |
 |  | Mr Jopescu Toh |
 |  | Ms Ponniey S Kumar |
@@ -104,14 +103,13 @@ variant: markdown
 |  | Mdm Dorrianne Yeo |
 |  | Mr Nicholas Heng |
 |  | Mrs Jeanette Wee |
-|  | Mr Jason Goh |
-|  | Ms Eunice Thong |
 |  | Mr Sean Lee |
+|  | Mr Chia Kah Kheng |
+|  | Mr Su Jiahao Richmond |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Mr Lou Yang Hui |
-|  | Mr Alex Lee |
+|  | Mrs Susan Neo (Chew Choo Geok) |
 |
 
 #### **Mother Tongue**
@@ -121,7 +119,7 @@ variant: markdown
 | Head of Department, Mother Tongue | Ms Loh Pei Guat |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Subject Head, Mother Tongue  | Ms Nur Diyanah |
-| Senior Teacher (Educational Support) | Ms Tay Hwee Fern |
+| Senior Teacher, Educational Support | Ms Tay Hwee Fern |
 |  | Mr Ma Jun |
 |  | Mr Qiu Nan |
 |  | Mdm Norhashikin Salim |
@@ -140,19 +138,17 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
-| Subject Head, CCA | Mr Timothy Teo |
 | Subject Head, Aesthetics | Ms Desiree Chua |
-|  | Mr Syed Faizal |
-|  | Mr Lim Jit Peow, Isaac |
-|  | Mr Mohammad Faisal |
+| Subject Head, CCA | Mr Mohammad Faisal |
+| Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
+|  | Mr Timothy Teo |
 |  | Ms Diana Kuek |
-|  | Ms Pearlyn Khoo |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
+|  | Mdm Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Mr Jonathan Png |
 |
 
 #### **Science**
@@ -162,18 +158,16 @@ variant: markdown
 | Head of Department, Science | Mr Matthias Low |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
+| Head of Department, Student Management | Mr Mohamad Azhar |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
-| Head of Department, Student Management | Mr Dennis Lin |
 | School Staff Developer | Mr Mohammed Ibrahim |
-| Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
-| Assistant Year Head, Upper Secondary | Mr Mohamad Azhar |
 | Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
+| Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Science | Ms Lee Qian Ying |
 | Subject Head, Craft & Technology | Mr Andrew J Teo |
 | Subject Head, National Education & Values-In-Action | Ms Jasmine Zheng |
 | Senior Teacher, Physics | Mr Leong Chuen Kit |
 |  | Ms Lim Poh Fang |
-|  | Mr Darius Oh |
 |  | Ms Sherri Tan |
 |  | Mdm Mei Pui Leng |
 |  | Mr Chew Teng Leong |
@@ -182,15 +176,14 @@ variant: markdown
 |  | Mr Mak Kuan Pak |
 |  | Mr Siva Sankar |
 |  | Mr Jethro Jan |
+|  | Mr Su Jiahao Richmond |
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
 |  | Mr Damien Fong |
 |  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
-|  | Ms Jazreel Loh |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
-|  | Mr Chew Sui Jin, Glenn |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |
 | Laboratory Technician | Ms Joanne Soong |
@@ -206,11 +199,11 @@ variant: markdown
 |---|---|
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
-| Head of Department, Student Management | Mr Dennis Lin |
+| Head of Department, Student Management | Mr Mohamad Azhar |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Year Head, Upper Secondary | Mr David Wong |
-| Assistant Year Head, Lower Secondary | Mr Dalvin Ho |
-| Assistant Year Head, Upper Secondary | Mr Mohamad Azhar |
+| Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
+| Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Partnerships | Mr Mark Goh |
 | Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
