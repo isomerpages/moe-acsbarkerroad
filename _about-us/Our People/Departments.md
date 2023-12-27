@@ -149,7 +149,6 @@ variant: markdown
 |  | Ms Elsie Liu |
 |  | Mdm Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Mr Jonathan Png |
 |
 
 #### **Science**
@@ -183,7 +182,6 @@ variant: markdown
 |  | Mr Damien Fong |
 |  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
-|  | Mr Su Richmond |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
 | Teacher Assistant  | Mr Abdul Rashid |
