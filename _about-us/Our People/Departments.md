@@ -119,7 +119,7 @@ variant: markdown
 | Head of Department, Mother Tongue | Ms Loh Pei Guat |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Subject Head, Mother Tongue  | Ms Nur Diyanah |
-| Senior Teacher (Educational Support) | Ms Tay Hwee Fern |
+| Senior Teacher, Educational Support | Ms Tay Hwee Fern |
 |  | Mr Ma Jun |
 |  | Mr Qiu Nan |
 |  | Mdm Norhashikin Salim |
@@ -138,9 +138,9 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
-| Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
-| Subject Head, CCA | Mr Mohammad Faisal |
 | Subject Head, Aesthetics | Ms Desiree Chua |
+| Subject Head, CCA | Mr Mohammad Faisal |
+| Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
 |  | Mr Timothy Teo |
