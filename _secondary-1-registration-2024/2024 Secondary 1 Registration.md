@@ -17,6 +17,10 @@ Parents/Guardians will need to complete the Sec 1 Registration process by fillin
 
 Parents/Guardians whose child/ward is eligible to do certain subjects at a MDL, will be receiving a Parents Gateway (PG) notification on this. A response will be required on that PG notification. 
 
+**Class Posting**
+
+Parents/Guardians can check their child/ward's Secondary One class via the Parents Gateway (PG) app. Upon login, click on 'CONTACTS' to show the class.  
+
 **Sec 1 Meet The Parent and CCA Fair**
 
 There will be a Sec 1 Meet The Parents and CCA Fair on **Friday, 5 January 2024 from 2 pm.**
