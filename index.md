@@ -40,6 +40,11 @@ sections:
             below.
           link_text: https://www.acsbr.moe.edu.sg/parents/booklist
           link_url: /parents/booklist
+        - title: 2024 Semester 1 Timetable
+          date: 30 December 2023
+          announcement: Please click on the link below for more information.
+          link_text: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
+          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
