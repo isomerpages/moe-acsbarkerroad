@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2024 Semester 1 Timetable
+          date: 31 December 2023
+          announcement: Please click on the link below for more information.
+          link_text: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
+          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
         - title: 2024 Class Posting
           date: 30 December 2023
           announcement: Parents/Guardians can check their child/ward’s class via the
@@ -34,7 +39,7 @@ sections:
           announcement: Please click on the link below for more information.
           link_text: https://www.acsbr.moe.edu.sg/admissions/2024-sec-1-registration
           link_url: /admissions/2024-sec-1-registration/
-        - title: School Booklist 2024
+        - title: 2024 School Booklist
           date: 08 November 2023
           announcement: For purchase information and download, please click on the link
             below.
