@@ -130,7 +130,7 @@ variant: markdown
 |  | Ms Pauline Chen |
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
-|  | Ms Tan Kim Choo |
+|  | Mr Yang Bin |
 |
 
 #### **Physical Education & Aesthetics**
