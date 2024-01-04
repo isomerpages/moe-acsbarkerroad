@@ -110,6 +110,7 @@ variant: markdown
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mrs Susan Neo (Chew Choo Geok) |
+|  | Mr Melvin Sim |
 |
 
 #### **Mother Tongue**
