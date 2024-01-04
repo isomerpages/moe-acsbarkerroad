@@ -185,6 +185,9 @@ variant: markdown
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
+|  | Ms Elsa Leong |
+|  | Ms Jeanette Koh |
+|  | Mdm Chia Hui Qi |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |
 | Laboratory Technician | Ms Joanne Soong |
