@@ -110,6 +110,7 @@ variant: markdown
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mrs Susan Neo (Chew Choo Geok) |
+|  | Mr Melvin Sim |
 |
 
 #### **Mother Tongue**
@@ -130,7 +131,7 @@ variant: markdown
 |  | Ms Pauline Chen |
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
-|  | Ms Tan Kim Choo |
+|  | Mr Yang Bin |
 |
 
 #### **Physical Education & Aesthetics**
@@ -184,6 +185,9 @@ variant: markdown
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
+|  | Ms Elsa Leong |
+|  | Ms Jeanette Koh |
+|  | Mdm Chia Hui Qi |
 | Teacher Assistant  | Mr Abdul Rashid |
 | Laboratory Technician | Ms Nur' Azeanti |
 | Laboratory Technician | Ms Joanne Soong |
