@@ -38,6 +38,11 @@ sections:
             below.
           link_text: https://www.acsbr.moe.edu.sg/parents/booklist
           link_url: /parents/booklist
+        - title: Release of 2023 GCE 'O' Level Examination Results
+          date: 08 January 2024
+          announcement: Please click on the link below for more information.
+          link_text: Release of 2023 GCE 'O' Level Examination Results
+          link_url: /announcements/permalink/
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
