@@ -27,13 +27,6 @@ sections:
           announcement: Please click on the link below for more information.
           link_text: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
-        - title: 2024 Class Posting
-          date: 30 December 2023
-          announcement: Parents/Guardians can check their child/ward’s class via the
-            Parents Gateway (PG) app. Upon login, click on ‘CONTACTS’ at the
-            bottom of the app to show the class.
-          link_text: https://pg.moe.edu.sg/
-          link_url: https://pg.moe.edu.sg/
         - title: 2024 Secondary 1 Registration
           date: 19 December 2023
           announcement: Please click on the link below for more information.
