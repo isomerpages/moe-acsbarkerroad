@@ -2,6 +2,7 @@
 title: Open House 2023
 permalink: /news-and-events/open-house-2023/
 description: ""
+variant: tiptap
 ---
 ### **Open House 2023**
 <img src="/images/acsbr-oh2023.jpg" style="width:80%;" align="middle">
