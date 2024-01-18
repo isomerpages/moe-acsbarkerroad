@@ -10,4 +10,4 @@ variant: markdown
 3.  **[Booklist](/parents/booklist/)**<br>
 4.  **[School Uniform](/parents/school-uniform/)**<br>
 5.  **[Student Protection Plan](/parents/student-protection-plan/)**<br>
-6. **[Car Decal Application](/files/ACS__BR__Car_Decal_Application_Form_2024.pdf)**
+6. **[Car Decal Application](/files/acs__br__car_decal_application_form_2024.pdf)**
