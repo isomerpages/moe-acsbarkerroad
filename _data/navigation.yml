@@ -46,13 +46,9 @@ links:
   - title: Admissions
     url: /admissions/
     sublinks:
-      - title: 2024 Sec 1 Registration
-        url: /admissions/2024-sec-1-registration/
-      - title: Appeals for Sec One
-        url: https://form.gov.sg/639c484bad255700122688bd
       - title: Appeals for All Levels Exce..
         url: https://form.gov.sg/#!/5f859d0d1e16e10011670caf
       - title: Direct School Admission (DSA)
-        url: https://go.gov.sg/acsbr-dsa
+        url: https://sites.google.com/moe.edu.sg/acsbr-cca/direct-school-admission-dsa-2024
   - title: Contact Us
     url: /contact-us/
