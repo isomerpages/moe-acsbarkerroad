@@ -3,6 +3,7 @@ title: Academic
 permalink: /education/academic/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
 ### **Academic**
 Anglo-Chinese School (Barker Road) offers three academic courses, namely Express, Normal (Academic) and Normal (Technical) courses. These courses are pathways that shape a student’s journey through secondary school. Each course offers a suite of subjects catering to students’ strengths and interests.
@@ -20,7 +21,5 @@ The school has the following departments/subjects:
 *   Physical Education &amp; Aesthetics
 
 Information about Academic Coaching, Weighted Assessment, Examination and Time-table can be found on this&nbsp;[page](https://sites.google.com/moe.edu.sg/acsbr-academic-matters).
-
-Forms for academic-related matters, e.g. subject dropping, lateral transfer, subject combination and appeal can be found on this&nbsp;[page](/education/academic/forms/).
 
 <img src="/images/academic.jpg" style="width:75%">
