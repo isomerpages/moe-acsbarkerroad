@@ -2,4 +2,5 @@ collections:
   pending-edits:
     output: true
     order:
+      - Sexuality Education.md
       - Principal’s Message.md
