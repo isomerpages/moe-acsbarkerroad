@@ -1,5 +1,5 @@
 collections:
-  pending-edits:
+  pending-edits-or-unused:
     output: true
     order:
       - Sexuality Education.md
