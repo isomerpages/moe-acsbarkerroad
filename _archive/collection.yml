@@ -1,0 +1,6 @@
+collections:
+  archive:
+    output: true
+    order:
+      - MethodistWalk 2023.md
+      - Open House 2023.md

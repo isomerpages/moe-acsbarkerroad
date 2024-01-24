@@ -1,0 +1,54 @@
+logo: /images/ACS-Crest-School-Name.png
+links:
+  - title: About Us
+    url: /about-us/school-information/
+    sublinks:
+      - title: School Information
+        url: /about-us/school-information/
+      - title: Vision, Mission & Values
+        url: /about-us/vision-mission-values/
+      - title: ACS Heritage
+        url: /about-us/acs-heritage/
+      - title: ACS Houses
+        url: /about-us/acs-houses/
+      - title: Board of Governors
+        url: /about-us/board-of-governors/
+      - title: Our Principals
+        url: /about-us/our-principals/
+      - title: Our People
+        url: /about-us/our-people/departments/
+      - title: Personal Data Protect'n Policy
+        url: /about-us/personal-data-protection-policy/
+  - title: ACS(BR) Education
+    url: /education/alp/
+    sublinks:
+      - title: "ALP: Drama, Debates & Public.."
+        url: /education/alp/
+      - title: "LLP: Sports & Outdoor Edu"
+        url: /education/llp/
+      - title: Academic
+        url: /education/academic/
+      - title: Character & Citizenship Edu
+        url: /education/cce/overview/
+      - title: Co-Curricular Activities
+        url: /education/cca/
+      - title: Signature Programmes
+        url: /education/signature-programmes/
+      - title: Spiritual and Moral
+        url: /education/spiritual-and-moral/
+      - title: Student Leadership
+        url: /education/student-leadership/
+  - title: News and Events
+    url: /news-and-events/open-house-2023/
+    sublinks:
+      - title: ACS(BR) Gentlemen at Competi..
+        url: https://docs.google.com/spreadsheets/d/1YjHIdMqutZl0_9fugswch1_6ovsyt0vfeFeaqRNJgbA/edit?usp=sharing
+  - title: Admissions
+    url: /admissions/
+    sublinks:
+      - title: Appeals for All Levels Exce..
+        url: https://form.gov.sg/#!/5f859d0d1e16e10011670caf
+      - title: Direct School Admission (DSA)
+        url: https://sites.google.com/moe.edu.sg/acsbr-cca/direct-school-admission-dsa-2024
+  - title: Contact Us
+    url: /contact-us/

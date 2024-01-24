@@ -1,0 +1,11 @@
+collections:
+  secondary-1-registration-2024:
+    output: true
+    order:
+      - 2024 Secondary 1 Registration.md
+      - Book List.md
+      - Orientation and Discovery Camp.md
+      - Transport Matters.md
+      - School Uniform.md
+      - 1:1 Learning.md
+      - School Smart Card.md
