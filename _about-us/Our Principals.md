@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 ### **Our Principals**
-<img src="/images/principal1.jpg" style="width:100%">
+<img src="/images/principal_1.jpg" style="width:100%">
 
-<img src="/images/principal2.jpg" style="width:100%">
+<img src="/images/principal_2.jpg" style="width:100%">
 
-<img src="/images/principal3a.jpg" style="width:100%">
+<img src="/images/principal_3.jpg" style="width:100%">
