@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education
-permalink: /moesexed/
+permalink: /education/cce/overview/moesexed2024/
 variant: tiptap
 description: ""
 third_nav_title: Character & Citizenship Edu
