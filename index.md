@@ -22,11 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of 2023 GCE 'O' Level Examination Results
-          date: 08 January 2024
-          announcement: Please click on the link below for more information.
-          link_text: Release of 2023 GCE 'O' Level Examination Results
-          link_url: /news-and-events/2023-o-level-release
         - title: 2024 Semester 1 Timetable
           date: 31 December 2023
           announcement: Please click on the link below for more information.
