@@ -106,6 +106,7 @@ variant: markdown
 |  | Mr Sean Lee |
 |  | Mr Chia Kah Kheng |
 |  | Mr Su Jiahao Richmond |
+|  | Mr Chua Wee Choo |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
