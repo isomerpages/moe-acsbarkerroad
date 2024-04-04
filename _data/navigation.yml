@@ -41,10 +41,10 @@ links:
   - title: News and Events
     url: /news-and-events/open-house-2024/
     sublinks:
-      - title: Open House 2024
-        url: /news-and-events/open-house-2024/
       - title: ACS(BR) Gentlemen at Competi..
         url: https://docs.google.com/spreadsheets/d/1YjHIdMqutZl0_9fugswch1_6ovsyt0vfeFeaqRNJgbA/edit?usp=sharing
+      - title: Open House 2024
+        url: /news-and-events/open-house-2024/
   - title: Admissions
     url: /admissions/
     sublinks:
