@@ -22,4 +22,5 @@ which may inconvenience the residents in the area.</p>
 on our <a href="https://www.facebook.com/people/ACSBR/100063044300316/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/acsbr_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>pages.</p>
 <p>We look forward to meeting you at our Open House!</p>
-<p>You can download the Programme and Campus Layout booklet <a href="/files/acsbr_open_house_2024_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><a href="/files/acsbr_open_house_2024_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme and Layout Booklet</a>
+</p>
