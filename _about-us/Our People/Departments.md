@@ -133,6 +133,7 @@ variant: markdown
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
 |  | Mr Yang Bin |
+|  | Mdm Tan Kim Choo |
 |
 
 #### **Physical Education & Aesthetics**
