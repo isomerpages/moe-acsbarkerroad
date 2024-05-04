@@ -21,5 +21,5 @@ and Stevens MRT stations) nearby. Please kindly refrain from illegal parking
 which may inconvenience the residents in the area.</p>
 <p>If you would like to find out more about our school, please follow us
 on our <a href="https://www.facebook.com/people/ACSBR/100063044300316/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and
-<a href="https://www.instagram.com/acsbr_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>pages.</p>
+<a href="https://www.instagram.com/acsbr_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>.</p>
 <p>We look forward to meeting you at our Open House!</p>
