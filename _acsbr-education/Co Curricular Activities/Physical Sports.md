@@ -43,7 +43,7 @@ variant: markdown
 <img src="/images/sports8.jpg" style="width:33%" align="left">
 </a></p>
 
-<p><a href="https://sites.google.com/moe.edu.sg/table-tennis-cca/home">
+<p><a href="sites.google.com/moe.edu.sg/acsbr-table-tennis">
 <img src="/images/sports9.jpg" style="width:33%" align="left">
 </a></p>
 
