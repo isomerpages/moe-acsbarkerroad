@@ -23,6 +23,7 @@ variant: markdown
 | Admin Executive | Ms Wu Ziqian |
 | Admin Executive | Mr Sunny Ng |
 | Admin Executive | Mdm Lim Soon Eng |
+| Admin Executive | Ms Nur Iffah |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
