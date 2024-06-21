@@ -22,15 +22,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Open House 2024
-          date: 11 May 2024
-          announcement: |-
-            11  May 2024 (Saturday) from
-            0830 to 1200 hrs
-          link_text: https://www.acsbr.moe.edu.sg/news-and-events/open-house-2024/
-          link_url: https://www.acsbr.moe.edu.sg/news-and-events/open-house-2024/
-        - title: 2024 Semester 1 Timetable
-          date: 31 December 2023
+        - title: 2024 Semester 2 Timetable
+          date: 21 June 2024
           announcement: Please click on the link below for the latest timetable.
           link_text: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters

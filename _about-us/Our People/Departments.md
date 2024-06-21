@@ -14,6 +14,7 @@ variant: markdown
 | Principal | Mr Khoo Tse Horng |
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
+| Vice-Principal (Administration) | Ms Marie Loh |
 | Admin Manager | Ms Nur' Ezzati |
 | Admin Manager  | Mr Glenn Tan |
 | Operations Manager | Mr Ng Kok Foo |
@@ -22,6 +23,7 @@ variant: markdown
 | Admin Executive | Ms Wu Ziqian |
 | Admin Executive | Mr Sunny Ng |
 | Admin Executive | Mdm Lim Soon Eng |
+| Admin Executive | Ms Nur Iffah |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
@@ -132,7 +134,6 @@ variant: markdown
 |  | Ms Pauline Chen |
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
-|  | Mr Yang Bin |
 |  | Mdm Tan Kim Choo |
 |
 
@@ -177,7 +178,6 @@ variant: markdown
 |  | Mr Han Wern Kuang |
 |  | Ms Sheryl Lim |
 |  | Mr Mak Kuan Pak |
-|  | Mr Siva Sankar |
 |  | Mr Jethro Jan |
 |  | Mr Su Jiahao Richmond |
 |  | Mdm Heriana Samad |
@@ -187,7 +187,6 @@ variant: markdown
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Mr Tham Soh Jee |
-|  | Ms Elsa Leong |
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 | Teacher Assistant  | Mr Abdul Rashid |
