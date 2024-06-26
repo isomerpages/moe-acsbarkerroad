@@ -28,7 +28,7 @@ Thank you for visiting [www.acsbr.moe.edu.sg](http://www.acsbr.moe.edu.sg). By a
 
 **Right of Access**
 
-8. Anglo-Chinese School (Barker Road) reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
+8\. Anglo-Chinese School (Barker Road) reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
 **Disclaimer of Warranties and Liability**
 
