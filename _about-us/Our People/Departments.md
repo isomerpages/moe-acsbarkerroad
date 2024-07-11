@@ -14,7 +14,7 @@ variant: markdown
 | Principal | Mr Khoo Tse Horng |
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
-| Vice-Principal (Administration) | Ms Marie Loh |
+| Vice-Principal (Administration) | Mrs Marie Boey (Mdm Marie Loh Mei Ling) |
 | Admin Manager | Ms Nur' Ezzati |
 | Admin Manager  | Mr Glenn Tan |
 | Operations Manager | Mr Ng Kok Foo |
@@ -147,7 +147,6 @@ variant: markdown
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
-|  | Mr Timothy Teo |
 |  | Ms Diana Kuek |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
