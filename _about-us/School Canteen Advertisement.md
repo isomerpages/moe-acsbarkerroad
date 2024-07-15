@@ -2,17 +2,18 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Noodle Stall | 28 August 2023 | Any Chinese noodle menu is acceptable.|
+| Chicken Rice Stall (Halal/Non-Halal)  | 20 August 2024 |Zi char dishes are acceptable|
 
 #### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form](/files/formbf7%20-%20application%20form.pdf)
+* [Application Form](/files/Canteen%20Application/Application_for_Canteen_Stall_FormBF7__Sep_2023_.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
