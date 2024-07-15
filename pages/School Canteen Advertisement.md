@@ -2,12 +2,13 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Noodle Stall | 28 August 2023 | Any Chinese noodle menu is acceptable.|
+| Chicken Rice Stall (Halal/Non-Halal)  | 20 August 2024 |Zi char dishes are acceptable|
 
 #### **Application Procedure**
 
