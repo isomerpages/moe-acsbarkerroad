@@ -15,7 +15,7 @@ variant: markdown
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
 | Vice-Principal (Administration) | Mrs Marie Boey (Mdm Marie Loh Mei Ling) |
-| Admin Manager | Ms Nur' Ezzati |
+| Admin Manager | Ms Nur Ezzati |
 | Admin Manager  | Mr Glenn Tan |
 | Operations Manager | Mr Ng Kok Foo |
 | Operations Manager | Mr Tan Yi Fan |
