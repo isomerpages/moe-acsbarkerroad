@@ -21,7 +21,6 @@ variant: markdown
 | Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
-| Admin Executive | Mr Sunny Ng |
 | Admin Executive | Mdm Lim Soon Eng |
 | Admin Executive | Ms Nur Iffah |
 | Corporate Support Officer | Mdm Haliza Ahmad |
@@ -192,7 +191,8 @@ variant: markdown
 | Laboratory Technician | Ms Nur' Azeanti |
 | Laboratory Technician | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
-| Workshop Instructor (D&T) | Mr Rosli Che Embi |
+| STEM Instructor (Workshop) | Mr Rosli Che Embi |
+| STEM Instructor (Workshop) | Mr Sunny Ng |
 | Workshop Instructor (D&T/Mobile Robotics)  | Mr Muhammad Fauzi |
 |
 
