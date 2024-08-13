@@ -81,11 +81,10 @@ variant: markdown
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-| ICT Manager | Mr Muhammad Hadri
-| Admin Executive (ICT) | Mr Tan Joon Kiat |
+| ICT Associate | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
-| Desktop Engineer | Mr Veerapandi Punithan |
+| Desktop Engineer | Mr Andy Chua |
 |
 
 #### **Mathematics**
