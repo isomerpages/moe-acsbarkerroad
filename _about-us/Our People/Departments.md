@@ -26,7 +26,7 @@ variant: markdown
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
-| Receptionist | Mdm Saniah Ali |
+| Receptionist | Mdm Clara Ng |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
 | Operations Support Officer | Mr Tan Seng Hwa |
