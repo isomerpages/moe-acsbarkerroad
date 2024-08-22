@@ -26,7 +26,7 @@ variant: markdown
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Christina Teo |
 | Admin Support Officer | Ms Ruth Loke |
-| Receptionist | Mdm Saniah Ali |
+| Receptionist | Ms Diana Ho |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
 | Operations Support Officer | Mr Tan Seng Hwa |
@@ -81,11 +81,10 @@ variant: markdown
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-| ICT Manager | Mr Muhammad Hadri
-| Admin Executive (ICT) | Mr Tan Joon Kiat |
+| ICT Associate | Mr Tan Joon Kiat |
 | ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
-| Desktop Engineer | Mr Veerapandi Punithan |
+| Desktop Engineer | Mr Andy Chua |
 |
 
 #### **Mathematics**
@@ -111,7 +110,7 @@ variant: markdown
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Mrs Susan Neo (Chew Choo Geok) |
+|  | Mrs Susan Neo (Mdm Chew Choo Geok) |
 |  | Mr Melvin Sim |
 |
 
@@ -188,8 +187,8 @@ variant: markdown
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 | Teacher Assistant  | Mr Abdul Rashid |
-| Laboratory Technician | Ms Nur' Azeanti |
-| Laboratory Technician | Ms Joanne Soong |
+| STEM Instructor (Laboratory) | Ms Nur' Azeanti |
+| STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
 | STEM Instructor (Workshop) | Mr Rosli Che Embi |
 | STEM Instructor (Workshop) | Mr Sunny Ng |
