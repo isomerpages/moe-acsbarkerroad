@@ -12,6 +12,10 @@ variant: markdown
 |
 
 ##### **Application:**
-Download and complete the **[application form](/files/MOE_FAS_Application_Form_2025.pdf)** and submit it with the necessary updated documents to the school's General Office (attention to the Administration Manager).
+Download and complete the [application form](/files/MOE_FAS_Application_Form_2025.pdf) and submit it with the necessary updated documents to the school's General Office (attention to the Administration Manager).
 
 Alternatively, parents can apply using the e-FAS form available on Parents Gateway (under Services tab – Financial Assistance) or the e-FAS link/ QR code provided below.
+
+[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+<img align="left" src="/images/moe_efas.jpg" style="width:30%">
