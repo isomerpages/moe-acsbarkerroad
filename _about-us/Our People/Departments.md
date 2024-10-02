@@ -24,7 +24,7 @@ variant: markdown
 | Admin Executive | Mdm Lim Soon Eng |
 | Admin Executive | Ms Nur Iffah |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Corporate Support Officer | Ms Christina Teo |
+| Corporate Support Officer | Ms Jasbinder Singh |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Ms Diana Ho |
 | Operations Support Officer | Mdm Shanthi Naidu |
