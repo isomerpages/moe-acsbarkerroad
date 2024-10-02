@@ -16,6 +16,5 @@ Download and complete the [application form](/files/MOE_FAS_Application_Form_202
 
 Alternatively, parents can apply using the e-FAS form available on Parents Gateway (under Services tab – Financial Assistance) or the e-FAS link/ QR code provided below.
 
-[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
-
+[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)<br>
 <img align="left" src="/images/moe_efas.jpg" style="width:30%">
