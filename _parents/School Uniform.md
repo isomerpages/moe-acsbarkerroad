@@ -18,7 +18,4 @@ More information can be found on the&nbsp;**[Bibi &amp; Baba website](http://bib
 
 1) Bibi&amp;Baba Orchard Road Shop – Retail Walk-in Sales
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+The school uniform vendor is Bibi &amp; Baba.
