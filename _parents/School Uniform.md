@@ -16,6 +16,8 @@ For made to measure, please call 6271 9248 (Main line) for operating hours and m
 
 More information can be found on the&nbsp;**[Bibi &amp; Baba website](http://bibibaba.com/)**.
 
-1) Bibi&amp;Baba Orchard Road Shop – Retail Walk-in Sales
-
 The school uniform vendor is Bibi &amp; Baba.
+
+Website: https://www.schooluniforms.sg/bb-acs-barker-road-1
+
+[Year-end December 2024 / January 2025 Opening Hours](/files/BibiBaba_Year_End_Sales_Opening_Hours.pdf)
