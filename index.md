@@ -22,8 +22,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 Semester 2 Timetable
-          date: 21 June 2024
+        - title: 2024 Post Examination Timetable
+          date: 14 October 2024
           announcement: Please click on the link below for the latest timetable.
           link_text: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
