@@ -21,8 +21,8 @@ variant: markdown
 | Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Wu Ziqian |
-| Admin Executive | Mdm Lim Soon Eng |
 | Admin Executive | Ms Nur Iffah |
+| Admin Executive | Mrs Martha Yang |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Corporate Support Officer | Ms Jasbinder Singh |
 | Admin Support Officer | Ms Ruth Loke |
