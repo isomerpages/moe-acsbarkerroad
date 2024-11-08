@@ -24,7 +24,7 @@ variant: markdown
 | Admin Executive | Ms Nur Iffah |
 | Admin Executive | Mrs Martha Yang |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Corporate Support Officer | Ms Jasbinder Singh |
+| Corporate Support Officer | Mdm Ellen Ariella |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Ms Diana Ho |
 | Operations Support Officer | Mdm Shanthi Naidu |
@@ -183,7 +183,6 @@ variant: markdown
 |  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
-|  | Mr Tham Soh Jee |
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 | Teacher Assistant  | Mr Abdul Rashid |
