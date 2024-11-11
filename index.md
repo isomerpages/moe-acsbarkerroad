@@ -22,14 +22,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 Post Examination Timetable
-          date: 14 October 2024
-          announcement: Please click on the link below for the latest timetable.
-          link_text: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
-          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
-        - title: 2024 School Booklist
-          date: 08 November 2023
-          announcement: For purchase information and booklist download, please click on
+        - title: 2025 School Booklist
+          date: 11 November 2024
+          announcement: For booklist download and purchase information, please click on
             the link below.
           link_text: https://www.acsbr.moe.edu.sg/parents/booklist
           link_url: /parents/booklist
