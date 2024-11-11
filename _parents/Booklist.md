@@ -4,7 +4,7 @@ permalink: /parents/booklist/
 description: ""
 variant: markdown
 ---
-### **School Booklist 2024**
+### **School Booklist 2025**
 
 #####  **Pacific Bookstores Online Purchase**
 Parents are encouraged to purchase textbooks via the Pacific Bookstores online platform at **[https://www.pacificbookstores.com](https://www.pacificbookstores.com/)**. You may choose between Home Delivery and Self-Collection at the School Bookshop.
