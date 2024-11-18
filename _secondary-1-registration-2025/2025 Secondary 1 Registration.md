@@ -23,9 +23,9 @@ Parents/Guardians can check their child/ward's Secondary One class via the Paren
 
 **Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 Meet The Parents and CCA Fair on **Thursday, 9 January 2025 from 11.30 am.**
-* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11.30 am to 1.30 pm
-* CCA Fair at various venues on-site ACS(BR) from 2 pm - 3.30 pm
+There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 9 January 2025 from 11.30 am.**
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am to 1:30 pm
+* CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm
 
 #### **Start of School in 2025 - Important Information for Students and Parents** ####
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -34,28 +34,39 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Arrival and Dismissal Procedures**
 
-School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are expected to be at the tennis courts for morning assembly by 7.35am daily, except for Wednesdays at 8.35am. Students are to report to school in their school uniform or PE Shirt with school pants on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
+School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE Shirt with school pants on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
-Dismissal is at 2.30pm daily, except for Thursdays and Fridays at 1.30pm.
+Dismissal is at 2:30 pm daily, except for Thursdays and Fridays at 1:30 pm.
 
 
-A typical school week is as follows: 
+A typical school week is as follows:&nbsp;
 
 | Day(s) | Start Time | Dismissal Time |
 | -------- | -------- | -------- |
-| Mon, Tue | 7.40am | 2.30pm |
-| Wed (late start day) | 8.40am | 2.30pm |
-| Thur, Fri | 7.40am | 1.30pm |
+| Mon, Tue | 7:40 am | 2:30 pm |
+| Wed (late start day) | 8:40 am | 2:30 pm |
+| Thur, Fri | 7:40 am | 1:30 pm |
 
 Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different.
 
-**Sec 1 Orientation Programme (2nd Jan – 12th Jan 2024)**
+**Sec 1 Orientation Programme (2nd Jan – 10th Jan 2025)**
 
-Students are to report to the **school auditorium** on 2 Jan 2024 for assembly by 7.35am in full school uniform. 
+Students are to report to the **school auditorium** on 2 Jan 2025 for assembly by 7:35 am in full school uniform. 
 Prefects will be around to assist your son/ward to find his way to the required venues. 
 
 In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
+| Day | Dismissal | 
+| -------- | -------- | 
+| Week 0 Thur 2 Jan | Dismissal Time is at 1 pm |
+| Week 0 Fri 3 Jan | Dismissal Time is at 1:30 pm |
+| Week 1 Mon – Wed 6 to 8 Jan | Dismissal Time is at 1 pm, with certain classes staying back for ICT induction (1 pm to 2 pm) on different days, as stated below. <br><br>Mon 6 Jan : 1S, 1G<br>Tue 7 Jan: 1N, 1T<br>Wed 8 Jan: 1L, 1M |
+| Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair |
+| Week 1 Fri 10 Jan | Dismissal Time is at 1:30 pm, except for the following two classes staying back for ICT induction (2 to 3 pm)<br><br>Fri 10 Jan: 1A, 1C |
 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
 
 | Date(s) | Dismissal Time |
@@ -67,9 +78,9 @@ In view of the special two weeks of Orientation for our Sec 1 students, do note 
 
 **Recess Timing and Snack Break**
 
-The Lower Secondary levels will have their recess from 11:00-11:30am daily. 
+The Lower Secondary levels will have their recess from 11:00 to 11:30 am daily. 
 
-They will have a 5-min snack break in class at 1pm daily, except for Friday which is a shorter day. The intent of the snack break is to allow students to have a light snack that can provide them with an energy boost and help them to be better focused in class. The snack should be small, healthy, and easily consumed within 5 minutes, without leaving a mess.
+They will have a 5-min snack break in class at 1 pm daily, except for Thursdays and Fridays which are shorter days. The intent of the snack break is to allow students to have a light snack that can provide them with an energy boost and help them to be better focused in class. The snack should be small, healthy, and easily consumed within 5 minutes, without leaving a mess.
 
 | Foods Items Allowed for Snack Break (1:00pm)|
 | -------- | 
@@ -77,13 +88,14 @@ They will have a 5-min snack break in class at 1pm daily, except for Friday whic
 | Plain Water | 
 | Fruits (Cut or Whole) | 
 | Dried Food, e.g. Biscuits / Chips (Healthy Symbol) / Cereal | 
+| Assorted Breads / Sandwiches | 
 | Waffles / Pau / Muffins | 
 
 
 | Food items not allowed during snack breaks include: |
 | -------- | 
 | Sweets and chocolates |
-| Drinks other than plain water are not allowed (this includes Ayataka & Oolong tea) |
+| Drinks other than plain water are not allowed (this includes Ayataka &amp; Oolong tea) |
 | Junk/Fried food |
 | Entire packets of rice/noodles/pasta, etc. |
 
@@ -98,9 +110,9 @@ To prevent traffic congestion and crowding outside the school gate, LTA does not
 
 Students are to report in their school uniform on the first day of school.
 
-The school uniform can be purchased from Bibi & Baba. Please refer to the ['School Uniform' page](/admissions/2024-sec-1-registration/schooluniform/).
+The school uniform can be purchased from Bibi &amp; Baba. Please refer to the ['School Uniform' page](/admissions/2024-sec-1-registration/schooluniform/).
 
-The ACS badge and ACS(BR) socks are part of the school uniform and can be purchased from the school bookshop. _Do note however, that a badge will be presented to your son/ward on the first day of school during the Welcome Service._
+The ACS badge and ACS(BR) socks are part of the school uniform and can be purchased from the school bookshop.&nbsp;_Do note however, that a badge will be presented to your son/ward on the first day of school during the Welcome Service._
 
 Shoes should be white-based with white shoe laces.
 
@@ -133,7 +145,7 @@ Households with students who need assistance for home broadband connectivity, ca
 Parents Gateway is our primary mode of communication with parents/guardians: 
 [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/)
 
-The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en&gl=US&pli=1) phones.
+The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1) phones.
 
 Parents/Guardians may contact the class form teachers via email.
 ![](/images/2024_S1_FT.jpg)
