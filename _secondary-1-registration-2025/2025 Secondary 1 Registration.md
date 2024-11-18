@@ -23,29 +23,29 @@ Parents/Guardians can check their child/ward's Secondary One class via the Paren
 
 **Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 Meet The Parents and CCA Fair on **Thursday, 5 January 2024 from 2 pm.**
-* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 2 pm to 3.30 pm
-* CCA Fair at various venues on-site ACS(BR) from 3.30 pm - 5 pm
+There will be a Sec 1 Meet The Parents and CCA Fair on **Thursday, 9 January 2025 from 11.30 am.**
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11.30 am to 1.30 pm
+* CCA Fair at various venues on-site ACS(BR) from 2 pm - 3.30 pm
 
-#### **Start of School in 2024 - Important Information for Students and Parents** ####
+#### **Start of School in 2025 - Important Information for Students and Parents** ####
 --------------------------------------------------------------------------------------------------------------------------------------
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
 
 **Arrival and Dismissal Procedures**
 
-School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are expected to be at the tennis courts for morning assembly by 7.35am daily, except for Wednesdays at 8.35am. Students are to report to school in their school uniform daily. 
+School starts at 7.40am daily, except for Wednesdays at 8.40am, and students are expected to be at the tennis courts for morning assembly by 7.35am daily, except for Wednesdays at 8.35am. Students are to report to school in their school uniform or PE Shirt with school pants on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
-Dismissal is at 2.30pm daily, except for Fridays at 1.30pm. 
+Dismissal is at 2.30pm daily, except for Thursdays and Fridays at 1.30pm.
 
 
 A typical school week is as follows: 
 
 | Day(s) | Start Time | Dismissal Time |
 | -------- | -------- | -------- |
-| Mon, Tue, Thurs | 7.40am | 2.30pm |
+| Mon, Tue | 7.40am | 2.30pm |
 | Wed (late start day) | 8.40am | 2.30pm |
-| Fri | 7.40am | 1.30pm |
+| Thur, Fri | 7.40am | 1.30pm |
 
 Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different.
 
