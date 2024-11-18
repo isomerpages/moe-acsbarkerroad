@@ -34,7 +34,7 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Arrival and Dismissal Procedures**
 
-School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE Shirt with school pants on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
+School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE (V-neck) T Shirt with school pants on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
 Dismissal is at 2:30 pm daily, except for Thursdays and Fridays at 1:30 pm.
 
