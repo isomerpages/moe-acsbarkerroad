@@ -47,7 +47,9 @@ A typical school week is as follows:&nbsp;
 | Wed (late start day) | 8:40 am | 2:30 pm |
 | Thur, Fri | 7:40 am | 1:30 pm |
 
-Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different.
+Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different. 
+
+Secondary 1 curriculum lessons will officially begin on Term 1 Week 2 from **13th Jan 2025**. Students should have their learning materials ready. 
 
 **Sec 1 Orientation Programme (2nd Jan – 10th Jan 2025)**
 
@@ -62,19 +64,6 @@ In view of the special two weeks of Orientation for our Sec 1 students, do note 
 | Week 1 Mon – Wed 6 to 8 Jan | Dismissal Time is at 1 pm, with certain classes staying back for ICT induction (1 pm to 2 pm) on different days, as stated below. <br><br>Mon 6 Jan : 1S, 1G<br>Tue 7 Jan: 1N, 1T<br>Wed 8 Jan: 1L, 1M |
 | Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair |
 | Week 1 Fri 10 Jan | Dismissal Time is at 1:30 pm, except for the following two classes staying back for ICT induction (2 to 3 pm)<br><br>Fri 10 Jan: 1A, 1C |
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-| Date(s) | Dismissal Time |
-| -------- | -------- |
-| Week 1 Tue – Thurs (2-4 Jan) | 1 pm |
-| Week 1 Fri 5 Jan     | 1:30 pm followed by Meet-the-Parents session and CCA Fair |
-| Week 2 Mon – Thurs (8-11 Jan) | 1 pm |
-| Week 2 Fri 12 Jan | 1:30 pm |
 
 **Recess Timing and Snack Break**
 
@@ -104,6 +93,7 @@ They will have a 5-min snack break in class at 1 pm daily, except for Thursdays 
 Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped. Other designated drop-off/pick-up points include the Chancery Lane Activity Area and Gate C, along Barker Road. 
 
 To prevent traffic congestion and crowding outside the school gate, LTA does not allow any vehicle to wait outside the school gate along Barker Road and Dunearn Road. LTA will take enforcement action against vehicles found waiting/parking at this stretch (please refer to the map). Should you arrive too early for immediate pick-up, please utilise the pick-up/drop off space located near Chancery Lane.
+
 ![](/images/Picture2.png)
 
 **School Uniform and Badge**
