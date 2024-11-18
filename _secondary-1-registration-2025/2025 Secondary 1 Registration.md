@@ -47,9 +47,9 @@ A typical school week is as follows:&nbsp;
 | Wed (late start day) | 8:40 am | 2:30 pm |
 | Thur, Fri | 7:40 am | 1:30 pm |
 
-Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different. 
+Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
 
-Secondary 1 curriculum lessons will officially begin on Term 1 Week 2 from **13th Jan 2025**. Students should have their learning materials ready. 
+Secondary 1 curriculum lessons will officially begin on Term 1 Week 2 from **13th Jan 2025**. Students should have their learning materials ready by then. 
 
 **Sec 1 Orientation Programme (2nd Jan – 10th Jan 2025)**
 
