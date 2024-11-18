@@ -8,12 +8,12 @@ variant: markdown
 
 | ACS Board of Governors | |
 | --- | --- |
-| Chairman | Mr Richard Seow |
+| Chairman | Mr Choe Peng Sum |
 | Vice-Chairman | Dr Wong Heng Yu |
+| Member | Mr Richard Seow |
 | Member | Mr Teoh Tiong Ann |
 | Member | Mr Glenn David Foo |
 | Member | Mr Adam Tan Chin Han |
-| Member | Mr Choe Peng Sum |
 | Member | Rev Kenneth Huang Teng Han |
 | Member | Rev Dr Aaron Tay Tian Yeow |
 | Member | Mr Lim Teck Yin |
@@ -21,6 +21,3 @@ variant: markdown
 | Member | Mr Hugh Lim |
 | Member | Mr Gerald Balendran Singham |
 | Member | Dr Wong Chiang Yin |
-
-
-
