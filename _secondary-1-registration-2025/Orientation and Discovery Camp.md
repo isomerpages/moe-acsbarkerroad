@@ -1,6 +1,6 @@
 ---
 title: Orientation and Discovery Camp
-permalink: /admissions/2024-sec-1-registration/acscamp/
+permalink: /admissions/2025-sec-1-registration/acscamp/
 variant: markdown
 description: ""
 ---

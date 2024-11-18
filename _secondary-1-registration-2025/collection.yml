@@ -1,8 +1,8 @@
 collections:
-  secondary-1-registration-2024:
+  secondary-1-registration-2025:
     output: true
     order:
-      - 2024 Secondary 1 Registration.md
+      - 2025 Secondary 1 Registration.md
       - Book List.md
       - Orientation and Discovery Camp.md
       - Transport Matters.md

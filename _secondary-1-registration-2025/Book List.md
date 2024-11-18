@@ -1,6 +1,6 @@
 ---
 title: Book List
-permalink: /admissions/2024-sec-1-registration/booklist/
+permalink: /admissions/2025-sec-1-registration/booklist/
 variant: markdown
 description: ""
 ---

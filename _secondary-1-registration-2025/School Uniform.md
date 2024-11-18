@@ -1,6 +1,6 @@
 ---
 title: School Uniform
-permalink: /admissions/2024-sec-1-registration/schooluniform/
+permalink: /admissions/2025-sec-1-registration/schooluniform/
 variant: markdown
 description: ""
 ---

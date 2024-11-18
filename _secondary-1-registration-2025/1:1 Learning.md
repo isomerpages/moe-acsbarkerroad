@@ -1,6 +1,6 @@
 ---
 title: 1:1 Learning
-permalink: /admissions/2024-sec-1-registration/11learning/
+permalink: /admissions/2025-sec-1-registration/11learning/
 variant: markdown
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Smart Card
-permalink: /admissions/2024-sec-1-registration/schsmartcard/
+permalink: /admissions/2025-sec-1-registration/schsmartcard/
 variant: markdown
 description: ""
 ---
