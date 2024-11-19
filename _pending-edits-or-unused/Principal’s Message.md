@@ -2,28 +2,22 @@
 title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 ### **Principal’s Message**
-#### **3 Senses and 4 Honours**
 
 <img src="/images/principal.jpg" style="width:25%;margin-left:15px;" align="right">
 
-Someone once asked me what I would want Singapore to be like for my grandchildren. This was in the context of setting strategic directions. At first, I thought the question was strange because when thinking of strategic directions, especially for schools, most Principals would think of the current generation of students and how we can better prepare them for their future. However, upon deeper reflection, I realized why the question is so important. Thinking about the Singapore I want for my grandchildren means that I have to think not just about the future readiness of this generation of students but their capability, as adults and contributing citizens, to create the Singapore that they want for their children. The question forced me to think not just about the success of the current generation of students in future but also their ability to create a nation where their children and grandchildren will also find success and significance in a virtuous cycle. In other words, what it means to nurture&nbsp;**_generations_**&nbsp;_of educated men who are God-fearing and growing in Grace_. It is a source of great encouragement to know that I stand on the shoulders of those who have gone before me tapping on the rich heritage of faithfulness of more than 130 years of ACS history.
+A warm welcome to Anglo-Chinese School (Barker Road)! We will be celebrating our 140th Founder’s Day in 2026.  This speaks volumes of our rich heritage and history of nurturing ‘generations of educated men who are God-fearing and growing in grace.’  This vision is ageless and even more relevant in this age of VUCA (Volatility, Uncertainty, Complexity, Ambiguity) and BANI (Brittle, Anxious, Non-linear, Incomprehensible) times. 
 
-So what does it mean for our gentlemen to be ‘God-fearing and growing in Grace’? I believe it is best described by three ‘Senses’ and four ‘Honours’.
+How does an educated man look like? It is as described in our student’s creed – ‘I shall learn to sharpen my mind, stretch my intellect, and learn to love learning.’ Here at ACS(BR), we want to train our gentlemen to have quality thinking so that they can discern truth from falsehood, reflect critically and innovate creatively. We also want our gentlemen ‘to learn about life and how (they) should develop (their) talents’. We design the learning experiences, be it within or beyond the class, with the intention for our gentlemen to learn about life and their potential, talents and gifts they have within.  Hence, we take all aspects of school experiences, including Co-Curricular Activities (CCA) seriously. When these learning experiences are well thought through and implemented, we will achieve the purpose of helping our gentlemen to learn about life and develop their talents. Through this, they will love and enjoy learning, and continue to learn even when they have graduated from formal education.
 
-<img src="/images/principal1.png" style="width:85%">
+To what end do we want them to learn about life and develop their talents? It is with the purpose of wanting ‘to serve my God, my country, and my school’. This is the sense of purpose we want our gentlemen to graduate with and live by. We want our gentlemen to steward their lives, talents and leaderships to serve others. They will steward their intellect, empathy and gifts to create value for Singapore, community and the school. They will connect with people of all sectors for the common good.
 
-Our gentlemen need to have a strong&nbsp;**sense of worth**&nbsp;that comes from an honest assessment of who they are – fearfully and wonderfully made. They are unique individuals endowed with gifts, talents and limits. Talents and gifts open a multitude of opportunities but limits are equally important because they shape each child’s unique contribution to the world, his light in a specific corner of his world. A strong sense of worth is the belief that each person is precious in and of himself and not as an extension of his abilities or accomplishments. I believe ACS (BR) provides the unique environment for our gentlemen to learn this as they interact with peers from different streams and different needs.
+For that to happen, we then need to inculcate in them values that will help them achieve this end. These values include Commitment and Excellence in our R.I.C.E. values. They will Respect all people and live a life of Integrity, where their good works reflect their hearts and their love for God and others. We also need them to demonstrate resilience and hope in the face of challenges, as stated beautifully in the last paragraph of our Student’s Creed, ‘I shall endeavour to give my best in every trial and weather each storm that life throws at me with Faith in God, Hope in my heart and Love for one another.’
 
-The strong sense of worth must be accompanied by a strong&nbsp;**sense of purpose**. This speaks of the desire to use all they have to contribute positively to their community, beginning with their peers in school and their families, to the nation and the world. They are called to be the ‘beacon of truth and light’ wherever they are placed. It is a reminder that their sense of worth cannot result in pride and a self-serving nature.
+All these are anchored on our belief that “we are God’s masterpiece. He has created us anew in Christ Jesus, so we can do the good things He planned for us long ago.” (Ephesians 2:10)
 
-To direct their sense of purpose, our gentlemen will need a&nbsp;**sense of honour**. Having a sense of honour is about living by the virtues. It is about respect for yourself, your words, other people and the principles you live by. It is about being a person of character in the deepest sense, someone who will do what is right regardless of what other people are doing.
+To God be the Glory.
 
-To make honour explicit, the school will be focusing on four aspects:
-*   Honour our self and our words – Ascribe value and respect the gifts and talents they have and follow through on their words (integrity)
-*   Honour each other – Respect the gifts and talents in others and see differences not as less but as an opportunity to embrace and celebrate (respect)
-*   Honour effort – Acknowledge that nothing worth doing is easy and respect hard work in themselves and others (commitment)
-*   Honour excellence – Embrace excellence as the journey of being our best for the world
-
-This is the education that ACS(BR) seeks to provide for our gentlemen and it will require not just new programmes but a hard look at our current ways of doing and being and making the necessary changes. It is also an acknowledgement that the task requires an entire village. It requires the work of those within the school, at home and in the community of supporters. With the support of our stakeholders and the hard work of staff within the school, truly the Best is Yet to Be!
+The Best is Yet to Be!
