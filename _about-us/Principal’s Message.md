@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Principal’s Message**
 
-<img src="/images/Khoo_Tse_Horng.jpg" style="width:25%;margin-left:15px;" align="right">
+<img src="/images/Khoo_Tse_Horng.jpg" style="width:30%;margin-right:15px;" align="left">
 
 A warm welcome to Anglo-Chinese School (Barker Road)! We will be celebrating our 140th Founder’s Day in 2026.  This speaks volumes of our rich heritage and history of nurturing ‘generations of educated men who are God-fearing and growing in grace.’  This vision is ageless and even more relevant in this age of VUCA (Volatility, Uncertainty, Complexity, Ambiguity) and BANI (Brittle, Anxious, Non-linear, Incomprehensible) times. 
 
