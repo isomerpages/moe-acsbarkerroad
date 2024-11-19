@@ -75,7 +75,7 @@ If you are unable to submit the form online, please contact the school for a har
 
 **Payment**
 
-Each student would receive a personalised bill subsequently later in February/March 2024.
+Each student would receive a personalised bill subsequently later in February/March 2025.
 
 For parents who have chose to pay by cash and are already on GIRO with MOE, the system will auto-deduct the charges from their GIRO account directly and they will not be required to pay cash or cheque.
 
