@@ -9,10 +9,10 @@ description: ""
 
 **Hardware**
 
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2024 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R756TN chromebook**. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R857TN chromebook**. The specifications of the chromebook are as follows:
 
-Acer R756TN chromebook
-* Intel Processor N200 
+Acer R857TN chromebook
+* Intel Processor N250 
 * 8GB LPDDR5 RAM (On-Board at factory level)
 * 64GB eMMC
 * 11.6" HD (1366 x 768) Multi-Touch IPS LCD panel		
@@ -29,15 +29,14 @@ Acer R756TN chromebook
 
 In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$570.00**
-*(Information accurate as of 19th December 2023. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
+Total Cost with GST: **S$581.00**
+*(Information accurate as of 19th November 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
 
 **IT Applications**
 
 The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
 * Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
 *	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
-*	Zoom: Every secondary school student will be given a free Zoom account with a 40 min time limit for their video conferencing needs.  
 
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
 
@@ -49,8 +48,6 @@ The DMA has 3 main components which will support the use of the chromebook PLD i
 *  Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
 *  Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
 *  Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
-
-Please note that the school currently has a Block All Except Whitelist DMA policy in place for all our chromebook PLDs during school hours.
 
 **Procurement**
 
@@ -71,14 +68,14 @@ Subsidies are available for students who require funding support to purchase a P
 
 
 
-To proceed with the purchase, please fill in the online form at this link: **[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)** (Singpass to access) by 12 Jan 2024.
+To proceed with the purchase, please fill in the online form at this link: **[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)** (Singpass to access) by 15 Jan 2025.
 
 If you are unable to submit the form online, please contact the school for a hardcopy version.
 
 
 **Payment**
 
-Each student would receive a personalised bill subsequently later in February/March 2024.
+Each student would receive a personalised bill subsequently later in February/March 2025.
 
 For parents who have chose to pay by cash and are already on GIRO with MOE, the system will auto-deduct the charges from their GIRO account directly and they will not be required to pay cash or cheque.
 
@@ -94,22 +91,21 @@ FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are f
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' ICON account and introduce them to the school's ICT systems. The induction will be conducted after school at the **Computer Lab (Academic Block Level 3)**. Please refer to the schedule listed below for the stipulated dates/timing for each Sec 1 class.
+All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' ICON account and introduce them to the school's ICT systems. The induction will be conducted after school hours. Please refer to the schedule listed below for the stipulated dates/timing/venue for each Sec 1 class.
 
 
-| Class | Date | Day | Timing |
-| -------- | -------- | -------- | -------- |
-| 1A     | 22 Jan     | Monday     | 3 pm to 3:45 pm |
-| 1C     | 23 Jan     | Tuesday     | 3 pm to 3:45 pm |
-| 1G     | 24 Jan     | Wednesday     | 3 pm to 3:45 pm |
-| 1L     | 25 Jan     | Thursday     | 3 pm to 3:45 pm |
-| Makeup for 1A, 1C, 1G and 1L     | 26 Jan     | Friday     | 2 pm to 2:45 pm |
-| 1M     | 29 Jan     | Monday     | 3 pm to 3:45 pm |
-| 1N     | 30 Jan     | Tuesday     | 3 pm to 3:45 pm |
-| 1S     | 31 Jan     | Wednesday    | 3 pm to 3:45 pm |
-| 1T     | 1 Feb     | Thursday     | 3 pm to 3:45 pm |
-| Makeup for 1M, 1N, 1S and 1T     | 2 Feb     | Friday     | 2 pm to 2:45 pm |
+| Class | Date | Day | Timing | Venue |
+| -------- | -------- | -------- | -------- | -------- |
+| 1A | 10 Jan | Friday | 2 pm to 3 pm | Computer Lab @ Level 3 Academic Block |
+| 1C | 10 Jan | Friday | 2 pm to 3 pm | ISH Room 2 @ Level 1 ISH Block |
+| 1S | 6 Jan | Monday | 1 pm to 2 pm | Computer Lab @ Level 3 Academic Block |
+| 1G | 6 Jan | Monday | 1 pm to 2 pm | ISH Room 2 @ Level 1 ISH Block |
+| 1N | 7 Jan | Tuesday | 1 pm to 2 pm | Computer Lab @ Level 3 Academic Block |
+| 1T | 7 Jan | Tuesday | 1 pm to 2 pm | ISH Room 2 @ Level 1 ISH Block |
+| 1L | 8 Jan | Wednesday | 1 pm to 2 pm | Computer Lab @ Level 3 Academic Block |
+| 1M | 8 Jan | Wednesday | 1 pm to 2 pm | ISH Room 2 @ Level 1 ISH Block |
+| Makeup | 13 Jan| Monday | 3 pm to 4 pm | Computer Lab @ Level 3 Academic Block |
 
-As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to CCA or any valid reasons), they can join any session that are planned for other classes or the makeup session every Friday. Please email [acsbr_it@moe.edu.sg](mailto:acsbr_it@moe.edu.sg) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. 
+As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to CCA or any valid reasons), they can join any session that are planned for other classes or the makeup session. Please email [acsbr_it@moe.edu.sg](mailto:acsbr_it@moe.edu.sg) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. 
 
 Thank you.

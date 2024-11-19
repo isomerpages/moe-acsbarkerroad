@@ -34,7 +34,7 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Arrival and Dismissal Procedures**
 
-School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE Shirt with school pants on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
+School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE (V-neck) T Shirt with school bermudas on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
 Dismissal is at 2:30 pm daily, except for Thursdays and Fridays at 1:30 pm.
 
@@ -47,9 +47,9 @@ A typical school week is as follows:&nbsp;
 | Wed (late start day) | 8:40 am | 2:30 pm |
 | Thur, Fri | 7:40 am | 1:30 pm |
 
-Note that the dismissal timings for the 1st 2 weeks for Sec 1 students are different. 
+Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
 
-Secondary 1 curriculum lessons will officially begin on Term 1 Week 2 from **13th Jan 2025**. Students should have their learning materials ready. 
+Secondary 1 curriculum lessons will officially begin on Term 1 Week 2 from **13th Jan 2025**. Students should have their learning materials ready by then. 
 
 **Sec 1 Orientation Programme (2nd Jan – 10th Jan 2025)**
 
@@ -57,6 +57,7 @@ Students are to report to the **school auditorium** on 2 Jan 2025 for assembly b
 Prefects will be around to assist your son/ward to find his way to the required venues. 
 
 In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
+
 | Day | Dismissal | 
 | -------- | -------- | 
 | Week 0 Thur 2 Jan | Dismissal Time is at 1 pm |
@@ -122,9 +123,9 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
-FAS application form can be found at [here](https://go.gov.sg/acsbr-fas).
+FAS application form can be found at [here](https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2025.pdf).
 
-To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 28th Dec 2023, 12 pm. Do note that the school admin office will be closed on 26 Dec 2023.
+To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 27th Dec 2024, 12 pm. 
  
 Students applying for financial aid, please purchase your books and school uniforms upon receiving FAS approval from the school. 
 
@@ -138,17 +139,18 @@ Parents Gateway is our primary mode of communication with parents/guardians:
 The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1) phones.
 
 Parents/Guardians may contact the class form teachers via email.
-![](/images/2024_S1_FT.jpg)
 
-You may contact our Year Head (Lower Sec), Mdm Koh Poh Li at [koh_poh_li@moe.edu.sg](mailto:koh_poh_li@moe.edu.sg) or our Assistant Year Head (Lower Sec), Ms Pearlyn Khoo at [pearlyn_khoo_bei_ling@moe.edu.sg](mailto:pearlyn_khoo_bei_ling@moe.edu.sg) for any clarification.
+![](/images/2025_S1FT.png)
+
+You may contact our Year Head (Lower Sec), Mdm Koh Poh Li at [koh_poh_li@moe.edu.sg](mailto:koh_poh_li@moe.edu.sg) for any clarification.
 
 #### **Chromebooks (Personal Learning Devices)** ####
 --------------------------------------------------------------------------------------------------
 
 The school has been on the 1:1 Learning (1 student to 1 computing device) programme since 2012 where ICT is closely integrated into the students’ core and co-curriculums. Within the academic domain, students use their computing devices for collaborating, research and creating artefacts of their learning. On the character front, students are also challenged to think about their values in making responsible decisions while using technology. Students in Anglo-Chinese School (Barker Road) have been using chromebooks as their Personal Learning Device for 1:1 Learning since 2016 and the school will leverage on the MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook procurement process. 
 
-Your son is required to purchase a chromebook for 1:1 Learning. More details will be provided during the Meet-The-Parent session on 5 Jan. You can also refer to this [page](/admissions/2024-sec-1-registration/11learning/) and this [FAQ](https://go.gov.sg/acsbr-chromebook-faq) for more information.
+Your son is required to purchase a chromebook for 1:1 Learning. More details will be provided during the Meet-The-Parent session on 9 Jan. You can also refer to this [page](/admissions/2025-sec-1-registration/11learning/) and this [FAQ](https://go.gov.sg/acsbr-chromebook-faq) for more information.
 
-1:1 Learning for the Sec 1s is scheduled to commence from Term 2 Week 2  and students should bring their chromebooks to school daily for their learning.
+1:1 Learning for the Sec 1s is scheduled to commence from Term 2 and students should bring their chromebooks to school daily for their learning.
 
 Once again, we want to welcome you to ACS (Barker Road) . The next few years will be a time of growing and development for our young men. It will be interesting and exciting as we see each become an ACS Gentleman, for we know that The Best Is Yet To Be!

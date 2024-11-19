@@ -11,16 +11,11 @@ For online orders, you may purchase at [ https://www.schooluniforms.sg/bb-acs-ba
 
 *  Self-collection at (Orders can be collected after 4 working days) 
 **Bibi & Baba, #02-28, Far East Shopping Centre, 545 Orchard Road, Singapore 238882**
-*  Home delivery - Orders placed after 20 Dec 2023 (12pm), the delivery will be from 4 Jan 2024 onwards.
+*  Home delivery - No Home Deliveries from 18 Dec 2024 to 3 January 2025. Due to year-end peak, delivery will be between 5-10 working days for orders made before 18 Dec 2024 and after 3 January 2025.
+
 
 Direct purchase can only be made during their operating hours.
-
-| Operating Hours (1 to 31 Dec 2023) |
-| ----- |
-| Mon – Sat	10 am to 7 pm |
-| Sun	10 am to 6 pm |
-| Dec 24 & 31	10 am to 4 pm |
-| Dec 25	CLOSED |
+![](/images/2025_BibiBaba.png)
 
 More information can be found on the Bibi & Baba [website](https://www.schooluniforms.sg/)
 
@@ -51,7 +46,7 @@ Please note the following for required attire and appearance for all our Lower S
     
 *   Shoes should be mostly white with white shoelaces. For any coloured parts, only non-striking colours are allowed.
     
-*   Only socks bearing ‘ACS(BR)’ may be worn.
+*   Only plain white socks or socks bearing ‘ACS(BR)’ may be worn.
     
 *   Socks are to be pulled up properly to their entire lengths and they are to cover the ankles fully.
     
