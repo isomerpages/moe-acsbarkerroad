@@ -9,10 +9,10 @@ description: ""
 
 **Hardware**
 
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2024 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R756TN chromebook**. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R857TN chromebook**. The specifications of the chromebook are as follows:
 
-Acer R756TN chromebook
-* Intel Processor N200 
+Acer R857TN chromebook
+* Intel Processor N250 
 * 8GB LPDDR5 RAM (On-Board at factory level)
 * 64GB eMMC
 * 11.6" HD (1366 x 768) Multi-Touch IPS LCD panel		
@@ -29,8 +29,8 @@ Acer R756TN chromebook
 
 In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$570.00**
-*(Information accurate as of 19th December 2023. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
+Total Cost with GST: **S$581.00**
+*(Information accurate as of 19th November 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
 
 **IT Applications**
 
