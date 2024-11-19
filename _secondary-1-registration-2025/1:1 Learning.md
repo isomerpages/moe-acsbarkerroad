@@ -91,11 +91,11 @@ FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are f
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' ICON account and introduce them to the school's ICT systems. The induction will be conducted after school at the **Computer Lab (Academic Block Level 3)**. Please refer to the schedule listed below for the stipulated dates/timing for each Sec 1 class.
+All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' ICON account and introduce them to the school's ICT systems. The induction will be conducted after school hours. Please refer to the schedule listed below for the stipulated dates/timing/venue for each Sec 1 class.
 
 
-| Class | Date | Day | Timing |
-| -------- | -------- | -------- | -------- |
+| Class | Date | Day | Timing | Venue |
+| -------- | -------- | -------- | -------- | -------- |
 | 1A     | 22 Jan     | Monday     | 3 pm to 3:45 pm |
 | 1C     | 23 Jan     | Tuesday     | 3 pm to 3:45 pm |
 | 1G     | 24 Jan     | Wednesday     | 3 pm to 3:45 pm |
