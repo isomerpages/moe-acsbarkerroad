@@ -25,4 +25,4 @@ All these are anchored on our belief that “we are God’s masterpiece. He has 
 </p>
 To God be the Glory.
 
-The Best is Yet to Be!<p></p>
+The Best is Yet to Be!
