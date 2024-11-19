@@ -37,7 +37,6 @@ Total Cost with GST: **S$581.00**
 The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
 * Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
 *	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
-*	Zoom: Every secondary school student will be given a free Zoom account with a 40 min time limit for their video conferencing needs.  
 
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
 
@@ -49,8 +48,6 @@ The DMA has 3 main components which will support the use of the chromebook PLD i
 *  Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
 *  Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
 *  Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
-
-Please note that the school currently has a Block All Except Whitelist DMA policy in place for all our chromebook PLDs during school hours.
 
 **Procurement**
 
@@ -71,7 +68,7 @@ Subsidies are available for students who require funding support to purchase a P
 
 
 
-To proceed with the purchase, please fill in the online form at this link: **[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)** (Singpass to access) by 12 Jan 2024.
+To proceed with the purchase, please fill in the online form at this link: **[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)** (Singpass to access) by 15 Jan 2025.
 
 If you are unable to submit the form online, please contact the school for a hardcopy version.
 
