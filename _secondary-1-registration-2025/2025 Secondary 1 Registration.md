@@ -57,6 +57,7 @@ Students are to report to the **school auditorium** on 2 Jan 2025 for assembly b
 Prefects will be around to assist your son/ward to find his way to the required venues. 
 
 In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
+
 | Day | Dismissal | 
 | -------- | -------- | 
 | Week 0 Thur 2 Jan | Dismissal Time is at 1 pm |
