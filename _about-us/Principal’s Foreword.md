@@ -4,7 +4,7 @@ permalink: /about-us/principals-foreword/
 description: ""
 variant: markdown
 ---
-### **Principal’s Message**
+### **Principal’s Foreword**
 
 <img src="/images/Khoo_Tse_Horng.jpg" style="width:30%;margin-right:15px;" align="left">
 
