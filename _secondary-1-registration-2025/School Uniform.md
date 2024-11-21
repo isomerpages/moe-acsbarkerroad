@@ -15,7 +15,7 @@ For online orders, you may purchase at [ https://www.schooluniforms.sg/bb-acs-ba
 
 
 Direct purchase can only be made during their operating hours.
-![](/images/2025_BibiBaba.jpg)
+![](/images/2025_BibiBaba.png)
 
 More information can be found on the Bibi & Baba [website](https://www.schooluniforms.sg/)
 
