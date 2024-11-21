@@ -123,7 +123,7 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
-FAS application form can be found at [here](https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2025.pdf).
+FAS application form can be downloaded [here](https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2025.pdf) or apply using the e-FAS form at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas).
 
 To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 27th Dec 2024, 12 pm. 
  
