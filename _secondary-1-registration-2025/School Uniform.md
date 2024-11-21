@@ -6,18 +6,18 @@ description: ""
 ---
 #### **Purchase of Uniform** ####
 ----------------------------------------------------------------------------------------------------------
-Our school uniform vendor is Bibi & Baba Pte Ltd. 
+Our school uniform vendor is Bibi &amp; Baba Pte Ltd. 
 For online orders, you may purchase at [ https://www.schooluniforms.sg/bb-acs-barker-road-1]( https://www.schooluniforms.sg/bb-acs-barker-road-1)
 
-*  Self-collection at (Orders can be collected after 4 working days) 
-**Bibi & Baba, #02-28, Far East Shopping Centre, 545 Orchard Road, Singapore 238882**
+*  Self-collection will be available 4 working days after the order date.
+<br>(Working days exclude Saturdays, Sundays, and Public Holidays.)
 *  Home delivery - No Home Deliveries from 18 Dec 2024 to 3 January 2025. Due to year-end peak, delivery will be between 5-10 working days for orders made before 18 Dec 2024 and after 3 January 2025.
 
 
 Direct purchase can only be made during their operating hours.
 ![](/images/2025_BibiBaba.png)
 
-More information can be found on the Bibi & Baba [website](https://www.schooluniforms.sg/)
+More information can be found on the Bibi &amp; Baba [website](https://www.schooluniforms.sg/)
 
 #### **Dress Code** ####
 
