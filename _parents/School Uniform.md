@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **School Uniform**
-Our school uniform vendor is Bibi &amp; Baba Pte Ltd. For online orders, you may purchase at https://www.schooluniforms.sg/bb-acs-barker-road-1
+Our school uniform vendor is Bibi &amp; Baba Pte Ltd. For online orders, you may purchase at [https://www.schooluniforms.sg/bb-acs-barker-road-1](https://www.schooluniforms.sg/bb-acs-barker-road-1).
 
 **Bibi &amp; Baba Orchard Road Shop – Retail Walk-in Sales**<br>
 545 Orchard Road, #02-28 Far East Shopping Centre<br>
