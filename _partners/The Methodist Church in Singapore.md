@@ -2,5 +2,7 @@
 title: The Methodist Church in Singapore
 permalink: /partners/the-methodist-church-in-singapore/
 description: ""
+variant: markdown
 ---
-**[Click here](https://www.methodist.org.sg/message)** to read the Methodist Message.
+**[Click here](https://www.methodist.org.sg/message)**&nbsp;to read the Methodist Message.
+<img src="/images/MM-logo.png" style="width:45%">
