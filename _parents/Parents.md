@@ -11,4 +11,4 @@ variant: markdown
 4.  **[School Uniform](/parents/school-uniform/)**
 5.  **[Student Protection Plan](/parents/student-protection-plan/)**
 6. **[Car Decal Application](/files/acs__br__car_decal_application_form_2024.pdf)**
-7. **[E-Application Form for Leave Of Absence](https://form.gov.sg/60ba03a9f33c6f0012fb5624)**
+7. **[e-Application Form for Leave Of Absence](https://form.gov.sg/60ba03a9f33c6f0012fb5624)**
