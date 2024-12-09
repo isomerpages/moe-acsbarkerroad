@@ -33,7 +33,7 @@ description: ""
 <br>(Students and parents are welcome to join)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science LC</p>
+<p>Science Learning Centre</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,10 @@ description: ""
 <p>Briefing for students on results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Math &amp; Science LC</p>
+<p>Math Learning Centre
+<br>(4M students)</p>
+<p>Science Learning Centre
+<br>(4A and 4C students)</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +58,10 @@ description: ""
 <p>Release of Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Math &amp; Science LC</p>
+<p>Math Learning Centre
+<br>(4M students)</p>
+<p>Science Learning Centre
+<br>(4A and 4C students)</p>
 </td>
 </tr>
 <tr>
