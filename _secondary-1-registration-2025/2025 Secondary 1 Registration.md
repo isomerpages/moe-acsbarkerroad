@@ -64,7 +64,7 @@ In view of the special two weeks of Orientation for our Sec 1 students, do note 
 | Week 0 Thur 2 Jan | Dismissal Time is at 1 pm |
 | Week 0 Fri 3 Jan | Dismissal Time is at 1:30 pm |
 | Week 1 Mon – Wed 6 to 8 Jan | Dismissal Time is at 1 pm, with certain classes staying back for ICT induction (1 pm to 2 pm) on different days, as stated below. <br><br>Mon 6 Jan : 1S, 1G<br>Tue 7 Jan: 1N, 1T<br>Wed 8 Jan: 1L, 1M |
-| Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair |
+| Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair<br><br>(Students may proceed to get their own lunch at the canteen before proceeding to the CCA Fair at 2 pm) |
 | Week 1 Fri 10 Jan | Dismissal Time is at 1:30 pm, except for the following two classes staying back for ICT induction (2 to 3 pm)<br><br>Fri 10 Jan: 1A, 1C |
 
 **Recess Timing and Snack Break**
