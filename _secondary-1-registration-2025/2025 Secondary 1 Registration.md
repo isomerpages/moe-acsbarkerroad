@@ -46,8 +46,7 @@ A typical school week is as follows:&nbsp;
 | Mon, Tue | 7:40 am | 2:30 pm |
 | Wed (late start day) | 8:40 am | 2:30 pm |
 | Thur, Fri | 7:40 am | 1:30 pm |
-
-*For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.*
+| *For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.* |
 
 Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
 
