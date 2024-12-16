@@ -94,12 +94,7 @@ They will have a 5-min snack break in class at 1 pm daily, except for Thursdays 
 
 Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped.
 
-During dismissal time (Mondays to Wednesdays
-2.35pm, Thursdays and Fridays 1.35pm), parents may drive into the level 1
-Transport Centre to pick up their sons and are allowed a maximum of 10 minutes
-to park their vehicle in empty red/white lots. No parallel parking is allowed. Other
-designated drop-off/pick-up points include the Chancery Lane Activity Area and
-Gate C, along Barker Road.
+During dismissal time (Mondays to Wednesdays 2.35pm, Thursdays and Fridays 1.35pm), parents may drive into the level 1 Transport Centre to pick up their sons and are allowed a maximum of 10 minutes to park their vehicle in empty red/white lots. No parallel parking is allowed. Other designated drop-off/pick-up points include the Chancery Lane Activity Area and Gate C, along Barker Road.
 
 To prevent traffic congestion and crowding outside the school gate, LTA does not allow any vehicle to wait outside the school gate along Barker Road and Dunearn Road. LTA will take enforcement action against vehicles found waiting/parking at this stretch (please refer to the map). Should you arrive too early for immediate pick-up, please utilise the pick-up/drop off space located near Chancery Lane.
 
