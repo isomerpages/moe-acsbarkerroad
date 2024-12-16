@@ -2,6 +2,7 @@ collections:
   secondary-1-registration-2025:
     output: true
     order:
+      - Family@Barker Parent Support Group (PSG).md
       - 2025 Secondary 1 Registration.md
       - Book List.md
       - Discovery Camp.md
