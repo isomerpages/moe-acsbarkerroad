@@ -30,4 +30,4 @@ F@B offers seven Ministries for parents who are eager to actively contribute to 
 
 **Welcome Breakfast**
 
-F@B will be hosting a Welcome Breakfast on 4 February, 8am to 9:30am, where interested parents can learn more about each Ministry, hear personal stories from fellow parents, and discover how involvement with F@B can help nurture faith, love, and strength in our community.
+F@B will be hosting a Welcome Breakfast on 4 February, 8 am to 9:30 am, where interested parents can learn more about each Ministry, hear personal stories from fellow parents, and discover how involvement with F@B can help nurture faith, love, and strength in our community.
