@@ -14,6 +14,7 @@ variant: markdown
 | Principal | Mr Khoo Tse Horng |
 | Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
+| Vice-Principal | Mr Chen Hong Ming |
 | Vice-Principal (Administration) | Mrs Marie Boey (Mdm Marie Loh Mei Ling) |
 | Admin Manager | Ms Nur Ezzati |
 | Admin Manager  | Mr Glenn Tan |
