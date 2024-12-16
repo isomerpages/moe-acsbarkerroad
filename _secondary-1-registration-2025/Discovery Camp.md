@@ -22,7 +22,7 @@ Reporting attire: **PE attire**
 
 Cost: Nil
 
-Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date..
+Packing list for the camp will be given to your son and more information will be disseminated via Parents Gateway nearer to date.
 
 Parents will be invited to attend the badge ceremony on **23rd January at 10:30am (in school)**.
 
