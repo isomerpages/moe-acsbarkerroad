@@ -10,7 +10,7 @@ Family@Barker (F@B) is a dynamic community of parent volunteers (PVs) who work c
 
 **WhatsApp chat group**
 
-To help keep you informed and connected, Family@Barker (F@B) has set up a dedicated ACS(BR) Sec 1 2025 Parents WhatsApp chat group. You can join by scanning the QR code below or by visiting [https://bit.ly/3BdijgN](https://bit.ly/3BdijgN).
+To help keep you informed and connected, Family@Barker (F@B) has set up a dedicated ACS(BR) Sec 1 2025 Parents WhatsApp chat group. You can join by visiting [https://bit.ly/3BdijgN](https://bit.ly/3BdijgN).
 
 This chat group will enable you to:
 * Express interest in becoming a parent volunteer (PV) with F@B.
