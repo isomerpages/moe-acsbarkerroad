@@ -24,7 +24,7 @@ Parents/Guardians can check their child/ward's Secondary One class via the Paren
 **Sec 1 Meet The Parent and CCA Fair**
 
 There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 9 January 2025 from 11.30 am.**
-* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am to 1:30 pm
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am - 1:30 pm
 * CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm
 
 #### **Start of School in 2025 - Important Information for Students and Parents** ####
