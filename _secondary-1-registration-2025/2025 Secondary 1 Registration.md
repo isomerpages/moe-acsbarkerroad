@@ -92,7 +92,7 @@ They will have a 5-min snack break in class at 1 pm daily, except for Thursdays 
 
 **Parking on campus**
 
-Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped. Other designated drop-off/pick-up points include the Chancery Lane Activity Area and Gate C, along Barker Road.
+Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped.
 
 During dismissal time (Mondays to Wednesdays
 2.35pm, Thursdays and Fridays 1.35pm), parents may drive into the level 1
