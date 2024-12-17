@@ -9,45 +9,44 @@ description: ""
 
 **Hardware**
 
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R857TN chromebook**. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer Chromebook Spin R857TN**. The specifications of the chromebook are as follows:
 
-Acer R857TN chromebook
+Acer Chromebook Spin R857TN
 * Intel Processor N250 
 * 8GB LPDDR5 RAM (On-Board at factory level)
 * 64GB eMMC
-* 11.6" HD (1366 x 768) Multi-Touch IPS LCD panel		
-* 2x USB-C, 2x USB-A, 1x 3.5mm headphone jack
-* Intel Wifi 6E
-* Bluetooth v5.1
+* 12.2 inch WUXGA (1920 x 1200) Multi-Touch IPS LCD panel
+* Up to 10 hours batttery size		
+* 1x HDMI, 2x USB-C, 2x USB-A, 1x Audio jack, 1x Kensington lock slot
+* Wi-Fi 6E AX201
 * Acer USI Active Stylus
 * Dual Cameras (display top & keyboard top)
 * Google Chrome OS
 * 3 year Carry-in Warranty + Comprehensive Accidental Damage Protection (Insurance)
-* Weight: 1.35 kg
-* Accessories include: Power Adaptor, Mouse, Stylus, Carrier Bag
-    
+* Weight: 1.5 kg
+* Accessories include: Power Adaptor, Mouse, Active stylus, Carrier Bag
 
 In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$581.00**
-*(Information accurate as of 19th November 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
+Total Cost with GST: **S$570.00**
+*(Information accurate as of 17th December 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
 
 **IT Applications**
 
 The school will also progressively roll out IT applications that will be vital for students’ teaching and learning. These include: 
-* Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
-*	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel. 
+*	Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
+*	Microsoft Office 365: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint, and Excel.
 
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. Schools may also choose to roll out applications other than those listed above.
 
 **Device Management App (DMA)**
 
-A Device Management Application (DMA) will come pre-installed on all chromebook PLDs purchased through the school, and will be installed on all student-owned devices. The DMA is fully funded by MOE.
+A Device Management App (DMA) will come pre-installed on all PLDs purchased through the school and will be installed on any student-owned chromebook parents/guardians opt for the student to use in lieu of the PLD. The DMA is fully funded by MOE.
 
-The DMA has 3 main components which will support the use of the chromebook PLD in the classroom and safeguard students’ cyber wellness:
-*  Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
-*  Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
-*  Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
+The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness: 
+*  Classroom Management Service. To help teachers manage students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
+*  Mobile Device Management Service. To help update and manage the PLD, protect the PLD from malicious software, and protects students from objectionable internet content.
+*  Usage Management Service. To enable school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
 **Procurement**
 

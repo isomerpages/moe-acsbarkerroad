@@ -11,7 +11,7 @@ Congratulations! Your son/ward has finished his Primary School education and is 
 
 **Sec 1 Online Registration**
 
-Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2025s1reg) by **26 Dec 2024, 12 pm**.
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2025s1reg) by **23 Dec 2024, 12 pm**.
 
 **Offer Letter for subjects at More Demanding Level (MDL)**
 
@@ -24,7 +24,7 @@ Parents/Guardians can check their child/ward's Secondary One class via the Paren
 **Sec 1 Meet The Parent and CCA Fair**
 
 There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 9 January 2025 from 11.30 am.**
-* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am to 1:30 pm
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am - 1:30 pm
 * CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm
 
 #### **Start of School in 2025 - Important Information for Students and Parents** ####
@@ -46,6 +46,7 @@ A typical school week is as follows:&nbsp;
 | Mon, Tue | 7:40 am | 2:30 pm |
 | Wed (late start day) | 8:40 am | 2:30 pm |
 | Thur, Fri | 7:40 am | 1:30 pm |
+| *For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.* |
 
 Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
 
@@ -63,7 +64,7 @@ In view of the special two weeks of Orientation for our Sec 1 students, do note 
 | Week 0 Thur 2 Jan | Dismissal Time is at 1 pm |
 | Week 0 Fri 3 Jan | Dismissal Time is at 1:30 pm |
 | Week 1 Mon – Wed 6 to 8 Jan | Dismissal Time is at 1 pm, with certain classes staying back for ICT induction (1 pm to 2 pm) on different days, as stated below. <br><br>Mon 6 Jan : 1S, 1G<br>Tue 7 Jan: 1N, 1T<br>Wed 8 Jan: 1L, 1M |
-| Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair |
+| Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair<br><br>(Students may proceed to get their own lunch at the canteen before proceeding to the CCA Fair at 2 pm) |
 | Week 1 Fri 10 Jan | Dismissal Time is at 1:30 pm, except for the following two classes staying back for ICT induction (2 to 3 pm)<br><br>Fri 10 Jan: 1A, 1C |
 
 **Recess Timing and Snack Break**
@@ -91,7 +92,9 @@ They will have a 5-min snack break in class at 1 pm daily, except for Thursdays 
 
 **Parking on campus**
 
-Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped. Other designated drop-off/pick-up points include the Chancery Lane Activity Area and Gate C, along Barker Road. 
+Please note that designated red bays marked within the Transport Centre are only for those who work on the campus. Only vehicles with designated staff labels will be allowed to park in these bays. Parents/Guardians are to use only the white parking bays or risk having your car wheels clamped.
+
+During dismissal time (Mondays to Wednesdays 2.35pm, Thursdays and Fridays 1.35pm), parents may drive into the level 1 Transport Centre to pick up their sons and are allowed a maximum of 10 minutes to park their vehicle in empty red/white lots. No parallel parking is allowed. Other designated drop-off/pick-up points include the Chancery Lane Activity Area and Gate C, along Barker Road.
 
 To prevent traffic congestion and crowding outside the school gate, LTA does not allow any vehicle to wait outside the school gate along Barker Road and Dunearn Road. LTA will take enforcement action against vehicles found waiting/parking at this stretch (please refer to the map). Should you arrive too early for immediate pick-up, please utilise the pick-up/drop off space located near Chancery Lane.
 
@@ -103,7 +106,7 @@ Students are to report in their school uniform on the first day of school.
 
 The school uniform can be purchased from Bibi &amp; Baba. Please refer to the ['School Uniform' page](/admissions/2025-sec-1-registration/schooluniform/).
 
-The ACS badge and ACS(BR) socks are part of the school uniform and can be purchased from the school bookshop.&nbsp;_Do note however, that a badge will be presented to your son/ward on the first day of school during the Welcome Service._
+The ACS badge and ACS(BR) socks are part of the school uniform and can be purchased from the school bookshop.
 
 Shoes should be white-based with white shoe laces.
 
