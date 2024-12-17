@@ -9,28 +9,27 @@ description: ""
 
 **Hardware**
 
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer R857TN chromebook**. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer Chromebook Spin R857TN**. The specifications of the chromebook are as follows:
 
-Acer R857TN chromebook
+Acer Chromebook Spin R857TN
 * Intel Processor N250 
 * 8GB LPDDR5 RAM (On-Board at factory level)
 * 64GB eMMC
-* 11.6" HD (1366 x 768) Multi-Touch IPS LCD panel		
-* 2x USB-C, 2x USB-A, 1x 3.5mm headphone jack
-* Intel Wifi 6E
-* Bluetooth v5.1
+* 12.2 inch WUXGA (1920 x 1200) Multi-Touch IPS LCD panel
+* Up to 10 hours batttery size		
+* 1x HDMI, 2x USB-C, 2x USB-A, 1x Audio jack, 1x Kensington lock slot
+* Wi-Fi 6E AX201
 * Acer USI Active Stylus
 * Dual Cameras (display top & keyboard top)
 * Google Chrome OS
 * 3 year Carry-in Warranty + Comprehensive Accidental Damage Protection (Insurance)
-* Weight: 1.35 kg
-* Accessories include: Power Adaptor, Mouse, Stylus, Carrier Bag
-    
+* Weight: 1.5 kg
+* Accessories include: Power Adaptor, Mouse, Active stylus, Carrier Bag
 
 In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$581.00**
-*(Information accurate as of 19th November 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
+Total Cost with GST: **S$570.00**
+*(Information accurate as of 17th December 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
 
 **IT Applications**
 
