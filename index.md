@@ -22,7 +22,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 Sec 1 Registration
+        - title: 2025 Secondary 1 Registration
           date: 18 December 2024
           announcement: Please click on the link below for more details.
           link_text: Find Out More
