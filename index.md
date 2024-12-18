@@ -22,11 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 Release of N-Level Results
-          date: 16 December 2024
-          announcement: For the programme details, please click on the link below.
+        - title: 2025 Secondary 1 Registration
+          date: 18 December 2024
+          announcement: Please click on the link below for more details.
           link_text: Find Out More
-          link_url: /release-of-n-levels-results-2024
+          link_url: /admissions/2025-sec-1-registration/
         - title: 2025 School Booklist
           date: 11 November 2024
           announcement: For booklist download and purchase information, please click on
