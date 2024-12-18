@@ -36,17 +36,18 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE (V-neck) T Shirt with school bermudas on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
-Dismissal is at 2:30 pm daily, except for Thursdays and Fridays at 1:30 pm.
+Dismissal is at 2:30 pm daily, except for Thursdays (1.35pm) and Fridays (1:30 pm).
 
 
 A typical school week is as follows:&nbsp;
 
 | Day(s) | Start Time | Dismissal Time |
 | -------- | -------- | -------- |
-| Mon, Tue | 7:40 am | 2:30 pm |
-| Wed (late start day) | 8:40 am | 2:30 pm |
-| Thur, Fri | 7:40 am | 1:30 pm |
-| *For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.* |
+| Mon, Tue | 7:40 am | 2:30 pm* |
+| Wed (late start day) | 8:40 am | 2:30 pm* |
+| Thur | 7:40 am | 1:35 pm* |
+| Fri | 7:40 am | 1:30 pm |
+| * *For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.* |
 
 Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
 
