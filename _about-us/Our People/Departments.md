@@ -191,13 +191,11 @@ variant: markdown
 |---|---|
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
-| Head of Department, Student Management | Mr Mohamad Azhar |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Year Head, Upper Secondary | Mr David Wong |
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 | Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Partnerships | Mr Mark Goh |
-| Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
 | Subject Head, National Education and Values-In-Action | Ms Jasmine Zheng |
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
