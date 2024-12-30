@@ -12,7 +12,6 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Principal | Mr Khoo Tse Horng |
-| Vice-Principal | Mrs Aw Meng Yin (Mdm Poon Meng Yin) |
 | Vice-Principal | Mr Jeffrey Tan |
 | Vice-Principal | Mr Chen Hong Ming |
 | Vice-Principal (Administration) | Mrs Marie Boey (Mdm Marie Loh Mei Ling) |
@@ -41,7 +40,6 @@ variant: markdown
 |---|---|
 | Head of Department, English Language & Literature | Ms Chong Seok Ying |
 | Subject Head, Partnerships | Mr Mark Goh |
-| Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
 | Senior Teacher, English | Ms Fong Chee Sing |
 |  | Mrs Catherine Wong |
@@ -59,21 +57,19 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| Head of Department, Humanities | Ms Teo Celine |
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Year Head, Upper Secondary | Mr David Wong |
 | Lead Teacher, Geography | Mr Oh Boon Teck |
 | Subject Head, Geography | Ms Wong Qi Shan |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
-|  | Ms Heike Boon |
 |  | Ms Charmaine Lim |
 |  | Mr Alan Lim |
 |  | Mdm Geraldine Chong |
 |  | Mr Alexis Ho |
 |  | Mr Jopescu Toh |
-|  | Ms Ponniey S Kumar |
 |  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
+|  | Mr William Liew |
 |
 
 #### **Learning Technologies**
@@ -83,7 +79,6 @@ variant: markdown
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
 | ICT Associate | Mr Tan Joon Kiat |
-| ICT Technical Assistant | Mr Muhamad Khairul |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
 |
@@ -111,7 +106,6 @@ variant: markdown
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
-|  | Mrs Susan Neo (Mdm Chew Choo Geok) |
 |  | Mr Melvin Sim |
 |
 
@@ -122,9 +116,7 @@ variant: markdown
 | Head of Department, Mother Tongue | Ms Loh Pei Guat |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Subject Head, Mother Tongue  | Ms Nur Diyanah |
-| Senior Teacher, Educational Support | Ms Tay Hwee Fern |
 |  | Mr Ma Jun |
-|  | Mr Qiu Nan |
 |  | Mdm Norhashikin Salim |
 |  | Mdm Noreen Mahmood |
 |  | Mdm P Rajesvari |
@@ -134,6 +126,7 @@ variant: markdown
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
+|  | Ms Rebecca Wong |
 |
 
 #### **Physical Education & Aesthetics**
@@ -151,6 +144,7 @@ variant: markdown
 |  | Ms Elsie Liu |
 |  | Mdm Marina Bohari |
 |  | Mr Yusman Tajap |
+|  | Mr Muhammad Nabil |
 |
 
 #### **Science**
@@ -160,7 +154,6 @@ variant: markdown
 | Head of Department, Science | Mr Matthias Low |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
-| Head of Department, Student Management | Mr Mohamad Azhar |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | School Staff Developer | Mr Mohammed Ibrahim |
 | Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
@@ -180,19 +173,16 @@ variant: markdown
 |  | Mr Su Jiahao Richmond |
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
-|  | Mr Damien Fong |
 |  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
-| Teacher Assistant  | Mr Abdul Rashid |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
 | STEM Instructor (Workshop) | Mr Rosli Che Embi |
 | STEM Instructor (Workshop) | Mr Sunny Ng |
-| Workshop Instructor (D&T/Mobile Robotics)  | Mr Muhammad Fauzi |
 |
 
 #### **Student Development**
@@ -201,13 +191,11 @@ variant: markdown
 |---|---|
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
-| Head of Department, Student Management | Mr Mohamad Azhar |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
 | Year Head, Upper Secondary | Mr David Wong |
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 | Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Partnerships | Mr Mark Goh |
-| Subject Head, Student Well-being | Ms Rachel Louis |
 | Subject Head, Student Leadership | Mr Freddy Tan |
 | Subject Head, National Education and Values-In-Action | Ms Jasmine Zheng |
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
