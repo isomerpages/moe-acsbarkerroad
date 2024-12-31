@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 Class Posting
+          date: 01 January 2025
+          announcement: Please click on the link below for more details.
+          link_text: Find Out More
+          link_url: /admissions/2025-class-posting/
         - title: 2025 Secondary 1 Registration
           date: 18 December 2024
           announcement: Please click on the link below for more details.
