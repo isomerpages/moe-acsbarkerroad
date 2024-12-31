@@ -57,10 +57,10 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
+| Head of Department, Humanities | Ms Wong Qi Shan |
 | Head of Department, Character & Citizenship Education | Ms Alice Chia |
 | Year Head, Upper Secondary | Mr David Wong |
 | Lead Teacher, Geography | Mr Oh Boon Teck |
-| Subject Head, Geography | Ms Wong Qi Shan |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
 |  | Ms Charmaine Lim |
 |  | Mr Alan Lim |
