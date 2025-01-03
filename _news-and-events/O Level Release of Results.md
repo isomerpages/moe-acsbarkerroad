@@ -10,5 +10,7 @@ report in your school uniform and be in school approved haircut and shoes.&nbsp;
 <p>For parents and guardians who are collecting the result slips as well
 as miscellaneous items on behalf&nbsp;of the student, please complete the
 proxy form attached and bring it for collection.</p>
+<p><a href="/files/Proxy_Authorisation_Form.pdf" rel="noopener nofollow" target="_blank">Proxy Authorisation Form</a>
+</p>
 <p>There will also be an <strong>optional Thanksgiving Service from 1315hrs&nbsp;to 1400hrs at the</strong>  <strong>school concert hall</strong>.
 Parents, guardians and students are welcome to join the service.</p>
