@@ -90,19 +90,19 @@ FAQs can be found [here](https://go.gov.sg/acsbr-chromebook-faq). If there are f
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' ICON account and introduce them to the school's ICT systems. The induction will be conducted after school hours. Please refer to the schedule listed below for the stipulated dates/timing/venue for each Sec 1 class.
+All Sec 1 students are to attend a **compulsory** ICT induction session. Purpose of the session is to provision the students' MIMS account and introduce them to the school's ICT systems. The induction will be conducted after school hours. Please refer to the schedule listed below for the stipulated dates/timing/venue for each Sec 1 class.
 
 
 | Class | Date | Day | Timing | Venue |
 | -------- | -------- | -------- | -------- | -------- |
-| 1A | 10 Jan | Friday | 2 pm to 3 pm | Computer Lab @ Level 3 Academic Block |
-| 1C | 10 Jan | Friday | 2 pm to 3 pm | Mobile Robotics Room @ Level 3 Academic Block |
-| 1S | 6 Jan | Monday | 1 pm to 2 pm | Computer Lab @ Level 3 Academic Block |
-| 1G | 6 Jan | Monday | 1 pm to 2 pm | Mobile Robotics Room @ Level 3 Academic Block |
-| 1N | 7 Jan | Tuesday | 1 pm to 2 pm | Computer Lab @ Level 3 Academic Block |
-| 1T | 7 Jan | Tuesday | 1 pm to 2 pm | Mobile Robotics Room @ Level 3 Academic Block |
-| 1L | 8 Jan | Wednesday | 1 pm to 2 pm | Computer Lab @ Level 3 Academic Block |
-| 1M | 8 Jan | Wednesday | 1 pm to 2 pm | Mobile Robotics Room @ Level 3 Academic Block |
+| 1A | 10 Jan | Friday | 2 pm to 3 pm | Classroom |
+| 1C | 10 Jan | Friday | 2 pm to 3 pm | Classroom |
+| 1S | 6 Jan | Monday | 1 pm to 2 pm | Classroom |
+| 1G | 6 Jan | Monday | 1 pm to 2 pm | Classroom |
+| 1N | 7 Jan | Tuesday | 1 pm to 2 pm | Classroom |
+| 1T | 7 Jan | Tuesday | 1 pm to 2 pm | Classroom |
+| 1L | 8 Jan | Wednesday | 1 pm to 2 pm | Classroom |
+| 1M | 8 Jan | Wednesday | 1 pm to 2 pm | Classroom |
 | Makeup | 13 Jan| Monday | 3 pm to 4 pm | Computer Lab @ Level 3 Academic Block |
 
 As far as possible, students are to keep to the stipulated date/timing for the ICT induction. In the event that students are unable to attend any stipulated session (due to CCA or any valid reasons), they can join any session that are planned for other classes or the makeup session. Please email [acsbr_it@moe.edu.sg](mailto:acsbr_it@moe.edu.sg) to inform them about the change. Students should bring their students' handbook and a pen for the induction. They do NOT need to bring their own computing devices. School laptops will be provided for the induction. 

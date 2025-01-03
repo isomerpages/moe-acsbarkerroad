@@ -32,6 +32,7 @@ variant: markdown
 | Operations Support Officer | Mr Tan Seng Hwa |
 | Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
+| Operations Support Officer | Mr Mohamed Sariff |
 |
 
 #### **English & Literature**
@@ -51,6 +52,9 @@ variant: markdown
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
+|  | Ms Ho Jia Yan |
+|  | Ms Chen Youlin Felicia |
+|  | Ms Kimberly Tan Peck Rong |
 |
 
 #### **Humanities**
@@ -81,6 +85,7 @@ variant: markdown
 | ICT Associate | Mr Tan Joon Kiat |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
+| ICT Technical Assistant | Mr Ramlan Abd Kadir |
 |
 
 #### **Mathematics**
@@ -103,6 +108,7 @@ variant: markdown
 |  | Mr Chia Kah Kheng |
 |  | Mr Su Jiahao Richmond |
 |  | Mr Chua Wee Choo |
+|  | Mr Jason Goh Thiam Hock |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
@@ -126,6 +132,8 @@ variant: markdown
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
+|  | Mr Yeong Hoi Wai |
+|  | Ms Leow Lea Ching |
 |  | Ms Rebecca Wong |
 |
 
@@ -139,12 +147,12 @@ variant: markdown
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
+|  | Mr Muhammad Nabil |
 |  | Ms Diana Kuek |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
 |  | Mdm Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Mr Muhammad Nabil |
 |
 
 #### **Science**
@@ -178,6 +186,9 @@ variant: markdown
 |  | Ms Gracies Goh |
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
+|  | Mr Tham Soh Jee |
+|  | Mr Quan Wing Wah |
+|  | Ms Goh Pin-Zi |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
@@ -201,11 +212,12 @@ variant: markdown
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
 | School Counsellor | Mr Chong Meng Lieng |
 | School Counsellor | Mr Kevin Lum |
+| School Counsellor | Ms Jessica Shayna Prince |
 | Special Educational Needs Officer | Ms Chu Pei Yun |
 | Special Educational Needs Officer | Mr Lionel Lin |
 | Special Educational Needs Officer | Ms Joan Anne Lim |
 | Special Educational Needs Officer | Mr Muhammad Iskandar |
 | Educational Psychologist | Mr Jeremy Chian |
 | Financial Assistance Support | Mdm Alice Wang |
-| MOE Education and Career Guidance Counsellor | Ms Ang Hui Min |
+| MOE Education and Career Guidance Counsellor | Ms Lee Ai Ping Brenda |
 |
