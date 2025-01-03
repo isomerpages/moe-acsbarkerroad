@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: O Level Release of Results
+          date: 10 January 2025
+          announcement: Please click on the link below for more details.
+          link_text: Find Out More
+          link_url: /o-level-release-of-results/
         - title: 2025 Class Posting
           date: 01 January 2025
           announcement: For class posting information, please click on the link below for
@@ -33,12 +38,6 @@ sections:
           announcement: Please click on the link below for more details.
           link_text: Find Out More
           link_url: /admissions/2025-sec-1-registration/
-        - title: 2025 School Booklist
-          date: 11 November 2024
-          announcement: For booklist download and purchase information, please click on
-            the link below.
-          link_text: Booklist Information
-          link_url: /parents/booklist
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
