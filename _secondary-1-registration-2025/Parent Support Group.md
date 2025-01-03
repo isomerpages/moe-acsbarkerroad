@@ -30,6 +30,6 @@ F@B offers seven Ministries for parents who are eager to actively contribute to 
 
 **Welcome Breakfast**
 
-F@B will be hosting a Welcome Breakfast on 10 February, 8 am - 9:30 am, where interested parents can learn more about each Ministry, hear personal stories from fellow parents, and discover how involvement with F@B can help nurture faith, love, and strength in our community.
+F@B will be hosting a Welcome Breakfast on **10 February, 8 am - 9:30 am**, where interested parents can learn more about each Ministry, hear personal stories from fellow parents, and discover how involvement with F@B can help nurture faith, love, and strength in our community.
 
 Do also follow them on either [Facebook](https://www.facebook.com/groups/familyatbarker/) or [Instagram](https://www.instagram.com/family.at.barker/).
