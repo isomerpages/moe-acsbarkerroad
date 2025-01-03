@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - O Level Release of Results.md
       - Class Posting 2025.md
       - Release of N Levels Results 2024.md
