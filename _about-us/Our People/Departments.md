@@ -52,9 +52,9 @@ variant: markdown
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
-|  | Ms Kimberly Tan Peck Rong |
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
+|  | Ms Kimberly Tan Peck Rong |
 |
 
 #### **Humanities**
@@ -108,11 +108,11 @@ variant: markdown
 |  | Mr Chia Kah Kheng |
 |  | Mr Su Jiahao Richmond |
 |  | Mr Chua Wee Choo |
+|  | Mr Jason Goh Thiam Hock |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
-|  | Mr Jason Goh Thiam Hock |
 |
 
 #### **Mother Tongue**
@@ -132,9 +132,9 @@ variant: markdown
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
-|  | Ms Rebecca Wong |
 |  | Mr Yeong Hoi Wai |
 |  | Ms Leow Lea Ching |
+|  | Ms Rebecca Wong |
 |
 
 #### **Physical Education & Aesthetics**
@@ -147,12 +147,12 @@ variant: markdown
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
+|  | Mr Muhammad Nabil |
 |  | Ms Diana Kuek |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
 |  | Mdm Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Mr Muhammad Nabil |
 |
 
 #### **Science**
