@@ -27,6 +27,11 @@ sections:
           announcement: Please click on the link below for more details.
           link_text: Find Out More
           link_url: /o-level-release-of-results/
+        - title: 2025 Semester 1 Time-table
+          date: 03 January 2025
+          announcement: Please visit our Academic Matters microsite for more information.
+          link_text: Find Out More
+          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
         - title: 2025 Class Posting
           date: 01 January 2025
           announcement: For class posting information, please click on the link below for
