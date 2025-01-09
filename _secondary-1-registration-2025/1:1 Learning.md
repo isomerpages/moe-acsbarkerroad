@@ -67,9 +67,11 @@ Subsidies are available for students who require funding support to purchase a P
 
 
 
-To proceed with the purchase, please fill in the online form at this link: **[https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)** (Singpass to access) by 15 Jan 2025.
+To proceed with the purchase, please submit your consent to the **Parental Consent for the Purchase of Personal Learning Device** form (sent via PG on 9 January) by **15 January 2025**.
 
-If you are unable to submit the form online, please contact the school for a hardcopy version.
+If you are unable to access the form online, please contact the school for a hardcopy version.
+
+Parents who want to use Edusave funds for the PLD (for Singapore citizens students only), please submit the online Standing Order (SO) form via this link: [https://go.gov.sg/edusaveformsgso](https://go.gov.sg/edusaveformsgso) by 15 January 2025 if you have not done so previously.
 
 
 **Payment**
