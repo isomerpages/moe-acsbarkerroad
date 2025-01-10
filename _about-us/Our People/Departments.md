@@ -55,6 +55,7 @@ variant: markdown
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
 |  | Ms Kimberly Tan Peck Rong |
+|  | Mrs Aw Meng Yin
 |
 
 #### **Humanities**
@@ -70,7 +71,6 @@ variant: markdown
 |  | Mr Alan Lim |
 |  | Mdm Geraldine Chong |
 |  | Mr Alexis Ho |
-|  | Mr Jopescu Toh |
 |  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
 |  | Mr William Liew |
@@ -113,6 +113,7 @@ variant: markdown
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
+|  | Ms Neo Chai Meng |
 |
 
 #### **Mother Tongue**
