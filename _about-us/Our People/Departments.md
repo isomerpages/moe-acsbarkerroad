@@ -40,7 +40,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, English Language & Literature | Ms Chong Seok Ying |
-| Subject Head, Partnerships | Mr Mark Goh |
+| Subject Head, Literature | Mr Mark Goh |
 | Subject Head, Student Leadership | Mr Freddy Tan |
 | Senior Teacher, English | Ms Fong Chee Sing |
 |  | Mrs Catherine Wong |
