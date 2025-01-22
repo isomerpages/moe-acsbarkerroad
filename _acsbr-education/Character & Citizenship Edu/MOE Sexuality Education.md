@@ -84,27 +84,27 @@ which are of prime concern at this age.</p>
 <p><strong>Secondary 1</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec1_2025.jpg">
 </div>
 <p><strong>Secondary 2</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec2_2025.jpg">
 </div>
 <p><strong>Secondary 3</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec3_2025.jpg">
 </div>
 <p><strong>Secondary 4</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec4_2025.jpg">
 </div>
 <p><strong>Secondary 5</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec5_2025.jpg">
 </div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
