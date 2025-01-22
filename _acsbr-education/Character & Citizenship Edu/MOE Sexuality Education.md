@@ -147,19 +147,18 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
-on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+<p>Raise awareness and provide knowledge on:</p>
+<p>a)&nbsp;&nbsp;&nbsp;Infectious diseases (STIs and HIV): what it is, how
 it spreads, how to prevent infection mainly through ABC (abstinence, being
 faithful, correct, and consistent condom use).</p>
 <p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -167,13 +166,12 @@ healthy way.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
-of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -189,11 +187,11 @@ Education in our school.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form, shared via Parents Gateway. The completed form is to be
-submitted by <strong>02/02/2024</strong>.</p>
+submitted by <strong>07/02/2025</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong><em> (for Sec 3 only) </em>need
 to complete an opt-out form, shared via Parents Gateway. The completed
-form is to be submitted by <strong>02/02/2024</strong>.</p>
+form is to be submitted by <strong>07/02/2025</strong>.</p>
 <p>14. Parents can contact the school’s Sexuality Education Coordinator,
 Ms Sherri Tan, at <a rel="noopener noreferrer nofollow" target="_blank">tan_sze_yun_sherri@moe.edu.sg</a>,
 or 62561633 for discussion or to seek clarification about the school’s
