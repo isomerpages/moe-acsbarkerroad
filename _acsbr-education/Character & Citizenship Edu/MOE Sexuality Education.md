@@ -79,7 +79,7 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>At Anglo-Chinese School (Barker Road), the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
