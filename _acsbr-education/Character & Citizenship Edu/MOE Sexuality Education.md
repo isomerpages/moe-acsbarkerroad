@@ -192,7 +192,7 @@ out of the <strong><em>eTeens</em> programme</strong><em> (for Sec 3 only) </em>
 to complete an opt-out form, shared via Parents Gateway. The completed
 form is to be submitted by <strong>07/02/2025</strong>.</p>
 <p>14. Parents can contact the school’s Sexuality Education Coordinator,
-Ms Sherri Tan, at <a rel="noopener noreferrer nofollow" target="_blank">tan_sze_yun_sherri@moe.edu.sg</a>,
+Ms Sherri Tan, at <a href="mailto:tan_sze_yun_sherri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sze_yun_sherri@moe.edu.sg</a>,
 or 62561633 for discussion or to seek clarification about the school’s
 sexuality education programme.
 <br>
