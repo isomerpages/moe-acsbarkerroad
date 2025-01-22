@@ -85,7 +85,7 @@ variant: markdown
 | ICT Associate | Mr Tan Joon Kiat |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
-| ICT Technical Assistant | Mr Ramlan Abd Kadir |
+| ICT Technical Assistant | Mr Ramlan Bin Abd Kadir |
 |
 
 #### **Mathematics**
@@ -97,7 +97,6 @@ variant: markdown
 | Subject Head, Mathematics | Ms Joanne Tng |
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
 | Senior Teacher, Principles of Accounts | Ms Low Hei Chin |
-| Senior Teacher, Mathematics | Mr Melvin Sum |
 |  | Mdm Sharon Choo |
 |  | Mdm Ng Hwee Fern |
 |  | Mr Clement Ho |
