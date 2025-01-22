@@ -85,7 +85,7 @@ variant: markdown
 | ICT Associate | Mr Tan Joon Kiat |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
-| ICT Technical Assistant | Mr Ramlan Abd Kadir |
+| ICT Technical Assistant | Mr Ramlan Bin Abd Kadir |
 |
 
 #### **Mathematics**
