@@ -193,6 +193,7 @@ variant: markdown
 | Laboratory Assistant | Mr Wong Meng Yin |
 | STEM Instructor (Workshop) | Mr Rosli Che Embi |
 | STEM Instructor (Workshop) | Mr Sunny Ng |
+| Teacher Aide | Ms Pamela Lim |
 |
 
 #### **Student Development**
