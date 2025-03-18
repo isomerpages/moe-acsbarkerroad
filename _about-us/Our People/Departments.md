@@ -24,7 +24,6 @@ variant: markdown
 | Admin Executive | Ms Nur Iffah |
 | Admin Executive | Mrs Martha Yang |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Corporate Support Officer | Mdm Ellen Ariella |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Ms Diana Ho |
 | Operations Support Officer | Mdm Shanthi Naidu |
@@ -194,6 +193,7 @@ variant: markdown
 | Laboratory Assistant | Mr Wong Meng Yin |
 | STEM Instructor (Workshop) | Mr Rosli Che Embi |
 | STEM Instructor (Workshop) | Mr Sunny Ng |
+| Teacher Aide | Ms Pamela Lim |
 |
 
 #### **Student Development**
