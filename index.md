@@ -27,6 +27,13 @@ sections:
         at our Open House!
       image: /images/ACSBR_Open_House_2025.jpg
       alt: Image alt text
+  - infopic:
+      title: ACS(BR) Education
+      subtitle: ACS (Barker Road)
+      button: Find out more
+      url: /education/alp/
+      alt: Image alt text
+      image: /images/acsbr-education.jpg
   - announcements:
       title: Announcements
       id: announcements
@@ -36,13 +43,6 @@ sections:
           announcement: Please visit our Academic Matters microsite for more information.
           link_text: Find Out More
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
-  - infopic:
-      title: ACS(BR) Education
-      subtitle: ACS (Barker Road)
-      button: Find out more
-      url: /education/alp/
-      alt: Image alt text
-      image: /images/acsbr-education.jpg
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question?
