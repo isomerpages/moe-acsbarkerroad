@@ -20,9 +20,10 @@ variant: markdown
 | Operations Manager | Mr Ng Kok Foo |
 | Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
-| Admin Executive | Ms Wu Ziqian |
 | Admin Executive | Ms Nur Iffah |
 | Admin Executive | Mrs Martha Yang |
+| Admin Executive | Ms Cindy Lim |
+| Admin Executive | Ms Jessica Tiau |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Ms Diana Ho |

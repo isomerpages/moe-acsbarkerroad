@@ -18,32 +18,15 @@ sections:
         - title: Partners
           description: ""
           url: /partners/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: 2025 Semester 1 Time-table
-          date: 11 January 2025
-          announcement: The timetable for Even week is ready. Please visit our Academic
-            Matters microsite for more information.
-          link_text: Find Out More
-          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
-        - title: O Level Release of Results
-          date: 10 January 2025
-          announcement: Please click on the link below for more details.
-          link_text: Find Out More
-          link_url: /o-level-release-of-results/
-        - title: 2025 Class Posting
-          date: 01 January 2025
-          announcement: For class posting information, please click on the link below for
-            more details.
-          link_text: Find Out More
-          link_url: /class-posting-2025/
-        - title: 2025 Secondary 1 Registration
-          date: 18 December 2024
-          announcement: Please click on the link below for more details.
-          link_text: Find Out More
-          link_url: /admissions/2025-sec-1-registration/
+  - infopic:
+      title: Open House 2025
+      subtitle: ACS (Barker Road)
+      id: infopic
+      description: Curious about what school life is like at ACS (Barker Road)?  Come
+        and experience it for yourself on Saturday 3 May, from 8.30 am to 12 pm,
+        at our Open House!
+      image: /images/ACSBR_Open_House_2025.jpg
+      alt: Image alt text
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
@@ -51,6 +34,15 @@ sections:
       url: /education/alp/
       alt: Image alt text
       image: /images/acsbr-education.jpg
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 2025 Semester 1 Time-table
+          date: 11 January 2025
+          announcement: Please visit our Academic Matters microsite for more information.
+          link_text: Find Out More
+          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a question?
