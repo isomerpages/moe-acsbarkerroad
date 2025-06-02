@@ -22,6 +22,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Closure on 17 June 2025
+          date: 17 June 2025
+          announcement: Anglo-Chinese School (Barker Road) will be closed on Tuesday, 17
+            June 2025, due to scheduled power maintenance works. For any
+            enquiries, please contact the school.
+          link_text: Contact Us
+          link_url: /contact-us/
         - title: 2025 Semester 1 Time-table
           date: 11 January 2025
           announcement: Please visit our Academic Matters microsite for more information.
