@@ -32,7 +32,6 @@ variant: markdown
 | Operations Support Officer | Mr Tan Seng Hwa |
 | Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
-| Operations Support Officer | Mr Mohamed Sariff |
 |
 
 #### **English & Literature**
@@ -187,7 +186,6 @@ variant: markdown
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
-|  | Mr Quan Wing Wah |
 |  | Ms Goh Pin-Zi |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
