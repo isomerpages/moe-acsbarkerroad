@@ -21,7 +21,6 @@ variant: markdown
 | Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Nur Iffah |
-| Admin Executive | Mrs Martha Yang |
 | Admin Executive | Ms Cindy Lim |
 | Admin Executive | Ms Jessica Tiau |
 | Corporate Support Officer | Mdm Haliza Ahmad |
