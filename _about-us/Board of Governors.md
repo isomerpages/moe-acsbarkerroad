@@ -17,7 +17,7 @@ variant: markdown
 | Member | Rev Kenneth Huang Teng Han |
 | Member | Rev Dr Aaron Tay Tian Yeow |
 | Member | Mr Lim Teck Yin |
-| Member | A/Prof Ong Biauw Chi |
+| Member | Prof Ong Biauw Chi |
 | Member | Mr Hugh Lim |
 | Member | Mr Gerald Balendran Singham |
 | Member | Dr Wong Chiang Yin |
