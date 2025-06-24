@@ -50,6 +50,7 @@ variant: markdown
 |  | Ms Siti Maslinda |
 |  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
+|  | Ms Abigail Lee |
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
 |  | Ms Kimberly Tan Peck Rong |
@@ -111,6 +112,7 @@ variant: markdown
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
 |  | Ms Neo Chai Meng |
+|  | Mr Gareth Tan |
 |
 
 #### **Mother Tongue**
@@ -133,6 +135,7 @@ variant: markdown
 |  | Mr Yeong Hoi Wai |
 |  | Ms Leow Lea Ching |
 |  | Ms Rebecca Wong |
+|  | Ms P'Ng Li Soon |
 |
 
 #### **Physical Education & Aesthetics**
@@ -186,6 +189,7 @@ variant: markdown
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
 |  | Ms Goh Pin-Zi |
+|  | Mr Chan Fook Sum |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
