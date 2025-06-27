@@ -22,8 +22,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 Semester 1 Time-table
-          date: 11 January 2025
+        - title: 2025 Semester 2 Time-table
+          date: 27 June 2025
           announcement: Please visit our Academic Matters microsite for more information.
           link_text: Find Out More
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
