@@ -2,4 +2,5 @@ collections:
   pending-edits-or-unused:
     output: true
     order:
+      - School Rules.md
       - Sexuality Education.md
