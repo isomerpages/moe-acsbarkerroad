@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Students
           description: ""
-          url: /students/
+          url: /students/useful-links/
         - title: Parents
           description: ""
           url: /parents/
