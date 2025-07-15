@@ -2,5 +2,4 @@ collections:
   students:
     output: true
     order:
-      - School Rules.md
       - Useful Links.md
