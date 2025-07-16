@@ -152,8 +152,9 @@ variant: markdown
 |  | Ms Diana Kuek |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
-|  | Mdm Marina Bohari |
+|  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
+|  | Ms Chan Jia Ying |
 |
 
 #### **Science**
@@ -190,6 +191,7 @@ variant: markdown
 |  | Mr Tham Soh Jee |
 |  | Ms Goh Pin-Zi |
 |  | Mr Chan Fook Sum |
+|  | Mr Lin Bin |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
