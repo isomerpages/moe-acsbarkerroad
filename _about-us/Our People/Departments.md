@@ -23,6 +23,7 @@ variant: markdown
 | Admin Executive | Ms Nur Iffah |
 | Admin Executive | Ms Cindy Lim |
 | Admin Executive | Ms Jessica Tiau |
+| Admin Executive | Ms Thanabavany Naidu |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Ms Diana Ho |
