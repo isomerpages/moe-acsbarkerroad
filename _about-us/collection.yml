@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Calendar.md
       - Principal’s Foreword.md
       - School Information.md
       - Vision, Mission & Values.md
@@ -14,3 +13,4 @@ collections:
       - Our People/Departments.md
       - Our People/Recognition.md
       - Personal Data Protection Policy.md
+      - School Calendar.md
