@@ -21,12 +21,10 @@ variant: markdown
 | Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Nur Iffah |
-| Admin Executive | Ms Cindy Lim |
 | Admin Executive | Ms Jessica Tiau |
 | Admin Executive | Ms Thanabavany Naidu |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Admin Support Officer | Ms Ruth Loke |
-| Receptionist | Ms Diana Ho |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
 | Operations Support Officer | Mr Tan Seng Hwa |
@@ -217,11 +215,9 @@ variant: markdown
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
 | School Counsellor | Mr Chong Meng Lieng |
 | School Counsellor | Mr Kevin Lum |
-| School Counsellor | Ms Jessica Shayna Prince |
 | Special Educational Needs Officer | Ms Chu Pei Yun |
 | Special Educational Needs Officer | Mr Lionel Lin |
 | Special Educational Needs Officer | Ms Joan Anne Lim |
-| Special Educational Needs Officer | Mr Muhammad Iskandar |
 | Educational Psychologist | Mr Jeremy Chian |
 | Financial Assistance Support | Mdm Alice Wang |
 | MOE Education and Career Guidance Counsellor | Ms Lee Ai Ping Brenda |
