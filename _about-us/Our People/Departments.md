@@ -132,7 +132,6 @@ variant: markdown
 |  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
-|  | Ms Leow Lea Ching |
 |  | Ms Rebecca Wong |
 |  | Ms P'Ng Li Soon |
 |
