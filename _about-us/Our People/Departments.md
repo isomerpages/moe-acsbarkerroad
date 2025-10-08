@@ -30,7 +30,7 @@ variant: markdown
 | Receptionist | Mdm Clara Ng |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
-| Operations Support Officer | Mr Tan Seng Hwa |
+| Operations Support Officer | Mr Louis Png |
 | Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
 |
