@@ -25,7 +25,6 @@ variant: markdown
 | Admin Executive | Ms Thanabavany Naidu |
 | Admin Executive | Ms Rosila Keliwan |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Corporate Support Officer | Ms Anissa Fatini |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Mdm Clara Ng |
 | Operations Support Officer | Mdm Shanthi Naidu |
