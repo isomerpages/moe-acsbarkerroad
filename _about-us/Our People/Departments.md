@@ -23,11 +23,14 @@ variant: markdown
 | Admin Executive | Ms Nur Iffah |
 | Admin Executive | Ms Jessica Tiau |
 | Admin Executive | Ms Thanabavany Naidu |
+| Admin Executive | Ms Rosila Keliwan |
 | Corporate Support Officer | Mdm Haliza Ahmad |
+| Corporate Support Officer | Ms Anissa Fatini |
 | Admin Support Officer | Ms Ruth Loke |
+| Receptionist | Mdm Clara Ng |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
-| Operations Support Officer | Mr Tan Seng Hwa |
+| Operations Support Officer | Mr Louis Png |
 | Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
 |
@@ -111,7 +114,6 @@ variant: markdown
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
 |  | Ms Neo Chai Meng |
-|  | Mr Gareth Tan |
 |
 
 #### **Mother Tongue**
@@ -132,7 +134,6 @@ variant: markdown
 |  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
-|  | Ms Leow Lea Ching |
 |  | Ms Rebecca Wong |
 |  | Ms P'Ng Li Soon |
 |
