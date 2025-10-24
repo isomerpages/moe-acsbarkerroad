@@ -189,7 +189,6 @@ variant: markdown
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
 |  | Ms Goh Pin-Zi |
-|  | Mr Chan Fook Sum |
 |  | Mr Lin Bin |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
