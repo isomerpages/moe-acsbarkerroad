@@ -25,7 +25,6 @@ variant: markdown
 | Admin Executive | Ms Thanabavany Naidu |
 | Admin Executive | Ms Rosila Keliwan |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Corporate Support Officer | Ms Anissa Fatini |
 | Admin Support Officer | Ms Ruth Loke |
 | Receptionist | Mdm Clara Ng |
 | Operations Support Officer | Mdm Shanthi Naidu |
@@ -50,7 +49,6 @@ variant: markdown
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
 |  | Ms Siti Maslinda |
-|  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
 |  | Ms Abigail Lee |
 |  | Ms Ho Jia Yan |
@@ -189,8 +187,6 @@ variant: markdown
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
-|  | Ms Goh Pin-Zi |
-|  | Mr Chan Fook Sum |
 |  | Mr Lin Bin |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
