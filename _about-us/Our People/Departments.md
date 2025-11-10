@@ -49,7 +49,6 @@ variant: markdown
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
 |  | Ms Siti Maslinda |
-|  | Ms Phua Shih Wen |
 |  | Mr Keh Chien Yung |
 |  | Ms Abigail Lee |
 |  | Ms Ho Jia Yan |
@@ -188,7 +187,6 @@ variant: markdown
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
-|  | Ms Goh Pin-Zi |
 |  | Mr Lin Bin |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
