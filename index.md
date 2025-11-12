@@ -22,11 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 Semester 2 Time-table
-          date: 27 June 2025
-          announcement: Please visit our Academic Matters microsite for more information.
+        - title: Booklists for 2026
+          date: 12 November 2025
+          announcement: Booklists for year 2026 are now available.
           link_text: Find Out More
-          link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
+          link_url: /parents/booklist/
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
