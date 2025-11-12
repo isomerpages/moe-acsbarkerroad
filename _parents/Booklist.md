@@ -4,7 +4,7 @@ permalink: /parents/booklist/
 description: ""
 variant: markdown
 ---
-### **School Booklist 2025**
+### **School Booklist 2026**
 
 Parents are strongly encouraged to purchase through the school bookshop or pre-order via the website at [https://www.pacificbookstores.com](https://www.pacificbookstores.com/) to ensure correct edition of books.
 
