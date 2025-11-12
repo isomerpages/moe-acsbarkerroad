@@ -22,9 +22,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Booklists for 2026
+        - title: Booklist 2026
           date: 12 November 2025
-          announcement: Booklists for year 2026 are now available.
+          announcement: Booklist 2026 and purchase information now available.
           link_text: Find Out More
           link_url: /parents/booklist/
   - infopic:
