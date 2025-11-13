@@ -23,7 +23,7 @@ sections:
       id: announcements
       announcement_items:
         - title: Booklist 2026
-          date: 12 November 2025
+          date: 13 November 2025
           announcement: Booklist 2026 and purchase information now available.
           link_text: Find Out More
           link_url: /parents/booklist/
