@@ -15,7 +15,7 @@ Place your order at [https://www.pacificbookstores.com](https://www.pacificbooks
 You may purchase from the school bookshop on the dates stated in the booklist.
 
 ##### **Booklist Download**
-* [Secondary 1 Booklist](/files/2026%20Booklist/Sec_1_Booklist.pdf)
+* Secondary 1 Booklist (available at a later date)
 * [Secondary 2 Booklist](/files/2026%20Booklist/Sec_2_Booklist.pdf)
 * [Secondary 3 Booklist](/files/2026%20Booklist/Sec_3_Booklist.pdf)
 * [Secondary 4 Booklist](/files/2026%20Booklist/Sec_4_Booklist.pdf)
