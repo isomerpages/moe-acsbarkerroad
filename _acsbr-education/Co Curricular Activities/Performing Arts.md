@@ -25,6 +25,6 @@ variant: markdown
 <img src="/images/pa4.jpg" style="width:33%" align="left">
 </a></p>
 
-<p><a href="https://sites.google.com/moe.edu.sg/acsbr-drama-cca/home">
+<p><a href="https://sites.google.com/moe.edu.sg/acsbrdramacca/home">
 <img src="/images/pa5.jpg" style="width:33%" align="left">
 </a></p>
