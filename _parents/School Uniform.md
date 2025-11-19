@@ -13,6 +13,7 @@ You may purchase all uniforms through their online website or visit their retail
 * **Online Orders** – For your convenience, place orders online at [https://finestuniform.com/collections/anglo-chinese-school-barker-road/ACSBR](https://finestuniform.com/collections/anglo-chinese-school-barker-road/ACSBR)
 * **On-Campus Sales** – Finest Fashion Centre will be conducting uniform sales on campus from 8 to 26 December 2025 at the school canteen. Sales hours are 9am to 3pm, Monday to Friday, and 9am to 12pm on Saturday (closed on 24 and 25 December 2025).
 * **Retail Walk-in Sales Locations:**
+
 | Outlet | Daily Opening Hours |
 | -------- | -------- |
 | **Beauty World Centre Outlet**<br>144 Upper Bukit Timah Road<br>Beauty World Centre, #B1-03<br>Singapore 588177<br><br>Tel: 6466 5697 / 9424 4184 | 12pm to 7pm<br>(Closed on Sundays and public holidays) |
