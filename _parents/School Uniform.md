@@ -18,5 +18,6 @@ You may purchase all uniforms through their online website or visit their retail
 | -------- | -------- |
 | **Beauty World Centre Outlet**<br>144 Upper Bukit Timah Road<br>Beauty World Centre, #B1-03<br>Singapore 588177<br><br>Tel: 6466 5697 / 9424 4184 | 12pm to 7pm<br>(Closed on Sundays and public holidays) |
 | **Tai Seng Outlet**<br>80 Playfair Road, #01-14<br>Kapo Factory Building<br>Singapore 367998<br><br>Tel: 8284 8586 | 10am to 4pm, Monday to Friday<br>(Closed on public holidays and New Year's Eve) |
+| | |
 
 **Parents may also continue purchasing uniforms (except PE shirts) from our former supplier, Bibi &amp; Baba, until 31 January 2026.*
