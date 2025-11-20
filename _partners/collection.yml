@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group.md
+      - Family@Barker Parent Support Group (PSG).md
       - Partners.md
       - ACS Family of Schools.md
       - ACS Echo.md
