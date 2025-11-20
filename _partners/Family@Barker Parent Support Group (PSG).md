@@ -64,3 +64,5 @@ can help nurture faith, love, and strength within our community.</p>
 <p>We look forward to a fruitful and blessed year for the ACS(BR) family,
 working in close partnership with parents/guardians. May God bless you
 and your family for a Healthy and Happy 2026!</p>
+<p></p><a class="isomer-image-wrapper" href="https://sites.google.com/a/acsbr.org/familyatbarker/home"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/acsbr_psg.png"></a>
+<p></p>
