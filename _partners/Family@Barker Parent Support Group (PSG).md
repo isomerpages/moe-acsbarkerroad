@@ -4,7 +4,7 @@ permalink: /parent-support-group/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Family@Barker Parent Support Group (PSG)</strong></h4>
+<h3><strong>Family@Barker Parent Support Group (PSG)</strong></h3>
 <p>Family@Barker (F@B) is a vibrant community of parent volunteers who work
 closely with our school to enrich and support its programmes. Their goal
 is to provide parents with meaningful opportunities to connect, share experiences,
