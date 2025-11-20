@@ -8,7 +8,7 @@ variant: markdown
 * **[ACS Family of Schools](/partners/family-of-schools/)**
 * **[ACS Echo](/partners/acs-echo/)**
 * **[Alumni](/partners/alumni/)**
-* **[Family@Barker Parent Support Group (PSG)](/parent-support-group/)**
+* **[Family@Barker Parent Support Group (PSG)](/psg/)**
 * **[Barker Road Methodist Church (BRMC)](https://www.brmc.org.sg/)**
 * **[The Methodist Church in Singapore](/partners/the-methodist-church-in-singapore)**
 
