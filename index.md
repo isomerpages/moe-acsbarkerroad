@@ -22,9 +22,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: School Uniform
+          date: 25 November 2025
+          announcement: School uniform purchase information now available.
+          link_text: Find Out More
+          link_url: /parents/school-uniform/
         - title: Booklist 2026
           date: 14 November 2025
-          announcement: Booklist 2026 and purchase information now available for Sec 2 - 5
+          announcement: Booklist and purchase information now available for Sec 2 to Sec 5.
           link_text: Find Out More
           link_url: /parents/booklist/
   - infopic:
