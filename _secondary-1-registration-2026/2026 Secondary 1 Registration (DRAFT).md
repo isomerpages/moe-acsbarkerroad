@@ -11,7 +11,7 @@ Congratulations! Your son/ward has finished his Primary School education and is 
 
 **Sec 1 Online Registration**
 
-Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2025s1reg) by **23 Dec 2024, 12 pm**.
+Parents/Guardians will need to complete the Sec 1 Registration process by filling in this [form](https://go.gov.sg/acsbr2026s1reg) by **24 Dec 2025, 12 pm**.
 
 **Offer Letter for subjects at More Demanding Level (MDL)**
 
@@ -19,11 +19,11 @@ Parents/Guardians whose child/ward is eligible to do certain subjects at a MDL, 
 
 **Class Posting**
 
-Parents/Guardians can check their child/ward's Secondary One class via the Parents Gateway (PG) app after **1st January 2025**. Upon login, click on 'CONTACTS' to show the class.  
+Parents/Guardians can check their child/ward's Secondary One class via the Parents Gateway (PG) app after **1st January 2026**. Upon login, click on 'CONTACTS' to show the class.  
 
 **Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 9 January 2025 from 11.30 am.**
+There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 8 January 2026 from 11.30 am.**
 * Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am - 1:30 pm
 * CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm
 
