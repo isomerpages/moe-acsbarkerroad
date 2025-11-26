@@ -27,7 +27,7 @@ There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 8 Januar
 * Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am - 1:30 pm
 * CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm
 
-#### **Start of School in 2025 - Important Information for Students and Parents** ####
+#### **Start of School in 2026 - Important Information for Students and Parents** ####
 --------------------------------------------------------------------------------------------------------------------------------------
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information:
@@ -36,7 +36,7 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE (V-neck) T Shirt with school bermudas on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
-Dismissal is at 2:30 pm daily, except for Thursdays (1.35pm) and Fridays (1:30 pm).
+Dismissal is at 2:30 pm daily, except for Thursdays and Fridays (1:30 pm).
 
 
 A typical school week is as follows:&nbsp;
@@ -45,13 +45,12 @@ A typical school week is as follows:&nbsp;
 | -------- | -------- | -------- |
 | Mon, Tue | 7:40 am | 2:30 pm* |
 | Wed (late start day) | 8:40 am | 2:30 pm* |
-| Thur | 7:40 am | 1:35 pm* |
-| Fri | 7:40 am | 1:30 pm |
+| Thur, Fri | 7:40 am | 1:30 pm |
 | * *For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.* |
 
 Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
 
-Secondary 1 curriculum lessons will officially begin on Term 1 Week 2 from **13th Jan 2025**. Students should have their learning materials ready by then. 
+Secondary 1 curriculum lessons will officially begin on Term 1 Week 3 from **19th Jan 2026**. Students should have their learning materials ready by then. 
 
 **Sec 1 Orientation Programme (2nd Jan – 10th Jan 2025)**
 
