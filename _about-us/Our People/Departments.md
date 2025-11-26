@@ -53,7 +53,6 @@ variant: markdown
 |  | Ms Abigail Lee |
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
-|  | Ms Kimberly Tan Peck Rong |
 |  | Mrs Aw Meng Yin
 |
 
@@ -132,8 +131,6 @@ variant: markdown
 |  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
-|  | Ms Rebecca Wong |
-|  | Ms P'Ng Li Soon |
 |
 
 #### **Physical Education & Aesthetics**
@@ -152,7 +149,6 @@ variant: markdown
 |  | Ms Elsie Liu |
 |  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Ms Chan Jia Ying |
 |
 
 #### **Science**
@@ -187,7 +183,6 @@ variant: markdown
 |  | Ms Jeanette Koh |
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
-|  | Mr Lin Bin |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
 | STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
