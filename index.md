@@ -29,7 +29,8 @@ sections:
           link_url: /parents/school-uniform/
         - title: Booklist 2026
           date: 14 November 2025
-          announcement: Booklist and purchase information now available for Sec 2 to Sec 5.
+          announcement: Booklist and purchase information now available for Sec 2 to Sec
+            5. The Sec 1 booklist will be published between 15-19 December.
           link_text: Find Out More
           link_url: /parents/booklist/
   - infopic:
