@@ -23,8 +23,8 @@ Parents/Guardians can check their child/ward's Secondary One class via the Paren
 
 **Sec 1 Meet The Parent and CCA Fair**
 
-There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 8 January 2026 from 11.30 am.**
-* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11:30 am - 1:30 pm
+There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;**Thursday, 8 January 2026 from 11 am.**
+* Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11 am - 1 pm
 * CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm
 
 #### **Start of School in 2026 - Important Information for Students and Parents** ####
@@ -52,9 +52,9 @@ Note that the dismissal timings for the first 2 weeks for Sec 1 students are dif
 
 Secondary 1 curriculum lessons will officially begin on Term 1 Week 3 from **19th Jan 2026**. Students should have their learning materials ready by then. 
 
-**Sec 1 Orientation Programme (2nd Jan – 10th Jan 2025)**
+**Sec 1 Orientation Programme (2nd Jan – 9th Jan 2026)**
 
-Students are to report to the **school auditorium** on 2 Jan 2025 for assembly by 7:35 am in full school uniform. 
+Students are to report to the **school auditorium** on 2 Jan 2026 for assembly by 7:35 am in full school uniform. 
 Prefects will be around to assist your son/ward to find his way to the required venues. 
 
 In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
