@@ -36,8 +36,9 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students are expected to be at the tennis courts for morning assembly by 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report to school in their school uniform or PE (V-neck) T Shirt with school bermudas on Mondays to Thursdays. Students need to be in school uniform on Fridays. School tie should also be worn on Fridays during Chapel period.
 
-Dismissal is at 2:30 pm daily, except for Thursdays and Fridays (1:30 pm).
+Dismissal is at 2:30 pm on Mondays to Wednesdays, and 1:30 pm on Thursdays* and Fridays.
 
+*( * Digitial Literacy lessons will be held from 1:30 pm to 2:30 pm every fortnight on Thursdays in Term 2)*
 
 A typical school week is as follows:&nbsp;
 
@@ -62,9 +63,9 @@ In view of the special two weeks of Orientation for our Sec 1 students, do note 
 | Day | Dismissal | 
 | -------- | -------- | 
 | Week 0 Fri 2 Jan | Dismissal Time is at 12:30 pm |
-| Week 1 Mon – Wed 5 to 7 Jan | Dismissal Time is at 1 pm, with certain classes staying back for ICT induction (1 pm to 2 pm) on different days, as stated below. <br><br>Mon 5 Jan : 1S, 1G<br>Tue 6 Jan: 1N, 1T<br>Wed 7 Jan: 1L, 1M |
-| Week 1 Thur 8 Jan | Dismissal at 1:30 pm followed by CCA Fair<br><br>(Students may proceed to get their own lunch at the canteen before proceeding to the CCA Fair at 2 pm) |
-| Week 1 Fri 9 Jan | Dismissal Time is at 1:30 pm, except for the following two classes staying back for ICT induction (2 to 3 pm)<br><br>Fri 9 Jan: 1A, 1C |
+| Week 1 Mon – Wed 6 to 8 Jan | Dismissal Time is at 1 pm, with certain classes staying back for ICT induction (1 pm to 2 pm) on different days, as stated below. <br><br>Mon 6 Jan : 1A, 1C<br>Tue 7 Jan: 1S, 1G<br>Wed 8 Jan: 1N, 1T |
+| Week 1 Thur 9 Jan | Dismissal at 1:30 pm followed by CCA Fair<br><br>(Students may proceed to get their own lunch at the canteen before proceeding to the CCA Fair at 2 pm) |
+| Week 1 Fri 10 Jan | Dismissal Time is at 1:30 pm, except for the following two classes staying back for ICT induction (2 to 3 pm)<br><br>Fri 10 Jan: 1L, 1M |
 
 **Recess Timing and Snack Break**
 
