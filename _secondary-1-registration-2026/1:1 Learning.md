@@ -9,7 +9,7 @@ description: ""
 
 **Hardware**
 
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school started leveraging the National Digital Literacy Programme (NDLP) and MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2025 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer Chromebook Spin R857TN**. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school has been leveraging the MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2026 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer Chromebook Spin R857TN**. The specifications of the chromebook are as follows:
 
 Acer Chromebook Spin R857TN
 * Intel Processor N250 
