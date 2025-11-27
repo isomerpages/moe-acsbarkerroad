@@ -143,7 +143,7 @@ The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-
 
 For any clarification, please contact:
 
-* Year Head (Lower Sec), Mdm Koh Poh Li at koh_poh_li@moe.edu.sg
+* Year Head (Lower Sec), Mdm Koh Poh Li at [koh_poh_li@moe.edu.sg](mailto:koh_poh_li@moe.edu.sg)
 * Assistant Year Head (Lower Sec), Mdm Pearlyn Khoo at [pearlyn_khoo_bei_ling@moe.edu.sg](mailto:pearlyn_khoo_bei_ling@moe.edu.sg)
 
 #### **Chromebooks (Personal Learning Devices)** ####
