@@ -38,7 +38,7 @@ School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and students a
 
 Dismissal is at 2:30 pm on Mondays to Wednesdays, and 1:30 pm on Thursdays* and Fridays.
 
-*( * Digitial Literacy lessons will be held from 1:30 pm to 2:30 pm every fortnight on Thursdays in Term 2)*
+*( * Note: Digital Literacy lessons will be held from 1:30 pm to 2:30 pm every fortnight on Thursdays in Term 2 after the Sec 1 students received their Personal Learning Devices (PLDs). On these Thursdays, dismissal will be at 2:30 pm instead of the usual 1:30 pm)*
 
 A typical school week is as follows:&nbsp;
 
@@ -46,7 +46,7 @@ A typical school week is as follows:&nbsp;
 | -------- | -------- | -------- |
 | Mon, Tue | 7:40 am | 2:30 pm* |
 | Wed (late start day) | 8:40 am | 2:30 pm* |
-| Thur, Fri | 7:40 am | 1:30 pm |
+| Thur, Fri | 7:40 am | 1:30 pm* |
 | * *For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.* |
 
 Note that the dismissal timings for the first 2 weeks for Sec 1 students are different. 
