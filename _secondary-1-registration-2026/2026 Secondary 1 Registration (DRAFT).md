@@ -106,15 +106,9 @@ and Fridays.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>* <em>For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
