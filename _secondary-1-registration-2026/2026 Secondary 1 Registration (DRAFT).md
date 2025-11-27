@@ -141,18 +141,17 @@ Parents Gateway is our primary mode of communication with parents/guardians:
 
 The App can be downloaded on either [iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708) or [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1) phones.
 
-Parents/Guardians may contact the class form teachers via email.
+For any clarification, please contact:
 
-![](/images/2025_S1FT.png)
-
-You may contact our Year Head (Lower Sec), Mdm Koh Poh Li at [koh_poh_li@moe.edu.sg](mailto:koh_poh_li@moe.edu.sg) for any clarification.
+* Year Head (Lower Sec), Mdm Koh Poh Li at koh_poh_li@moe.edu.sg
+* Assistant Year Head (Lower Sec), Mdm Pearlyn Khoo at pearlyn_khoo_bei_ling@moe.edu.sg
 
 #### **Chromebooks (Personal Learning Devices)** ####
 --------------------------------------------------------------------------------------------------
 
 The school has been on the 1:1 Learning (1 student to 1 computing device) programme since 2012 where ICT is closely integrated into the students’ core and co-curriculums. Within the academic domain, students use their computing devices for collaborating, research and creating artefacts of their learning. On the character front, students are also challenged to think about their values in making responsible decisions while using technology. Students in Anglo-Chinese School (Barker Road) have been using chromebooks as their Personal Learning Device for 1:1 Learning since 2016 and the school will leverage on the MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook procurement process. 
 
-Your son is required to purchase a chromebook for 1:1 Learning. More details will be provided during the Meet-The-Parent session on 9 Jan. You can also refer to this [page](/admissions/2025-sec-1-registration/11learning/) and this [FAQ](https://go.gov.sg/acsbr-chromebook-faq) for more information.
+Your son is required to purchase a chromebook for 1:1 Learning. More details will be provided during the Meet-The-Parent session on 8 Jan. You can also refer to this [page](/admissions/2025-sec-1-registration/11learning/) and this [FAQ](https://go.gov.sg/acsbr-chromebook-faq) for more information.
 
 1:1 Learning for the Sec 1s is scheduled to commence from Term 2 and students should bring their chromebooks to school daily for their learning.
 
