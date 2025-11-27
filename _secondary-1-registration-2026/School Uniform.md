@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Purchase of Uniform</strong></h4>
-<p>Please kindly refer to <a href="https://www.acsbr.moe.edu.sg/parents/school-uniform/" rel="noopener noreferrer nofollow" target="_blank">https://www.acsbr.moe.edu.sg/parents/school-uniform/</a>
+<p>Please refer to <a href="https://www.acsbr.moe.edu.sg/parents/school-uniform/" rel="noopener noreferrer nofollow" target="_blank">https://www.acsbr.moe.edu.sg/parents/school-uniform/</a>
 </p>
 <h4><strong>Dress Code</strong></h4>
 <hr>
