@@ -11,7 +11,7 @@ For online orders, you may purchase at [ https://www.schooluniforms.sg/bb-acs-ba
 
 *  Self-collection will be available 4 working days after the order date.
 <br>(Working days exclude Saturdays, Sundays, and Public Holidays.)
-*  Home delivery - No Home Deliveries from 18 Dec 2024 to 3 January 2025. Due to year-end peak, delivery will be between 5-10 working days for orders made before 18 Dec 2024 and after 3 January 2025.
+*  Home delivery - No Home Deliveries from 18 Dec 2025 to 2 January 2026. Due to year-end peak, delivery will be between 5-10 working days for orders made before 18 Dec 2025 and after 2 January 2026.
 
 
 Direct purchase can only be made during their operating hours.
