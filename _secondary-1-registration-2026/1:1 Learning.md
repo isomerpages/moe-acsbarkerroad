@@ -9,7 +9,7 @@ description: ""
 
 **Hardware**
 
-Since 2016, students in the school have been using [chromebooks](https://www.google.com/chromebook/) for 1:1 Learning. From 2021, the school has been leveraging the MOE Personalised Digital Learning Programme (PDLP) to facilitate the chromebook personal learning device (PLD) procurement process. For the 2026 Secondary 1 cohort, the school has evaluated the given options from a panel of awarded suppliers established by MOE and chosen the **Acer Chromebook Spin R857TN**. The specifications of the chromebook are as follows:
+Since 2016, students in the school have been using [Chromebooks](https://www.google.com/chromebook/) as their Personal Learning Device (PLD) for [1:1 Learning](https://www.acsbr.moe.edu.sg/education/academic/1-to-1-learning/). From 2021, the school has been leveraging MOE's Personalised Digital Learning Programme (PDLP) to facilitate the PLD procurement process. The PLD will be used with the Singapore Student Learning Space (SLS) and other educational technology to personalise and enhance students' learning. For the 2026 Secondary 1 cohort, the school has chosen the **Acer Chromebook Spin R857TN** from MOE's panel of awarded suppliers. The specifications of the Chromebook are as follows:
 
 Acer Chromebook Spin R857TN
 * Intel Processor N250 
