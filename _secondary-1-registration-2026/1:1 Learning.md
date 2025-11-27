@@ -8,8 +8,8 @@ description: ""
 <hr>
 <p><strong>Hardware</strong>
 </p>
-<p>Since 2016, students in the school have been using <a href="https://www.google.com/chromebook/" rel="noopener noreferrer nofollow" target="_blank">Chromebooks</a> as their Personal
-Learning Device (PLD) for <a href="https://www.acsbr.moe.edu.sg/education/academic/1-to-1-learning/" rel="noopener noreferrer nofollow" target="_blank">1:1 Learning</a>.
+<p>Since 2016, students in the school have been using <a href="https://www.google.com/chromebook/discover-chromebook/" rel="noopener noreferrer nofollow" target="_blank">Chromebooks</a> as
+their Personal Learning Device (PLD) for <a href="https://www.acsbr.moe.edu.sg/education/academic/1-to-1-learning/" rel="noopener noreferrer nofollow" target="_blank">1:1 Learning</a>.
 From 2021, the school has been leveraging MOE's Personalised Digital Learning
 Programme (PDLP) to facilitate the PLD procurement process. The PLD will
 be used with the Singapore Student Learning Space (SLS) and other educational
@@ -181,8 +181,7 @@ the school or through AXS.</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>FAQs can be found <a href="https://go.gov.sg/acsbr-chromebook-faq" rel="noopener noreferrer nofollow" target="_blank">here</a>. If there are further
-questions, please email Mr Toh Hun Khim, Head of Department of Learning
-Technologies at <a href="mailto:toh_hun_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_hun_khim@moe.edu.sg</a>
+questions, please email Mr Toh Hun Khim, HOD Learning Technology at <a href="mailto:toh_hun_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_hun_khim@moe.edu.sg</a>
 </p>
 <hr>
 <h4><strong>ICT Induction</strong></h4>
