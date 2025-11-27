@@ -46,7 +46,7 @@ are as follows:</p>
 <p>The chromebook will be bundled with&nbsp;<strong>4 years carry-in warranty and insurance</strong>&nbsp;(2
 major repairs or 1 replacement)&nbsp;to cover accidental damage to the
 chromebook device.</p>
-<p>Total Cost with GST:&nbsp;<strong>S$632.20</strong><em>(Information accurate as of 27th Nov 2025. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)</em>
+<p>Total Cost with GST:&nbsp;<strong>S$632.20 </strong><em>(Information accurate as of 27th Nov 2025. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)</em>
 </p>
 <p><strong>IT Applications</strong>
 </p>
@@ -67,10 +67,10 @@ ID and class to set up user accounts. Schools may also choose to roll out
 applications other than those listed above.</p>
 <p><strong>Device Management App (DMA)</strong>
 </p>
-<p>A Device Management App (DMA) will come pre-installed on all PLDs purchased
-through the school and will be installed on any student-owned chromebook
-parents/guardians opt for the student to use in lieu of the PLD. The DMA
-is fully funded by MOE.</p>
+<p>A Device Management App (DMA) will come pre-installed on all chromebook
+PLDs purchased through the school and will be installed on any student-owned
+chromebook parents/guardians opt for the student to use. The DMA is fully
+funded by MOE.</p>
 <p>The DMA has 3 main components which will support the use of the PLD in
 the classroom and safeguard students’ cyber wellness:</p>
 <ul data-tight="true" class="tight">
