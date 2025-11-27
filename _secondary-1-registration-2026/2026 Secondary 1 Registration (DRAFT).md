@@ -56,7 +56,7 @@ Secondary 1 curriculum lessons will officially begin on Term 1 Week 3 from **19t
 **Sec 1 Orientation Programme (2nd Jan – 9th Jan 2026)**
 
 Students are to report to the **school auditorium** on 2 Jan 2026 for assembly by 7:35 am in full school uniform. 
-Prefects will be around to assist your son/ward to find his way to the required venues. 
+Student Leaders will be around to assist your son/ward to find his way to the required venues. 
 
 In view of the special two weeks of Orientation for our Sec 1 students, do note the adjusted dismissal timing for them.
 
@@ -126,7 +126,7 @@ Extreme or fanciful hairstyles or coloured hair are strictly not allowed. Studen
 
 #### **Financial Assistance Scheme (FAS) Matters** ####
 --------------------------------------------------------------------------------------------------
-FAS application form can be downloaded [here](https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2026.pdf) or apply using the e-FAS form at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas).
+FAS application form can be downloaded [here](https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2026.pdf) or apply using the e-FAS form at [https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas).
 
 To avoid delay in your application, kindly submit the completed form together with the relevant documents to the school’s general office by 26th Dec 2025, 12 pm. 
  
