@@ -11,25 +11,19 @@ description: ""
 
 Since 2016, students in the school have been using [Chromebooks](https://www.google.com/chromebook/) as their Personal Learning Device (PLD) for [1:1 Learning](https://www.acsbr.moe.edu.sg/education/academic/1-to-1-learning/). From 2021, the school has been leveraging MOE's Personalised Digital Learning Programme (PDLP) to facilitate the PLD procurement process. The PLD will be used with the Singapore Student Learning Space (SLS) and other educational technology to personalise and enhance students' learning. For the 2026 Secondary 1 cohort, the school has chosen the **Acer Chromebook Spin R857TN** from MOE's panel of awarded suppliers. The specifications of the Chromebook are as follows:
 
-Acer Chromebook Spin R857TN
-* Intel Processor N250 
-* 8GB LPDDR5 RAM (On-Board at factory level)
-* 64GB eMMC
-* 12.2 inch WUXGA (1920 x 1200) Multi-Touch IPS LCD panel
-* Up to 10 hours batttery size		
-* 1x HDMI, 2x USB-C, 2x USB-A, 1x Audio jack, 1x Kensington lock slot
-* Wi-Fi 6E AX201
-* Acer USI Active Stylus
-* Dual Cameras (display top & keyboard top)
-* Google Chrome OS
-* 3 year Carry-in Warranty + Comprehensive Accidental Damage Protection (Insurance)
+* Model: Chromebook Spin R857TN
+* Processor: Intel Processor N250
+* Memory (size, type, speed): 8GB LPDDR5X 4800MT/s
+* Storage (type and size): 64GB eMMC
+* Enhanced Bundle Warranty: 4-Year Carry-in Warranty
+* Enhanced Bundle Insurance: 4-Year Insurance
 * Weight: 1.5 kg
 * Accessories include: Power Adaptor, Mouse, Active stylus, Carrier Bag
 
-In addition, the chromebook will be bundled with **3 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
+The chromebook will be bundled with **4 years carry-in warranty and insurance** (2 major repairs or 1 replacement) to cover accidental damage to the chromebook device.
 
-Total Cost with GST: **S$570.00**
-*(Information accurate as of 17th December 2024. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
+Total Cost with GST: **S$632.20**
+*(Information accurate as of 27th Nov 2025. This cost is a close estimation and there may be a slight variation for the final confirmed cost.)*
 
 **IT Applications**
 
