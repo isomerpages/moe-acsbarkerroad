@@ -5,23 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Purchase of Uniform</strong></h4>
-<hr>
-<p>Our school uniform vendor is Bibi &amp; Baba Pte Ltd. For online orders,
-you may purchase at <a href="https://www.schooluniforms.sg/bb-acs-barker-road-1" rel="noopener noreferrer nofollow" target="_blank">https://www.schooluniforms.sg/bb-acs-barker-road-1</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Self-collection will be available 4 working days after the order date.
-<br>(Working days exclude Saturdays, Sundays, and Public Holidays.)</p>
-</li>
-<li>
-<p>Home delivery - No Home Deliveries from 18 Dec 2025 to 2 January 2026.
-Due to year-end peak, delivery will be between 5-10 working days for orders
-made before 18 Dec 2025 and after 2 January 2026.</p>
-</li>
-</ul>
-<p>Direct purchase can only be made during their operating hours. More information
-can be found on the Bibi &amp; Baba <a href="https://www.schooluniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">website</a>
+<p>Please kindly refer to <a href="https://www.acsbr.moe.edu.sg/parents/school-uniform/" rel="noopener noreferrer nofollow" target="_blank">https://www.acsbr.moe.edu.sg/parents/school-uniform/</a>
 </p>
 <h4><strong>Dress Code</strong></h4>
 <hr>
