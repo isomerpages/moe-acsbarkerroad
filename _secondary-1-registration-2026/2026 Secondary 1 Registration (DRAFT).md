@@ -293,8 +293,8 @@ off space located near Chancery Lane.</p>
 <p><strong>School Uniform and Badge</strong>
 </p>
 <p>Students are to report in their school uniform on the first day of school.</p>
-<p>The school uniform can be purchased from Bibi &amp; Baba. Please refer
-to the <a href="/admissions/2026-sec-1-registration/schooluniform/" rel="noopener noreferrer nofollow" target="_blank">'School Uniform' page</a>.</p>
+<p>The school uniform can be purchased from Finest Fashion Centre. Please
+refer to the <a href="https://www.acsbr.moe.edu.sg/parents/school-uniform/" rel="noopener noreferrer nofollow" target="_blank">'School Uniform' page</a>.</p>
 <p>The ACS badge and ACS(BR) socks are part of the school uniform and can
 be purchased from the school bookshop.</p>
 <p>Shoes should be white-based with white shoe laces.</p>
