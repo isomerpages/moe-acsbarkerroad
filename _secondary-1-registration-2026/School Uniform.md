@@ -14,10 +14,7 @@ For online orders, you may purchase at [ https://www.schooluniforms.sg/bb-acs-ba
 *  Home delivery - No Home Deliveries from 18 Dec 2025 to 2 January 2026. Due to year-end peak, delivery will be between 5-10 working days for orders made before 18 Dec 2025 and after 2 January 2026.
 
 
-Direct purchase can only be made during their operating hours.
-![](/images/2025_BibiBaba.png)
-
-More information can be found on the Bibi &amp; Baba [website](https://www.schooluniforms.sg/)
+Direct purchase can only be made during their operating hours. More information can be found on the Bibi &amp; Baba [website](https://www.schooluniforms.sg/)
 
 #### **Dress Code** ####
 
