@@ -321,7 +321,7 @@ with the relevant documents to the school’s general office by 26th Dec
 <p>Students applying for financial aid, please purchase your books and school
 uniforms upon receiving FAS approval from the school.</p>
 <p>Households with students who need assistance for home broadband connectivity,
-can apply for the <a href="http://www.digitalaccess.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Home Access Progam</a>.</p>
+can apply for the <a href="http://www.digitalaccess.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Home Access Program</a>.</p>
 <h4><strong>Communication with Parents/Guardians</strong></h4>
 <hr>
 <p>Parents Gateway is our primary mode of communication with parents/guardians:
