@@ -31,7 +31,7 @@ Lower Secondary students:</p>
 appropriate alteration can be done.</p>
 </li>
 <li>
-<p>Only school-approved jacket/windcheater may be worn.</p>
+<p>Only school-approved jacket/windbreaker may be worn.</p>
 </li>
 <li>
 <p>The ACS(BR) bermudas is to be worn.</p>
