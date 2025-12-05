@@ -153,12 +153,14 @@ do note the adjusted dismissal timing for them.</p>
 <p>Week 1 Mon – Wed 5 to 7 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dismissal Time is at 1 pm, with certain classes staying back for ICT induction
-(1 pm to 2 pm) on different days, as stated below.
+<p>Dismissal Time is at 1 pm, with certain classes staying back for <strong>ICT induction</strong> (1
+pm to 2 pm) on different days, as stated below.
 <br>
-<br>Mon 5 Jan : 1A, 1C
-<br>Tue 6 Jan: 1S, 1G
-<br>Wed 7 Jan: 1N, 1T</p>
+<br>Mon 5 Jan : Classes 1A, 1C
+<br>Tue 6 Jan: Classes 1S, 1G
+<br>Wed 7 Jan: Classes 1N, 1T</p>
+<p></p>
+<p>*Wed 7 Jan remains as a late start day. Assembly is at 8:40 am.</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +168,7 @@ do note the adjusted dismissal timing for them.</p>
 <p>Week 1 Thur 8 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dismissal at 1 pm followed by CCA Fair
+<p>Dismissal Time is at 1 pm followed by CCA Fair at 2 pm.
 <br>
 <br>(Students may proceed to get their own lunch at the canteen before proceeding
 to the CCA Fair at 2 pm)</p>
@@ -177,10 +179,10 @@ to the CCA Fair at 2 pm)</p>
 <p>Week 1 Fri 9 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dismissal Time is at 1:30 pm, except for the following two classes staying
-back for ICT induction (1:30 pm to 2:30 pm)
-<br>
-<br>Fri 9 Jan: 1L, 1M</p>
+<p>Dismissal Time is at 1:30 pm, except for two classes (1L, 1M).</p>
+<p><strong>Classes 1L and 1M will stay back for ICT induction from 2 pm to 3 pm</strong>.
+(Students will need to get their own lunch at the canteen from 1:30 pm
+to 2 pm)</p>
 </td>
 </tr>
 </tbody>
