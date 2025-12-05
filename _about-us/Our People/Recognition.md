@@ -33,13 +33,14 @@ variant: markdown
 | --- | --- |
 | The Public Administration Medal (Silver) | Mr Khoo Tse Horng |
 | The Commendation Medal | Ms Alice Chia |
-| Long Service Medal | Ms Desiree Chua<br>Mdm Rajesvari<br>Mr Rosli Bin Che'embi<br>Ms Norhashikin bte Salim |
+| Long Service Medal | Ms Desiree Chua<br>Mdm Rajesvari<br>Mdm Geraldine Chong<br>Mdm Muthuletchmi Kristna<br>Mdm Shanthi Naidu<br>Ms Jenny Goh<br>Ms Siti-Maslinda |
 |
 
-#### **MOE Service Excellence Award 2023**
+#### **MOE Service Excellence Award 2025**
 
 | Award | Staff |
 | --- | --- |
-| Gold | Mr Chew Teng Leong<br>Mr Foo Shiang Xin<br> Ms Heriana Bte Ab Samad<br> Mr Ho Chin Han Alexis<br> Mr Ho Shern Shuen Dalvin<br> Ms Lee Qian Ying<br> MrLeong Chuen Kit<br> Mr Oh Boon Teck<br>Ms Pearlyn Khoo Bei Ling<br> Mr Siva Sankar Sinnasamy<br>
-| Silver | Ms Chu Pei Yun<br>Mr Mak Kuan Pak<br>Mr Mohamad Azhar bin Ibrahim<br>Ms Nasreen Binte Abdul Majid<br> Ms Nur’ Azeanti Binte Suparman<br>Ms Nur Diyanah binte Samani<br>Ms Nur ‘Ezzati Binte Mohd Razak<br> Ms Rachel Jie Rui Louis<br> Ms Tan Sze Yun Sherri<br>Mr Tan Zhong Rong<br>Mr Teo Yong Qiang Timothy<br>Mr Toh Jopescu<br>Mr Chew Teng Leong<br>Ms Wong Qi Shan |
+| Platinum | Mr Tan Joon Kiat |
+| Gold | Ms Chu Pei Yun<br>Mdm Koh Poh Li<br> Mr Mark Goh<br> Mr Oh Boon Teck<br> Mr Wesley Syn |
+| Silver | Ms Diana Kuek<br>Ms Jenny Goh<br>Ms Joan Anne Lim<br>Ms Low Hei Chin<br>Mdm Lim
 |
