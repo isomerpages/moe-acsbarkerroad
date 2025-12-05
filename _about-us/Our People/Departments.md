@@ -91,7 +91,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Mathematics | Ms Jacque Loo |
-| Lead Teacher, Character & Citizenship Education  | Mdm Mohana Ratnam |
+| Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
 | Subject Head, Mathematics | Ms Joanne Tng |
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
 | Senior Teacher, Principles of Accounts | Ms Low Hei Chin |
