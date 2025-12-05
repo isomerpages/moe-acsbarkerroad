@@ -24,18 +24,16 @@ variant: markdown
 
 | Years of Service | Staff |
 | --- | --- |
-| 30 | Ms Noreen Bte Mahmood |
-| 20 | Mrs Catherine Wong<br>Ms Koh Poh Li<br>Ms Ng Hwee Fern<br>Ms Ng Poh Choo |
-| 15 | Mr Kalaivani Subramaniam<br>Mr Leong Chuen Kit<br>Mr Li Xueguang<br>Ms Mei Pui Leng<br>Ms Qiu Nan<br>Mr Wesley Syn Siew Wah |
-| 10 | Mr Lin Junxiang, Dennis<br>Mr Mohamad Azhar Bin Ibrahim<br>Ms Nur' Ezzati Binte Mohd Razak<br>Ms Sheryl Lim Yun<br>Mr Tan Yi Fan |
+| 20 | Mr Ma Jun |
 |
 
-#### **National Day Awards 2023**
+#### **National Day Award 2025**
 
 | Award | Staff |
 | --- | --- |
-| Commendation Medal | Ms Julia Lim Ping Ping |
-| Long Service Medal | Mr Melvin Sum Kah Wai<br>Mr Mak Kuan Pak<br>Mr Rosli Bin Che'embi<br>Ms Norhashikin bte Salim |
+| The Public Administration Medal (Silver) | Mr Khoo Tse Horng |
+| The Commendation Medal | Ms Alice Chia |
+| Long Service Medal | Ms Desiree Chua<br>Mdm Rajesvari<br>Mr Rosli Bin Che'embi<br>Ms Norhashikin bte Salim |
 |
 
 #### **MOE Service Excellence Award 2023**
