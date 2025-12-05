@@ -32,6 +32,7 @@ variant: markdown
 | Operations Support Officer | Mr Louis Png |
 | Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
+| Library Assistant | Mr Lou Gok Weng |
 |
 
 #### **English & Literature**
