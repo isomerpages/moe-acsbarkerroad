@@ -42,5 +42,12 @@ variant: markdown
 | --- | --- |
 | Platinum | Mr Tan Joon Kiat |
 | Gold | Ms Chu Pei Yun<br>Mdm Koh Poh Li<br> Mr Mark Goh<br> Mr Oh Boon Teck<br> Mr Wesley Syn |
-| Silver | Ms Diana Kuek<br>Ms Jenny Goh<br>Ms Joan Anne Lim<br>Ms Low Hei Chin<br>Mdm Lim
+| Silver | Ms Diana Kuek<br>Ms Jenny Goh<br>Ms Joan Anne Lim<br>Ms Low Hei Chin<br>Mdm Ng Hwee Fern<br>Mr Sean Lee<br>Mdm Sundaravalli<br>Mr Tee Chen Kam |
+|
+
+#### **MOE Academy Awards for Professional Development 2025**
+| Award | Staff |
+| --- | --- |
+| Associate of AST - Facilitator of Workshop | Mrs Mohana Eswaran<br>Ms Julia Lim |
+| Associate of AST - Innovator | Mr Tan Joon Kiat |
 |
