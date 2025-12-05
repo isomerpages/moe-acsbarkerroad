@@ -7,16 +7,17 @@ variant: markdown
 ---
 ### **Recognition**
 
-#### **MOE Staff Long Service Awards 2023**
+#### **Civil Service Long Service Awards 2025**
 
 | Years of Service | Staff |
 | --- | --- |
-| 30 | Ms Noreen Bte Mahmood |
-| 25 | Ms Low Hei Chin<br>Mr Mak Kuan Pak<br>Mr Rosli Bin Che'embi |
-| 20 | Mr Syed Faizal s/o J S Tamizzuddin<br>Ms Choo Siew Lan<br>Ms Koh Poh Li<br>Ms Teo Celine<br>Ms Ng Hwee Fern |
-| 15 | Mr Li Xueguang<br>Mr Foo Shian Xin<br>Ms Alice Tjahaja<br>Ms Dorrianne Yeo<br>Ms Qiu Nan<br>Mr Abdul Ghani Bin Md Jamil<br>Ms Ho Cheun Yin |
-| 10 | Mr Tan Yon Kai<br>Mr Tan Zhong Rong<br>Ms Liu Chang<br> Mr Tan Chiah Tiong |
-| 5 | Ms Nur 'Ezzati Binte Mohd Razak<br> Ms Sundaravalli Ravindran<br> Ms Chu Pei Yun |
+| 35 | Mrs Mohana Eswaran |
+| 30 | Mrs Catherine Wong |
+| 25 | Mdm Rajesvari<br>Mdm Shanthi Naidu<br>Ms Siti-Maslinda |
+| 20 | Mr Leong Chuen Kit<br>Mr Ma Jun<br>Mr Wesley Syn |
+| 15 | Mr Lin Junrong Lionel<br>Mr Kevin Lum<br>Mdm Teo Puay Kee<br>Mr Tee Chen Kam<br>Ms Joanne Tng |
+| 10 | Ms Grace Jayanthi Mohan<br>Mrs Marie Boey |
+| 5 | Mr Ang Zhen Ye |
 |
 
 #### **ACS Long Service Awards 2023**
