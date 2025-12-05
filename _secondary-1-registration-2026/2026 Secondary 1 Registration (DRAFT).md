@@ -26,9 +26,9 @@ will be required on that PG notification.</p>
 <p>Parents/Guardians can check their child/ward's Secondary One class via
 the Parents Gateway (PG) app after <strong>1st January 2026</strong>. Upon
 login, click on 'CONTACTS' to show the class.</p>
-<p><strong>Sec 1 Meet The Parent and CCA Fair</strong>
+<p><strong>Sec 1 Meet-The-Parents and CCA Fair</strong>
 </p>
-<p>There will be a Sec 1 Meet The Parents and CCA Fair on&nbsp;<strong>Thursday, 8 January 2026 from 11 am.</strong>
+<p>There will be a Sec 1 Meet-The-Parents and CCA Fair on&nbsp;<strong>Thursday, 8 January 2026 from 11 am.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -115,7 +115,7 @@ and Fridays.</p>
 </tbody>
 </table>
 <p>Note that the dismissal timings for the first 2 weeks for Sec 1 students
-are different.</p>
+varies for each class due to the Sec 1 Orientation Program.</p>
 <p>Secondary 1 curriculum lessons will officially begin on Term 1 Week 3
 from <strong>19th Jan 2026</strong>. Students should have their learning
 materials ready by then.</p>
