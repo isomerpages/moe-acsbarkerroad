@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Recognition**
 
-#### **Civil Service Long Service Awards 2025**
+#### **Civil Service Long Service Award 2025**
 
 | Years of Service | Staff |
 | --- | --- |
@@ -20,7 +20,7 @@ variant: markdown
 | 5 | Mr Ang Zhen Ye |
 |
 
-#### **ACS Long Service Awards 2023**
+#### **Methodist Long Service Award 2025**
 
 | Years of Service | Staff |
 | --- | --- |
