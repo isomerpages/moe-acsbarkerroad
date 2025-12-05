@@ -6,11 +6,12 @@ description: ""
 ---
 <h3><strong>A warm welcome to our Secondary 1 Students!</strong></h3>
 <hr>
-<p>Congratulations! Your son/ward has finished his Primary School education
-and is embarking on his Secondary School education journey with us at ACS
-(Barker Road). A warm welcome in joining us in our ACS family of schools.
-We hope to work closely in partnership with you as we journey alongside
-you to nurture and develop your son/ward holistically.</p>
+<p>Congratulations! Your son has successfully completed his Primary School
+education and is now beginning his Secondary School journey with us at
+ACS (Barker Road). We extend a warm welcome as he joins our ACS family
+of schools. We look forward to working in close partnership with you as
+we journey alongside you to support and nurture your son's holistic development
+throughout this important phase of his education.</p>
 <p><strong>Sec 1 Online Registration</strong>
 </p>
 <p>Parents/Guardians will need to complete the Sec 1 Registration process
@@ -18,8 +19,8 @@ by filling in this <a href="https://go.gov.sg/acsbr2026s1reg" rel="noopener nore
 <p><strong>Offer Letter for subjects at More Demanding Level (MDL)</strong>
 </p>
 <p>Parents/Guardians whose child/ward is eligible to do certain subjects
-at a MDL, will be receiving a Parents Gateway (PG) notification on this.
-A response will be required on that PG notification.</p>
+at a MDL, will be receiving another PG notification on this. A response
+will be required on that PG notification.</p>
 <p><strong>Class Posting</strong>
 </p>
 <p>Parents/Guardians can check their child/ward's Secondary One class via
@@ -46,9 +47,9 @@ journey with us, please note the following information:</p>
 <p>School starts at 7:40 am daily, except for Wednesdays at 8:40 am, and
 students are expected to be at the tennis courts for morning assembly by
 7:35 am daily, except for Wednesdays at 8:35 am. Students are to report
-to school in their school uniform or PE (Navy V-neck) T Shirt with school
-bermudas on Mondays to Thursdays. Students need to be in school uniform
-on Fridays. School tie should also be worn on Fridays during Chapel period.</p>
+to school in their school uniform or PE Shirt with school pants on Mondays
+through Thursdays. Students need to be in school uniform on Fridays. School
+tie should also be worn on Fridays during Chapel period.</p>
 <p>Dismissal is at 2:30 pm on Mondays to Wednesdays, and 1:30 pm on Thursdays*
 and Fridays.</p>
 <p><em>( * Note: Digital Literacy lessons will be held from 1:30 pm to 2:30 pm every fortnight on Thursdays in Term 2 after the Sec 1 students received their Personal Learning Devices (PLDs). On these Thursdays, dismissal will be at 2:30 pm instead of the usual 1:30 pm)</em>
