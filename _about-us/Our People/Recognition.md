@@ -8,7 +8,6 @@ variant: markdown
 ### **Recognition**
 
 #### **Civil Service Long Service Award 2025**
-
 | Years of Service | Staff |
 | --- | --- |
 | 35 | Mrs Mohana Eswaran |
@@ -21,14 +20,12 @@ variant: markdown
 |
 
 #### **Methodist Long Service Award 2025**
-
 | Years of Service | Staff |
 | --- | --- |
 | 20 | Mr Ma Jun |
 |
 
 #### **National Day Award 2025**
-
 | Award | Staff |
 | --- | --- |
 | The Public Administration Medal (Silver) | Mr Khoo Tse Horng |
@@ -37,7 +34,6 @@ variant: markdown
 |
 
 #### **MOE Service Excellence Award 2025**
-
 | Award | Staff |
 | --- | --- |
 | Platinum | Mr Tan Joon Kiat |
@@ -45,9 +41,21 @@ variant: markdown
 | Silver | Ms Diana Kuek<br>Ms Jenny Goh<br>Ms Joan Anne Lim<br>Ms Low Hei Chin<br>Mdm Ng Hwee Fern<br>Mr Sean Lee<br>Mdm Sundaravalli<br>Mr Tee Chen Kam |
 |
 
+#### **MOE Innergy (Schools) Award - Bronze**
+| Project Title | Team |
+| --- | --- |
+| i5 Enhanced Inquiry Approach: World as Place based classroom for Sustainability and AI Future Ready students | Mdm Geraldine Chong<br>Mr Oh Boon Teck<br>Ms Wong Qi Shan<br>Mr Alan Lim |
+|
+
 #### **MOE Academy Awards for Professional Development 2025**
 | Award | Staff |
 | --- | --- |
 | Associate of AST - Facilitator of Workshop | Mrs Mohana Eswaran<br>Ms Julia Lim |
 | Associate of AST - Innovator | Mr Tan Joon Kiat |
+|
+
+#### **Inspiring Teacher of English Award 2025 (Nominee)**
+|  |  |
+| --- | --- |
+| Ms Jenny Goh |
 |
