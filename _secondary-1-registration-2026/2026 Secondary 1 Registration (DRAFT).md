@@ -189,7 +189,7 @@ to 2 pm)</p>
 </table>
 <p><strong>Recess Timing and Snack Break</strong>
 </p>
-<p>The Lower Secondary levels will have their recess from 11:00 to 11:30
+<p>The Lower Secondary levels will have their recess from 11 am to 11:30
 am daily.</p>
 <p>They will have a 5-min snack break in class at 1 pm daily, except for
 Thursdays and Fridays which are shorter days. The intent of the snack break
@@ -204,7 +204,7 @@ a mess.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Foods Items Allowed for Snack Break (1:00pm)</p>
+<p>Foods items allowed for snack breaks (at 1:00 pm)</p>
 </th>
 </tr>
 <tr>
@@ -232,11 +232,6 @@ a mess.</p>
 <p>Assorted Breads / Sandwiches</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Waffles / Pau / Muffins</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -257,33 +252,35 @@ a mess.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Drinks other than plain water are not allowed (this includes Ayataka &amp;
-Oolong tea)</p>
+Oolong Tea)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junk/Fried food</p>
+<p>Junk / Fried food</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Entire packets of rice/noodles/pasta, etc.</p>
+<p>Entire packet of rice / noodles / pasta, etc.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Parking on campus</strong>
 </p>
-<p>Please note that designated red bays marked within the Transport Centre
-are only for those who work on the campus. Only vehicles with designated
-staff labels will be allowed to park in these bays. Parents/Guardians are
-to use only the white parking bays or risk having your car wheels clamped.</p>
-<p>During dismissal time (Mondays to Wednesdays 2.35pm, Thursdays and Fridays
-1.35pm), parents may drive into the level 1 Transport Centre to pick up
-their sons and are allowed a maximum of 10 minutes to park their vehicle
-in empty red/white lots. No parallel parking is allowed. Other designated
-drop-off/pick-up points include the Chancery Lane Activity Area and Gate
-C, along Barker Road.</p>
+<p>Please note that red parking bays within the Transport Centre are reserved
+exclusively for campus staff. Only vehicles displaying designated staff
+labels are permitted to use these spaces. Parents and guardians must use
+the white parking bays only, as unauthorised parking in red bays may result
+in wheel clamping.</p>
+<p>During dismissal time, parents/guardians will only be allowed to enter
+the Carpark pick up point after 2:35 pm (Mondays to Wednesdays) and 1:35
+pm (Thursdays and Fridays). Parents/guardians may drive into the level
+1 Transport Centre to pick up their sons/wards and are allowed a maximum
+of 10 minutes to park their vehicle in empty red/white lots. No parallel
+parking is allowed. Other designated drop-off/pick-up points include the
+Chancery Lane Activity Area and Gate C, along Barker Road.</p>
 <p>To prevent traffic congestion and crowding outside the school gate, LTA
 does not allow any vehicle to wait outside the school gate along Barker
 Road and Dunearn Road. LTA will take enforcement action against vehicles
