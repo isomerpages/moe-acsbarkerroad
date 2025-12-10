@@ -311,17 +311,23 @@ ears and collars.</p>
 <p>Extreme or fanciful hairstyles or coloured hair are strictly not allowed.
 Students with such hairstyles or colours will be sent home to rectify it
 immediately.</p>
-<h4><strong>Financial Assistance Scheme (FAS) Matters</strong></h4>
+<h4><strong>MOE Financial Assistance Scheme (FAS)</strong></h4>
 <hr>
-<p>FAS application form can be downloaded <a href="https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
-apply using the e-FAS form at <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
-<p>To avoid delay in your application, kindly submit the completed form together
-with the relevant documents to the school’s general office by 26th Dec
-2025, 12 pm.</p>
-<p>Students applying for financial aid, please purchase your books and school
-uniforms upon receiving FAS approval from the school.</p>
-<p>Households with students who need assistance for home broadband connectivity,
-can apply for the <a href="http://www.digitalaccess.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Home Access Program</a>.</p>
+<p>Singapore Citizens can get assistance from MOE on school fees and other
+expenses.</p>
+<p>For more information on financial support, you can refer to <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf</a>
+</p>
+<p>You can apply online at <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a> or
+download the application form <a href="https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+<br>To avoid delay in your application, kindly submit the completed application
+form together with the relevant documents to the school’s general office
+by 26th Dec 2025, 12 pm.</p>
+<p>Students applying for financial assistance should purchase books and school
+uniforms <u>only upon receiving FAS approval from the school</u>.</p>
+<p>Households with students who need assistance and are interested to apply
+for subsidised broadband and/or laptop/tablet under IMDA DigitalAccess@Home
+can apply via <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> or
+contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>.</p>
 <h4><strong>Communication with Parents/Guardians</strong></h4>
 <hr>
 <p>Parents Gateway is our primary mode of communication with parents/guardians:
