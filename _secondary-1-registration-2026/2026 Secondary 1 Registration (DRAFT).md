@@ -323,7 +323,7 @@ download the application form <a href="https://www.acsbr.moe.edu.sg/files/MOE_FA
 form together with the relevant documents to the school’s general office
 by 26th Dec 2025, 12 pm.</p>
 <p>Students applying for financial assistance should purchase books and school
-uniforms <u>only upon receiving FAS approval from the school</u>.</p>
+uniforms <strong>only upon receiving FAS approval from the school</strong>.</p>
 <p>Households with students who need assistance and are interested to apply
 for subsidised broadband and/or laptop/tablet under IMDA DigitalAccess@Home
 can apply via <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</a> or
