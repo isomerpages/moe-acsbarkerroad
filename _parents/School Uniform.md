@@ -21,3 +21,4 @@ You may purchase all uniforms through their online website or visit their retail
 |
 
 **Parents may also continue purchasing uniforms (except PE shirts) from our former supplier, Bibi &amp; Baba, until 31 January 2026.*
+<br>Website: [https://www.schooluniforms.sg/bb-acs-barker-road-1](https://www.schooluniforms.sg/bb-acs-barker-road-1)
