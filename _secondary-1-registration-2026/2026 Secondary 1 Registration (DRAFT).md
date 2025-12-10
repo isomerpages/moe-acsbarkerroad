@@ -32,10 +32,10 @@ login, click on 'CONTACTS' to show the class.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Meet The Parents at ACS(BR) Concert Hall from 11 am - 1 pm</p>
+<p>Sec 1 Meet The Parents at the ACS(BR) Concert Hall from 11 am - 1 pm</p>
 </li>
 <li>
-<p>CCA Fair at various venues on-site ACS(BR) from 2 pm - 3:30 pm</p>
+<p>CCA Fair at the ACS(BR) Sports Hall from 2 pm - 3:30 pm</p>
 </li>
 </ul>
 <h4><strong>Start of School in 2026 - Important Information for Students and Parents</strong></h4>
