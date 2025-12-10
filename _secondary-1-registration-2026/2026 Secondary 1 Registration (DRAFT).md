@@ -341,10 +341,6 @@ contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="n
 <p>Year Head (Lower Sec), Mdm Koh Poh Li at <a href="mailto:koh_poh_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_poh_li@moe.edu.sg</a>
 </p>
 </li>
-<li>
-<p>Assistant Year Head (Lower Sec), Mdm Pearlyn Khoo at <a href="mailto:pearlyn_khoo_bei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pearlyn_khoo_bei_ling@moe.edu.sg</a>
-</p>
-</li>
 </ul>
 <h4><strong>Chromebooks (Personal Learning Devices)</strong></h4>
 <hr>
