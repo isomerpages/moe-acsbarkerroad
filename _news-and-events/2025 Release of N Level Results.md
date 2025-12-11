@@ -27,7 +27,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Thanksgiving Service
-<br>(Science Learning Centre)</p>
+<br>(Science Learning Centre)
+<br><em>Students and parents are welcome to join.</em>
+</p>
 </td>
 </tr>
 <tr>
