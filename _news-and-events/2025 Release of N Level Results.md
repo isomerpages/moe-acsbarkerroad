@@ -4,9 +4,8 @@ permalink: /2025-release-of-n-level-results/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025&nbsp;Release&nbsp;of&nbsp;N-Level Results</strong></h4>
-<p><strong>Date: 18 December 2025</strong>
-</p>
+<h3><strong>2025&nbsp;Release&nbsp;of&nbsp;N-Level Results</strong></h3>
+<h4><strong>Date: 18 December 2025</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
