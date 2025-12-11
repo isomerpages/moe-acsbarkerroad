@@ -327,7 +327,7 @@ expenses.</p>
 download the application form <a href="https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
 <br>To avoid delay in your application, kindly submit the completed application
 form together with the relevant documents to the school’s general office
-by 26th Dec 2025, 12 pm.</p>
+by 26 Dec 2025, 12 pm.</p>
 <p>Students applying for financial assistance should purchase books and school
 uniforms <strong>only upon receiving FAS approval from the school</strong>.</p>
 <p>Households with students who need assistance and are interested to apply
@@ -336,7 +336,7 @@ can apply via <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at
 contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>.</p>
 <h4><strong>Communication with Parents/Guardians</strong></h4>
 <hr>
-<p>Parents Gateway is our primary mode of communication with parents/guardians:
+<p>Parents Gateway is our primary mode of communication with parents/guardians.
 <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
 </p>
 <p>The App can be downloaded on either <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">iOS</a> or
