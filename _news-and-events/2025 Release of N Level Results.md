@@ -5,4 +5,56 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2025&nbsp;Release&nbsp;of&nbsp;N-Level Results</strong></h4>
-<p>Date: 18 December 2025</p>
+<p><strong>Date: 18 December 2025</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:15 pm - 1 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thanksgiving Service
+<br>(Science Learning Centre)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing for students on results
+<br>(Math Learning Centre and Science Learning Centre)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 pm - 2:15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of Results
+<br>(Math Learning Centre and Science Learning Centre)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>*Please note that there are specific briefings for different group of
+students after the release of results from 2:15 pm - 2:35 pm.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
