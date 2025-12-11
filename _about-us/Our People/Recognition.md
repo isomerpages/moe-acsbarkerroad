@@ -6,6 +6,139 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Recognition</strong></h3>
+<h4><strong>ACS Long Service Award 2025</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Years of Service</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rajesvari
+<br>Mrs Aw Meng Yin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ma Jun
+<br>Mr Alan Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Shiang Xin
+<br>Mdm Teo Puay Kee
+<br>Ms Joanne Tng
+<br>Mr Melvin Sum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Heng
+<br>Ms Jasmine Zheng
+<br>Ms Low Hei Chin
+<br>Mdm Maheswary Munusamy
+<br>Ms Pearlyn Khoo
+<br>Mr Thio Yu Chong
+<br>Mr Toh Hun Khim
+<br>Mr Isaac Lim</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Methodist Long Service Award 2025</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Years of Service</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ma Jun</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>National Day Award 2025</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Public Administration Medal (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Tse Horng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Commendation Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Desiree Chua
+<br>Mdm Rajesvari
+<br>Mdm Geraldine Chong
+<br>Mdm Muthuletchmi Kristna
+<br>Mdm Shanthi Naidu
+<br>Ms Jenny Goh
+<br>Ms Siti-Maslinda</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Civil Service Long Service Award 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -84,78 +217,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Zhen Ye</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Methodist Long Service Award 2025</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Years of Service</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Staff</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ma Jun</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>National Day Award 2025</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Award</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Staff</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Public Administration Medal (Silver)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Khoo Tse Horng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Commendation Medal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Alice Chia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Long Service Medal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Desiree Chua
-<br>Mdm Rajesvari
-<br>Mdm Geraldine Chong
-<br>Mdm Muthuletchmi Kristna
-<br>Mdm Shanthi Naidu
-<br>Ms Jenny Goh
-<br>Ms Siti-Maslinda</p>
 </td>
 </tr>
 </tbody>
