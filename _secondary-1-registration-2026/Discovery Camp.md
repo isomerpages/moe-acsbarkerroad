@@ -12,17 +12,17 @@ Camp. This will be an excellent time for your son to strengthen his friendship
 with his new classmates and Form Teachers as they prepare to forge ahead
 together in the year 2026.</p>
 <p>The details of the camp are as follows:</p>
-<p>Date:&nbsp;<strong>12th to 15th January (Monday to Thursday)</strong>
+<p>Date:&nbsp;<strong>12 to 15 January (Monday to Thursday)</strong>
 </p>
 <p>Venue:&nbsp;<strong>Jalan Bahtera MOE Outdoor Adventure Learning Centre (OALC)</strong>
 </p>
-<p>Reporting on&nbsp;<strong>12th January 2026, 7:30 am @ School</strong>
+<p>Reporting on&nbsp;<strong>12 January 2026, 7:30 am @ School</strong>
 </p>
 <p>Reporting attire:&nbsp;<strong>PE attire</strong>
 </p>
 <p>Cost: Nil</p>
 <p>Packing list for the camp will be given to your son and more information
 will be disseminated via Parents Gateway nearer to date.</p>
-<p>Parents will be invited to attend the badge ceremony on <strong>15th January at 10:30am (in school)</strong>.</p>
-<p><strong>16th January, Friday</strong>, will be <strong>Wellness Day</strong> for
+<p>Parents will be invited to attend the badge ceremony on <strong>15 January at 10:30 am (in school)</strong>.</p>
+<p><strong>16 January, Friday</strong>, will be <strong>Wellness Day</strong> for
 Sec 1 Students to rest at home after the Camp.</p>
