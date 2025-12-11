@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Class Posting 2025.md
       - O Level Release of Results.md
       - Open House 2024.md
       - Release of 2023 GCE 'O' Level Examination Results.md
