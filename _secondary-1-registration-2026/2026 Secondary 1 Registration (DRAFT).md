@@ -6,25 +6,24 @@ description: ""
 ---
 <h3><strong>A warm welcome to our Secondary 1 Students!</strong></h3>
 <hr>
-<p>Congratulations! Your son has successfully completed his Primary School
-education and is now beginning his Secondary School journey with us at
-ACS (Barker Road). We extend a warm welcome as he joins our ACS family
-of schools. We look forward to working in close partnership with you as
-we journey alongside you to support and nurture your son's holistic development
-throughout this important phase of his education.</p>
+<p>Congratulations! Your son/ward has successfully completed his Primary
+School education and is now beginning his Secondary School journey with
+us at ACS (Barker Road). We extend a warm welcome as he joins our ACS family
+of schools. We look forward to working closely with you as our partners
+as we journey together to nurture and develop your son/ward holistically.</p>
 <p><strong>Sec 1 Online Registration</strong>
 </p>
 <p>Parents/Guardians will need to complete the Sec 1 Registration process
-by filling in this <a href="https://go.gov.sg/acsbr2026s1reg" rel="noopener noreferrer nofollow" target="_blank">form</a> by <strong>24 Dec 2025, 12 pm</strong>.</p>
+by filling in this <a href="https://go.gov.sg/acsbr2026s1reg" rel="noopener noreferrer nofollow" target="_blank">form</a> by <strong>24 December 2025, 12 pm</strong>.</p>
 <p><strong>Offer Letter for subjects at More Demanding Level (MDL)</strong>
 </p>
-<p>Parents/Guardians whose child/ward is eligible to do certain subjects
+<p>Parents/Guardians whose child/ward is eligible to offer selected subjects
 at a MDL, will be receiving another PG notification on this. A response
 will be required on that PG notification.</p>
 <p><strong>Class Posting</strong>
 </p>
 <p>Parents/Guardians can check their child/ward's Secondary One class via
-the Parents Gateway (PG) app after <strong>1st January 2026</strong>. Upon
+the Parents Gateway (PG) app after <strong>1 January 2026</strong>. Upon
 login, click on 'CONTACTS' to show the class.</p>
 <p><strong>Sec 1 Meet-The-Parents and CCA Fair</strong>
 </p>
@@ -32,10 +31,12 @@ login, click on 'CONTACTS' to show the class.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Meet The Parents at the ACS(BR) Concert Hall from 11 am - 1 pm</p>
+<p>Sec 1 Meet The Parents at the ACS(BR) Concert Hall from <strong>11 am - 1 pm</strong>
+</p>
 </li>
 <li>
-<p>CCA Fair at the ACS(BR) Sports Hall from 2 pm - 3:30 pm</p>
+<p>CCA Fair at the ACS(BR) Sports Hall from <strong>2 pm - 3:30 pm</strong>
+</p>
 </li>
 </ul>
 <h4><strong>Start of School in 2026 - Important Information for Students and Parents</strong></h4>
@@ -75,7 +76,7 @@ and Fridays.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon, Tue</p>
+<p>Monday &amp; Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7:40 am</p>
@@ -86,7 +87,7 @@ and Fridays.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed (late start day)</p>
+<p>Wednesday (late start)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8:40 am</p>
@@ -97,7 +98,7 @@ and Fridays.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thur, Fri</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7:40 am</p>
@@ -107,8 +108,19 @@ and Fridays.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7:40 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:30 pm</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
-<p>* <em>For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time on Mon to Thurs.</em>
+<p>* <em>For students offering purely G1 subjects, please refer to the respective student timetable for the exact dismissal time.</em>
 </p>
 </td>
 </tr>
@@ -117,15 +129,15 @@ and Fridays.</p>
 <p>Note that the dismissal timings for the first 2 weeks for Sec 1 students
 varies for each class due to the Sec 1 Orientation Program.</p>
 <p>Secondary 1 curriculum lessons will officially begin on Term 1 Week 3
-from <strong>19th Jan 2026</strong>. Students should have their learning
+from <strong>19 January 2026</strong>. Students should have their learning
 materials ready by then.</p>
-<p><strong>Sec 1 Orientation Programme (2nd Jan – 9th Jan 2026)</strong>
+<p><strong>Sec 1 Orientation Programme (2 Jan - 9 Jan 2026)</strong>
 </p>
-<p>Students are to report to the <strong>school auditorium</strong> on 2 Jan
-2026 for assembly by 7:35 am in full school uniform. Student Leaders will
-be around to assist your son/ward to find his way to the required venues.</p>
-<p>In view of the special two weeks of Orientation for our Sec 1 students,
-do note the adjusted dismissal timing for them.</p>
+<p>Students are to report to the school auditorium on <strong>2 Jan 2026</strong> for
+assembly by 7:35 am in full school uniform. Student Leaders will be around
+to assist your son/ward to find his way to the required venues.</p>
+<p>In view of the Orientation Programme for our Sec 1 students, do note the
+adjusted dismissal timing for them.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -142,7 +154,7 @@ do note the adjusted dismissal timing for them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 0 Fri 2 Jan</p>
+<p>2 Jan (Week 0 Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal Time is at 12:30 pm</p>
@@ -150,11 +162,11 @@ do note the adjusted dismissal timing for them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 1 Mon – Wed 5 to 7 Jan</p>
+<p>5 to 7 Jan (Week 1 Mon - Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal Time is at 1 pm, with certain classes staying back for <strong>ICT induction</strong> (1
-pm to 2 pm) on different days, as stated below.
+pm - 2 pm) on different days, as stated below.
 <br>
 <br>Mon 5 Jan : Classes 1A, 1C
 <br>Tue 6 Jan: Classes 1S, 1G
@@ -165,7 +177,7 @@ pm to 2 pm) on different days, as stated below.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 1 Thur 8 Jan</p>
+<p>8 Jan (Week 1 Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal Time is at 1 pm followed by CCA Fair at 2 pm.
@@ -176,27 +188,26 @@ to the CCA Fair at 2 pm)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Week 1 Fri 9 Jan</p>
+<p>9 Jan (Week 1 Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal Time is at 1:30 pm, except for two classes (1L, 1M).</p>
-<p><strong>Classes 1L and 1M will stay back for ICT induction from 2 pm to 3 pm</strong>.
+<p><strong>Classes 1L and 1M will stay back for ICT induction from 2 pm - 3 pm</strong>.
 (Students will need to get their own lunch at the canteen from 1:30 pm
-to 2 pm)</p>
+- 2 pm)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Recess Timing and Snack Break</strong>
 </p>
-<p>The Lower Secondary levels will have their recess from 11 am to 11:30
-am daily.</p>
+<p>The Lower Secondary levels will have their recess from 11 am - 11:30 am
+daily.</p>
 <p>They will have a 5-min snack break in class at 1 pm daily, except for
 Thursdays and Fridays which are shorter days. The intent of the snack break
-is to allow students to have a light snack that can provide them with an
-energy boost and help them to be better focused in class. The snack should
-be small, healthy, and easily consumed within 5 minutes, without leaving
-a mess.</p>
+is to provide students with a light, healthy energy boost to help them
+stay focused in class. The snack should be small, nutritious, and easily
+consumed within 5 minutes, without creating a mess.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -204,12 +215,12 @@ a mess.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Foods items allowed for snack breaks (at 1:00 pm)</p>
+<p>Foods items allowed for snack breaks</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Energy Bars / Nuts</p>
+<p>Energy Bars/ Nuts</p>
 </td>
 </tr>
 <tr>
@@ -224,12 +235,12 @@ a mess.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dried Food, e.g. Biscuits / Chips (Healthy Symbol) / Cereal</p>
+<p>Dried Food, e.g. Biscuits/ Chips (Healthy Symbol)/ Cereal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assorted Breads / Sandwiches</p>
+<p>Assorted Breads/ Sandwiches</p>
 </td>
 </tr>
 </tbody>
@@ -251,42 +262,37 @@ a mess.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drinks other than plain water are not allowed (this includes Ayataka &amp;
+<p>Drinks other than plain water are not allowed (this includes Ayataka and
 Oolong Tea)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Junk / Fried food</p>
+<p>Junk/ Fried food</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Entire packet of rice / noodles / pasta, etc.</p>
+<p>Entire packet of rice/ noodles/ pasta, etc.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Parking on campus</strong>
+<p><strong>Parking on Campus</strong>
 </p>
 <p>Please note that red parking bays within the Transport Centre are reserved
-exclusively for campus staff. Only vehicles displaying designated staff
-labels are permitted to use these spaces. Parents and guardians must use
-the white parking bays only, as unauthorised parking in red bays may result
-in wheel clamping.</p>
-<p>During dismissal time, parents/guardians will only be allowed to enter
-the Carpark pick up point after 2:35 pm (Mondays to Wednesdays) and 1:35
-pm (Thursdays and Fridays). Parents/guardians may drive into the level
-1 Transport Centre to pick up their sons/wards and are allowed a maximum
-of 10 minutes to park their vehicle in empty red/white lots. No parallel
-parking is allowed. Other designated drop-off/pick-up points include the
-Chancery Lane Activity Area and Gate C, along Barker Road.</p>
+for campus staff. Parents/Guardians are to use only the white parking bays
+or risk having your vehicle wheels clamped.</p>
+<p>During dismissal time, parents/guardians may drive into the level 1 Transport
+Centre to pick up their sons/wards and are allowed a maximum of 10 minutes
+to park their vehicle in the available lots. Parallel parking is not permitted.
+Other designated drop-off/ pick-up points include the Chancery Lane Activity
+Area and Gate C, along Barker Road.</p>
 <p>To prevent traffic congestion and crowding outside the school gate, LTA
-does not allow any vehicle to wait outside the school gate along Barker
-Road and Dunearn Road. LTA will take enforcement action against vehicles
-found waiting/parking at this stretch (please refer to the map). Should
-you arrive too early for immediate pick-up, please utilise the pick-up/drop
-off space located near Chancery Lane.</p>
+does not permit vehicles to wait along Barker Road or Dunearn Road. Enforcement
+action will be taken against vehicles found waiting along these stretches
+(refer to the map below). Should you arrive too early for immediate pick-up,
+please use the pick-up area near Chancery Lane.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
