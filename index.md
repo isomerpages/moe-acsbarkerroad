@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of N-Level Results
+          date: 18 December 2025
+          announcement: Programme details for the release of N-Level results.
+          link_text: Find Out More
+          link_url: /2025-release-of-n-level-results/
         - title: School Uniform
           date: 25 November 2025
           announcement: School uniform purchase information now available.
@@ -45,7 +50,7 @@ sections:
       subtitle: Have a question?
       id: infopic
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/acs%20(br)#home
+      url: https://ask.gov.sg/acs(br)
       image: /images/acs(br)-askgov.png
       alt: AskGov
 ---

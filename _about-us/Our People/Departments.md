@@ -12,8 +12,8 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Principal | Mr Khoo Tse Horng |
-| Vice-Principal | Mr Jeffrey Tan |
 | Vice-Principal | Mr Chen Hong Ming |
+| Vice-Principal | Mr Keynes Lee |
 | Vice-Principal (Administration) | Mrs Marie Boey (Mdm Marie Loh Mei Ling) |
 | Admin Manager | Ms Nur Ezzati |
 | Admin Manager  | Mr Glenn Tan |
@@ -32,6 +32,7 @@ variant: markdown
 | Operations Support Officer | Mr Louis Png |
 | Operations Support Officer | Mdm Maheswary Munusamy |
 | Operations Support Officer | Mdm Jayamdee Kalimuthu |
+| Library Assistant | Mr Lou Gok Weng |
 |
 
 #### **English & Literature**
@@ -91,7 +92,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Mathematics | Ms Jacque Loo |
-| Lead Teacher, Character & Citizenship Education  | Mdm Mohana Ratnam |
+| Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
 | Subject Head, Mathematics | Ms Joanne Tng |
 | Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
 | Senior Teacher, Principles of Accounts | Ms Low Hei Chin |
