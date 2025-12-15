@@ -16,8 +16,7 @@ contacts:
       - phone: +65 6256 1633
       - email: acsbr@moe.edu.sg
       - other: <br><p><strong>Have a question?</strong><br> Ask and get answered on
-          our&nbsp;<a href="https://ask.gov.sg/acs%20(br)#home">Q&A
-          Page</a><br></p>
+          our&nbsp;<a href="https://ask.gov.sg/acs(br)">Q&A Page</a><br></p>
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6256 1366
