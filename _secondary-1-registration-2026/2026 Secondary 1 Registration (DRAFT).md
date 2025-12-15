@@ -338,9 +338,12 @@ contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="n
 <hr>
 <p>Parents Gateway is our primary mode of communication with parents/guardians.
 <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>
-</p>
-<p>The App can be downloaded on either <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">iOS</a> or
+<br>The App can be downloaded on either <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">iOS</a> or
 <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Android</a>phones.</p>
+<p>Parents/Guardians may contact the class form teachers via email.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_s1ft.jpg">
+</div>
 <p>For any clarification, please contact:</p>
 <ul data-tight="true" class="tight">
 <li>
