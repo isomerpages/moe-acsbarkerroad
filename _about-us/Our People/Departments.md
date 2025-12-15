@@ -12,8 +12,8 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Principal | Mr Khoo Tse Horng |
-| Vice-Principal | Mr Jeffrey Tan |
 | Vice-Principal | Mr Chen Hong Ming |
+| Vice-Principal | Mr Keynes Lee |
 | Vice-Principal (Administration) | Mrs Marie Boey (Mdm Marie Loh Mei Ling) |
 | Admin Manager | Ms Nur Ezzati |
 | Admin Manager  | Mr Glenn Tan |
