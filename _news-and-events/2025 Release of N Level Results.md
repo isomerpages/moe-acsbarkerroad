@@ -41,7 +41,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 pm</p>
+<p>1:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Briefing for students on results</strong> 
