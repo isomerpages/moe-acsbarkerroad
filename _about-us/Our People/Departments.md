@@ -102,10 +102,8 @@ variant: markdown
 |  | Mdm Dorrianne Yeo |
 |  | Mr Nicholas Heng |
 |  | Mrs Jeanette Wee |
-|  | Mr Sean Lee |
 |  | Mr Chia Kah Kheng |
 |  | Mr Su Jiahao Richmond |
-|  | Mr Chua Wee Choo |
 |  | Mr Jason Goh Thiam Hock |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
@@ -178,7 +176,6 @@ variant: markdown
 |  | Mr Su Jiahao Richmond |
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
-|  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Ms Jeanette Koh |
