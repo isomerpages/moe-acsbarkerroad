@@ -22,6 +22,20 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary One Registration
+          date: 19 December 2025
+          announcement: Welcome! Information for students posted to ACS(BR) for Secondary
+            One in 2026.
+          link_text: Find Out More
+          link_url: https://www.acsbr.moe.edu.sg/admissions/2026-sec-1-registration/
+        - title: Appeal for Transfer after S1 Posting
+          date: 19 December 2025
+          announcement: P6 students who have just received their posting in 2025 may use
+            this form to appeal for transfer to ACS(BR). Their PSLE score must
+            meet the school's cut-off point. Transfer will be subject to
+            available vacancies and the school’s admission criteria.
+          link_text: Find Out More
+          link_url: https://go.gov.sg/acsbr-2026s1appeal
         - title: Release of N-Level Results
           date: 18 December 2025
           announcement: Programme details for the release of N-Level results.
@@ -37,14 +51,6 @@ sections:
           announcement: Booklist and purchase information now available for Sec 1 to Sec 5.
           link_text: Find Out More
           link_url: /parents/booklist/
-        - title: Appeal for Transfer after S1 Posting
-          date: 19 December 2025
-          announcement: P6 students who have just received their posting in 2025 may use
-            this form to appeal for transfer to ACS(BR). Their PSLE score must
-            meet the school's cut-off point. Transfer will be subject to
-            available vacancies and the school’s admission criteria.
-          link_text: Find Out More
-          link_url: https://go.gov.sg/acsbr-2026s1appeal
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
