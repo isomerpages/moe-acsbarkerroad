@@ -554,6 +554,17 @@ contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="n
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>For any clarification, please contact:</p>
