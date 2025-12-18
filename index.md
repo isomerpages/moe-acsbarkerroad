@@ -34,10 +34,17 @@ sections:
           link_url: /parents/school-uniform/
         - title: Booklist 2026
           date: 14 November 2025
-          announcement: Booklist and purchase information now available for Sec 2 to Sec
-            5. The Sec 1 booklist will be published between 15-19 December.
+          announcement: Booklist and purchase information now available for Sec 1 to Sec 5.
           link_text: Find Out More
           link_url: /parents/booklist/
+        - title: Appeal for Transfer after S1 Posting
+          date: 19 December 2025
+          announcement: P6 students who have just received their posting in 2025 may use
+            this form to appeal for transfer to ACS(BR). Their PSLE score must
+            meet the school's cut-off point. Transfer will be subject to
+            available vacancies and the school’s admission criteria.
+          link_text: Find Out More
+          link_url: https://go.gov.sg/acsbr-2026s1appeal
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
