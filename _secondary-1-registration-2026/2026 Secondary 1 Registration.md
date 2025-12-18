@@ -474,7 +474,7 @@ contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="n
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sub>Miss Tan Lay Yee, Celestin</sub>
+<p><sub>Ms Tan Lay Yee, Celestin</sub>
 </p>
 </td>
 <td rowspan="1" colspan="1">
