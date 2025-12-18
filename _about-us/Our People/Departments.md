@@ -162,7 +162,7 @@ variant: markdown
 | Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
 | Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Science | Ms Lee Qian Ying |
-| Subject Head, Craft & Technology | Mr Andrew J Teo |
+| Subject Head, Applied Science | Mr Andrew J Teo |
 | Subject Head, National Education & Values-In-Action | Ms Jasmine Zheng |
 | Senior Teacher, Physics | Mr Leong Chuen Kit |
 |  | Ms Lim Poh Fang |
