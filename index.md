@@ -27,7 +27,7 @@ sections:
           announcement: Welcome! Information for students posted to ACS(BR) for Secondary
             One in 2026.
           link_text: Find Out More
-          link_url: https://www.acsbr.moe.edu.sg/admissions/2026-sec-1-registration/
+          link_url: /admissions/2026-sec-1-registration/
         - title: Appeal for Transfer after S1 Posting
           date: 19 December 2025
           announcement: P6 students who have just received their posting may use this form
