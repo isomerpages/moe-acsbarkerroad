@@ -349,6 +349,20 @@ contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="n
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Class</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Form Teacher</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Email Address</sub></strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><sub>1 Abraham</sub>
 </p>
