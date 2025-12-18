@@ -36,11 +36,6 @@ sections:
             vacancies and the school’s admission criteria.
           link_text: Find Out More
           link_url: https://go.gov.sg/acsbr-2026s1appeal
-        - title: Release of N-Level Results
-          date: 18 December 2025
-          announcement: Programme details for the release of N-Level results.
-          link_text: Find Out More
-          link_url: /2025-release-of-n-level-results/
         - title: School Uniform
           date: 25 November 2025
           announcement: School uniform purchase information now available.
