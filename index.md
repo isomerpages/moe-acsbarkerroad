@@ -30,10 +30,10 @@ sections:
           link_url: https://www.acsbr.moe.edu.sg/admissions/2026-sec-1-registration/
         - title: Appeal for Transfer after S1 Posting
           date: 19 December 2025
-          announcement: P6 students who have just received their posting in 2025 may use
-            this form to appeal for transfer to ACS(BR). Their PSLE score must
-            meet the school's cut-off point. Transfer will be subject to
-            available vacancies and the school’s admission criteria.
+          announcement: P6 students who have just received their posting may use this form
+            to appeal for transfer to ACS(BR). Their PSLE score must meet the
+            school's cut-off point. Transfer will be subject to available
+            vacancies and the school’s admission criteria.
           link_text: Find Out More
           link_url: https://go.gov.sg/acsbr-2026s1appeal
         - title: Release of N-Level Results
