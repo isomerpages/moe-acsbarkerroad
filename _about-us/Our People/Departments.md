@@ -102,10 +102,8 @@ variant: markdown
 |  | Mdm Dorrianne Yeo |
 |  | Mr Nicholas Heng |
 |  | Mrs Jeanette Wee |
-|  | Mr Sean Lee |
 |  | Mr Chia Kah Kheng |
 |  | Mr Su Jiahao Richmond |
-|  | Mr Chua Wee Choo |
 |  | Mr Jason Goh Thiam Hock |
 |  | Mdm Cathleen Ho |
 |  | Ms Veronica Looi |
@@ -164,7 +162,7 @@ variant: markdown
 | Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
 | Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Science | Ms Lee Qian Ying |
-| Subject Head, Craft & Technology | Mr Andrew J Teo |
+| Subject Head, Applied Science | Mr Andrew J Teo |
 | Subject Head, National Education & Values-In-Action | Ms Jasmine Zheng |
 | Senior Teacher, Physics | Mr Leong Chuen Kit |
 |  | Ms Lim Poh Fang |
@@ -178,7 +176,6 @@ variant: markdown
 |  | Mr Su Jiahao Richmond |
 |  | Mdm Heriana Samad |
 |  | Mr Tee Chen Kam |
-|  | Mr Andrew Oh |
 |  | Ms Pooja Sahu |
 |  | Ms Gracies Goh |
 |  | Ms Jeanette Koh |

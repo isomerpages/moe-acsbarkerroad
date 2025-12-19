@@ -19,20 +19,20 @@ links:
         url: /about-us/our-past-principals/
       - title: Our People
         url: /about-us/our-people/departments/
-      - title: Personal Data Protect'n Policy
+      - title: Personal Data Protection
         url: /about-us/personal-data-protection-policy/
       - title: School Calendar
         url: /school-calendar
   - title: ACS(BR) Education
     url: /education/alp/
     sublinks:
-      - title: "ALP: Drama, Debates & Public.."
+      - title: Applied Learning Programme
         url: /education/alp/
-      - title: "LLP: Sports & Outdoor Edu"
+      - title: Learning for Life Programme
         url: /education/llp/
       - title: Academic
         url: /education/academic/
-      - title: Character & Citizenship Edu
+      - title: Character & Citizenship
         url: /education/cce/overview/
       - title: Co-Curricular Activities
         url: /education/cca/
@@ -45,7 +45,11 @@ links:
   - title: Admissions
     url: /admissions/
     sublinks:
-      - title: Appeals for All Levels Exce..
+      - title: 2026 Sec 1 Registration
+        url: /admissions/2026-sec-1-registration/
+      - title: Appeal for Secondary One
+        url: https://go.gov.sg/acsbr-2026s1appeal
+      - title: Appeal for Other Levels
         url: https://form.gov.sg/#!/5f859d0d1e16e10011670caf
       - title: Direct School Admission (DSA)
         url: https://sites.google.com/moe.edu.sg/acsbr-cca/direct-school-admission-dsa-2025

@@ -22,11 +22,20 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of N-Level Results
-          date: 18 December 2025
-          announcement: Programme details for the release of N-Level results.
+        - title: Secondary One Registration
+          date: 19 December 2025
+          announcement: Welcome! Information for students posted to ACS(BR) for Secondary
+            One in 2026.
           link_text: Find Out More
-          link_url: /2025-release-of-n-level-results/
+          link_url: /admissions/2026-sec-1-registration/
+        - title: Appeal for Transfer after S1 Posting
+          date: 19 December 2025
+          announcement: P6 students who have just received their posting may use this form
+            to appeal for transfer to ACS(BR). Their PSLE score must meet the
+            school's cut-off point. Transfer will be subject to available
+            vacancies and the school’s admission criteria.
+          link_text: Find Out More
+          link_url: https://go.gov.sg/acsbr-2026s1appeal
         - title: School Uniform
           date: 25 November 2025
           announcement: School uniform purchase information now available.
@@ -34,8 +43,7 @@ sections:
           link_url: /parents/school-uniform/
         - title: Booklist 2026
           date: 14 November 2025
-          announcement: Booklist and purchase information now available for Sec 2 to Sec
-            5. The Sec 1 booklist will be published between 15-19 December.
+          announcement: Booklist and purchase information now available for Sec 1 to Sec 5.
           link_text: Find Out More
           link_url: /parents/booklist/
   - infopic:

@@ -95,10 +95,11 @@ school.</p>
 <p>Students who are Singapore citizens can use their Edusave to pay fully
 or partly for the PLD, after setting aside provision for payment of miscellaneous
 fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has
-provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all
-eligible Singaporean students in primary and secondary schools. This is
-on top of the annual Edusave contribution of $290 for secondary school
-students and $230 for primary school students.</p>
+provided Edusave top-ups from 2020 to 2023 to all eligible Singaporean
+students&nbsp;in primary and secondary schools. In 2025, MOE has provided
+a $500 Edusave top-up for students aged 13-16 years old. This is on top
+of the annual Edusave contribution of $290 for secondary school students
+and $230 for primary school students.</p>
 <p>Subsidies are available for students who require funding support to purchase
 a PLD. Please note that it is compulsory for all students on the MOE Financial
 Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums
@@ -127,8 +128,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under MOE FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gross Household Income (“GHI”) is $3,000 or less, or Per Capita Income
-(“PCI”)* is $750 or less</p>
+<p>Gross Household Income (“GHI”) is $4,000 or less, or Per Capita Income
+(“PCI”)* is $1,000 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No action required. Automatically subsidised for the PLD.</p>
@@ -139,7 +140,7 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GHI is $4,400 or less, or PCI is $1,100 or less</p>
+<p>GHI is $5,400 or less, or PCI is $1,350 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>

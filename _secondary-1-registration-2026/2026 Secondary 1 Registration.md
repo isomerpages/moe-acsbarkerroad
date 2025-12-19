@@ -1,5 +1,5 @@
 ---
-title: 2026 Secondary 1 Registration (DRAFT)
+title: 2026 Secondary 1 Registration
 permalink: /admissions/2026-sec-1-registration/
 variant: tiptap
 description: ""
@@ -341,9 +341,232 @@ contact 6377 3800 or e-mail to <a href="mailto:digitalaccess@imda.gov.sg" rel="n
 <br>The App can be downloaded on either <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">iOS</a> or
 <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en&amp;gl=US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Android</a>phones.</p>
 <p>Parents/Guardians may contact the class form teachers via email.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_s1ft.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Class</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Form Teacher</sub></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sub>Email Address</sub></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Abraham</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Freddy Tan</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>freddy_tan@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Sundaravalli Ravindran</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>sundaravalli_ravindran@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Caleb</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Nicholas Heng</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>heng_fook_song@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Ma Jun</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>ma_jun@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Samuel</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Elsie Liu</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>liu_chang_b@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Marina Binte Bohari</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>marina_bohari@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Gideon</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Liew Koon Ern William</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>liew_koon_ern_william@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Chong Seok Ying</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>chong_seok_ying@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Noah</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Heriana Samad</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>heriana_ab_samad@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Tan Lay Yee, Celestin</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>tan_lay_yee_celestin@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Timothy</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Chia Kah Kheng</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>chia_kah_kheng@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Ms Yang Xiao Qi</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>yang_xiaoqi@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Luke</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Roslan Abdul Ghani Bin Mohamed Jamil</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>roslan_abdul_ghani_jamil@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Mdm Geraldine Chong Li Hoon</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>chong_li_hoon_geraldine@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><sub>1 Moses</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>Mdm Dorrianne Yeo</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>dorrianne_yeo@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sub>Mr Tan Yong Kai</sub>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sub>tan_yong_kai@moe.edu.sg</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For any clarification, please contact:</p>
 <ul data-tight="true" class="tight">
 <li>
