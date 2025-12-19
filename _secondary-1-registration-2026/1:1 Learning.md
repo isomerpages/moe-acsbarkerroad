@@ -95,10 +95,11 @@ school.</p>
 <p>Students who are Singapore citizens can use their Edusave to pay fully
 or partly for the PLD, after setting aside provision for payment of miscellaneous
 fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has
-provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all
-eligible Singaporean students in primary and secondary schools. This is
-on top of the annual Edusave contribution of $290 for secondary school
-students and $230 for primary school students.</p>
+provided Edusave top-ups from 2020 to 2023 to all eligible Singaporean
+students&nbsp;in primary and secondary schools. In 2025, MOE has provided
+a $500 Edusave top-up for students aged 13-16 years old. This is on top
+of the annual Edusave contribution of $290 for secondary school students
+and $230 for primary school students.</p>
 <p>Subsidies are available for students who require funding support to purchase
 a PLD. Please note that it is compulsory for all students on the MOE Financial
 Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums
