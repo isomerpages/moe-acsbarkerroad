@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Student Handbook 2026
+          date: 22 December 2025
+          announcement: The digital copy of the Student Handbook 2026 is now available.
+          link_text: Find Out More
+          link_url: /students/
         - title: Secondary One Registration
           date: 19 December 2025
           announcement: Welcome! Information for students posted to ACS(BR) for Secondary
@@ -38,12 +43,12 @@ sections:
           link_url: https://go.gov.sg/acsbr-2026s1appeal
         - title: School Uniform
           date: 25 November 2025
-          announcement: School uniform purchase information now available.
+          announcement: Information on sales of school uniform.
           link_text: Find Out More
           link_url: /parents/school-uniform/
         - title: Booklist 2026
           date: 14 November 2025
-          announcement: Booklist and purchase information now available for Sec 1 to Sec 5.
+          announcement: Booklist and purchase information for Sec 1 to Sec 5.
           link_text: Find Out More
           link_url: /parents/booklist/
   - infopic:
