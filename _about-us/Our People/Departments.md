@@ -61,11 +61,10 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
+| Year Head, Upper Secondary | Ms Alice Chia |
 | Head of Department, Humanities | Ms Wong Qi Shan |
-| Head of Department, Character & Citizenship Education | Ms Alice Chia |
-| Year Head, Upper Secondary | Mr David Wong |
-| Lead Teacher, Geography | Mr Oh Boon Teck |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
+| Lead Teacher, Geography | Mr Oh Boon Teck |
 |  | Ms Charmaine Lim |
 |  | Mr Alan Lim |
 |  | Mdm Geraldine Chong |
@@ -81,10 +80,10 @@ variant: markdown
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
+| Subject Head, Learning Technologies (Acting) | Mr Chew Teng Leong |
 | ICT Associate | Mr Tan Joon Kiat |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
-| ICT Technical Assistant | Mr Ramlan Bin Abd Kadir |
 |
 
 #### **Mathematics**
@@ -92,10 +91,11 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Mathematics | Ms Jacque Loo |
-| Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
+| Head of Department, Student Management | Mr Foo Shiang Xin |
 | Subject Head, Mathematics | Ms Joanne Tng |
-| Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
+| Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
 | Senior Teacher, Principles of Accounts | Ms Low Hei Chin |
+| Senior Teacher, Mathematics | Ms Neo Chai Meng |
 |  | Mdm Sharon Choo |
 |  | Mdm Ng Hwee Fern |
 |  | Mr Clement Ho |
@@ -109,16 +109,16 @@ variant: markdown
 |  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
-|  | Ms Neo Chai Meng |
 |
 
 #### **Mother Tongue**
 
 | Designation | Name |
 |---|---|
-| Head of Department, Mother Tongue | Ms Loh Pei Guat |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
+| Head of Department, Mother Tongue | Ms Loh Pei Guat |
 | Subject Head, Mother Tongue  | Ms Nur Diyanah |
+| Senior Teacher, Chinese Language | Mdm Heng Wee Lee |
 |  | Mr Ma Jun |
 |  | Mdm Norhashikin Salim |
 |  | Mdm Noreen Mahmood |
@@ -127,7 +127,6 @@ variant: markdown
 |  | Mdm Teo Puay Kee |
 |  | Ms Pauline Chen |
 |  | Ms Sundaravalli Ravindran |
-|  | Mdm Heng Wee Lee |
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
 |
@@ -137,13 +136,13 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
-| Subject Head, Aesthetics | Ms Desiree Chua |
-| Subject Head, CCA | Mr Mohammad Faisal |
+| Head of Department, Learning and Behavioural Support | Ms Desiree Chua |
 | Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
+| Subject Head, Physical Education & CCA | Mr Mohammad Faisal |
+| Subject Head, Aesthetics | Ms Diana Kuek |
+| Subject Head, Discipline | Mr Muhammad Nabil |
 |  | Mr Roslan Abdul Ghani |
 |  | Mr Tan Yong Kai |
-|  | Mr Muhammad Nabil |
-|  | Ms Diana Kuek |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
 |  | Ms Marina Bohari |
@@ -156,19 +155,19 @@ variant: markdown
 |---|---|
 | Head of Department, Science | Mr Matthias Low |
 | Head of Department, Data & Systems Management | Mr Timothy Wong |
-| Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
+| Head of Department, Character & Citizenship Education | Mdm Alice Wang |
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | School Staff Developer | Mr Mohammed Ibrahim |
-| Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
 | Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
 | Subject Head, Science | Ms Lee Qian Ying |
-| Subject Head, Applied Science | Mr Andrew J Teo |
-| Subject Head, National Education & Values-In-Action | Ms Jasmine Zheng |
+| Subject Head, Craft & Technology | Mr Andrew J Teo |
+| Subject Head, Partnership & Engagement | Ms Jasmine Zheng |
+| Subject Head, Learning Technologies (Acting) | Mr Chew Teng Leong |
+| Lead Teacher, Nutrition and Food Science | Ms Julia Lim |
 | Senior Teacher, Physics | Mr Leong Chuen Kit |
 |  | Ms Lim Poh Fang |
 |  | Ms Sherri Tan |
 |  | Mdm Mei Pui Leng |
-|  | Mr Chew Teng Leong |
 |  | Mr Han Wern Kuang |
 |  | Ms Sheryl Lim |
 |  | Mr Mak Kuan Pak |
@@ -193,22 +192,23 @@ variant: markdown
 
 | Designation | Name |
 |---|---|
-| Head of Department, Character & Citizenship Education | Ms Alice Chia |
-| Head of Department, Learning and Behavioural Support | Mdm Alice Wang |
+| Head of Department, Character & Citizenship Education | Mdm Alice Wang |
+| Year Head, Upper Secondary | Ms Alice Chia |
 | Year Head, Lower Secondary | Mdm Koh Poh Li |
-| Year Head, Upper Secondary | Mr David Wong |
-| Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
 | Assistant Year Head, Upper Secondary | Mr Dalvin Ho |
-| Subject Head, Partnerships | Mr Mark Goh |
+| Assistant Year Head, Lower Secondary | Ms Pearlyn Khoo |
+| Head of Department, Physical Education & CCA | Mr Thio Yu Chong |
+| Head of Department, Learning and Behavioural Support | Ms Desiree Chua |
+| Head of Department, Student Management | Mr Foo Shiang Xin |
 | Subject Head, Student Leadership | Mr Freddy Tan |
-| Subject Head, National Education and Values-In-Action | Ms Jasmine Zheng |
-| Subject Head, Behavioural Coaching | Mr Foo Shiang Xin |
+| Subject Head, Partnership & Engagement | Ms Jasmine Zheng |
+| Subject Head, Physical Education & CCA | Mr Mohammad Faisal |
+| Subject Head, Discipline | Mr Muhammad Nabil |
+| Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
 | School Counsellor | Mr Chong Meng Lieng |
 | School Counsellor | Mr Kevin Lum |
 | Special Educational Needs Officer | Ms Chu Pei Yun |
 | Special Educational Needs Officer | Mr Lionel Lin |
 | Special Educational Needs Officer | Ms Joan Anne Lim |
-| Educational Psychologist | Mr Jeremy Chian |
-| Financial Assistance Support | Mdm Alice Wang |
 | MOE Education and Career Guidance Counsellor | Ms Lee Ai Ping Brenda |
 |
