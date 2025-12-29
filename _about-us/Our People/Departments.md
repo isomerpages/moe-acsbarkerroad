@@ -67,12 +67,12 @@ variant: markdown
 | Subject Head, Learning Technologies | Mr Wesley Syn |
 | Lead Teacher, Geography | Mr Oh Boon Teck |
 |  | Ms Charmaine Lim |
-|  | Mr Alan Lim |
 |  | Mdm Geraldine Chong |
 |  | Mr Alexis Ho |
 |  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
 |  | Mr William Liew |
+|  | Mr Alan Lim |
 |  | Mr Teo Yun Hao
 |
 
@@ -127,12 +127,12 @@ variant: markdown
 |  | Mdm P Rajesvari |
 |  | Mr Li Xue Guang |
 |  | Mdm Teo Puay Kee |
-|  | Ms Pauline Chen |
 |  | Ms Sundaravalli Ravindran |
-|  | Mdm Tan Kim Choo |
-|  | Mr Yeong Hoi Wai |
 |  | Mr Han Xuanjun |
 |  | Ms Yang Xiaoqi
+|  | Ms Pauline Chen |
+|  | Mdm Tan Kim Choo |
+|  | Mr Yeong Hoi Wai |
 |
 
 #### **Physical Education & Aesthetics**
