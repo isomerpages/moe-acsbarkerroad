@@ -9,22 +9,13 @@ description: ""
 closely with our school to enrich and support its programmes. Their goal
 is to provide parents with meaningful opportunities to connect, share experiences,
 and support one another throughout their sons’ secondary school journey,
-as they grow into young adults and prepare for their national examinations.</p>
+as they grow into young adults and prepare for their national examinations.
+Find out more at their <a href="https://sites.google.com/a/acsbr.org/familyatbarker/home" rel="noopener nofollow" target="_blank">microsite</a>.</p>
 <p><strong>Stay Informed and Connected with Level Parents WhatsApp Chat Group</strong>
 <br>A dedicated ACS(BR) Sec 1 2026 Parents WhatsApp chat group has been created.
-You can join by visiting <a href="https://bit.ly/4qZZSS2" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/4qZZSS2</a>.</p>
-<p>This chat group allows you to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Express interest in becoming a Parent Volunteer (PV) with F@B.</p>
-</li>
-<li>
-<p>Receive important PSG announcements and updates.</p>
-</li>
-<li>
-<p>Join the official ACS(BR) Sec 1 level and class WhatsApp groups.</p>
-</li>
-</ul>
+You may join the group using this link <a href="https://chat.whatsapp.com/BIJZKNLxTAt8CtAmmcnbdq" rel="noopener nofollow" target="_blank">https://chat.whatsapp.com/BIJZKNLxTAt8CtAmmcnbdq</a>.</p>
+<p><em>Please note: By joining, you agree to follow the chat rules listed in the chat group description. The chat group is managed by Family@Barker (PSG).</em>
+</p>
 <p><strong>Opportunities to Volunteer with F@B</strong>
 <br>F@B offers eight Ministries for parents who wish to actively contribute
 to a holistic school experience for your sons. These Ministries focus on
@@ -56,7 +47,7 @@ their physical, spiritual, and mental well-being, and include:</p>
 </li>
 </ul>
 <p><strong>Welcome Breakfast</strong>
-<br>Join them on <strong>Tuesday, 3 February, from 8:00am to 9:30am</strong>,
+<br>Join them on <strong>Tuesday, 3 February 2026, from 8:00am to 9:30am</strong>,
 to learn more about each Ministry. Discover how your involvement with F@B
 can help nurture faith, love, and strength within our community.</p>
 <p>Do also follow them on either <a href="https://www.facebook.com/groups/familyatbarker/" rel="noopener nofollow" target="_blank">Facebook</a> or
