@@ -55,6 +55,7 @@ variant: markdown
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
 |  | Mrs Aw Meng Yin
+|  | Ms Celestin Tan
 |
 
 #### **Humanities**
@@ -72,6 +73,7 @@ variant: markdown
 |  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
 |  | Mr William Liew |
+|  | Mr Teo Yun Hao
 |
 
 #### **Learning Technologies**
@@ -129,6 +131,8 @@ variant: markdown
 |  | Ms Sundaravalli Ravindran |
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
+|  | Mr Han Xuanjun |
+|  | Ms Yang Xiaoqi
 |
 
 #### **Physical Education & Aesthetics**
@@ -147,6 +151,7 @@ variant: markdown
 |  | Ms Elsie Liu |
 |  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
+|  | Ms Erika Poh
 |
 
 #### **Science**
