@@ -69,11 +69,11 @@ variant: markdown
 |  | Ms Charmaine Lim |
 |  | Mdm Geraldine Chong |
 |  | Mr Alexis Ho |
-|  | Mr Ang Zhen Ye |
 |  | Ms Lim Rui |
 |  | Mr William Liew |
 |  | Mr Alan Lim |
 |  | Mr Teo Yun Hao
+|  | Ms Heike Boon
 |
 
 #### **Learning Technologies**
@@ -152,6 +152,7 @@ variant: markdown
 |  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
 |  | Ms Erika Poh
+|  | Mr Danny Loh
 |
 
 #### **Science**
