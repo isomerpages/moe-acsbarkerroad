@@ -22,6 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: 2025 O-Level Results Release
+          date: 14 January 2026
+          announcement: Programme information for O-Level Results Release.
+          link_text: Find Out More
+          link_url: /2025-o-level-results-release/
         - title: Timetable for 2026 Semester 1
           date: 05 January 2026
           announcement: Please visit our Academic Matters microsite for the latest timetable.
@@ -38,16 +43,6 @@ sections:
             One in 2026.
           link_text: Find Out More
           link_url: /admissions/2026-sec-1-registration/
-        - title: School Uniform
-          date: 25 November 2025
-          announcement: Information on sales of school uniform.
-          link_text: Find Out More
-          link_url: /parents/school-uniform/
-        - title: Booklist 2026
-          date: 14 November 2025
-          announcement: Booklist and purchase information for Sec 1 to Sec 5.
-          link_text: Find Out More
-          link_url: /parents/booklist/
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
