@@ -31,7 +31,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Thanksgiving Service</strong> 
-<br>(Concert Hall)
+<br>Venue: Concert Hall
 <br><em>Students and parents are welcome to join.</em>
 </p>
 </td>
@@ -45,7 +45,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Briefing for students on results</strong> 
-<br>(Auditorium)</p>
+<br>Venue: Auditorium</p>
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
@@ -57,7 +57,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of Results</strong> 
-<br>(Auditorium)</p>
+<br>Venue: Auditorium</p>
 </td>
 </tr>
 </tbody>
