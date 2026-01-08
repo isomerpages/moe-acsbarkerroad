@@ -10,7 +10,6 @@ Our school uniform vendor is Finest Fashion Centre*.
 You may purchase all uniforms through their online website or visit their retail outlets listed below. Please note that the school has introduced a **new PE shirt** for our students and is only available through Finest Fashion Centre. The new PE shirt is optional. Students may continue to wear their current PE shirts.
 
 * **Online Orders** – For your convenience, place orders online at [https://finestuniform.com/collections/anglo-chinese-school-barker-road/ACSBR](https://finestuniform.com/collections/anglo-chinese-school-barker-road/ACSBR)
-* **On-Campus Sales** – Finest Fashion Centre will be conducting uniform sales on campus from 8 to 26 December 2025 at the school canteen. Sales hours are 9 am to 3 pm, Monday to Friday, and 9 am to 12 pm on Saturday (closed on 24 and 25 December 2025).
 * **Retail Walk-in Sales Locations:**
 
 | Outlet | Daily Opening Hours |
