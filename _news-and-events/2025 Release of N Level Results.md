@@ -4,8 +4,8 @@ permalink: /2025-release-of-n-level-results/
 variant: tiptap
 description: ""
 ---
-<h3><strong>2025&nbsp;Release&nbsp;of&nbsp;N-Level Results</strong></h3>
-<h4><strong>Date: 18 December 2025</strong></h4>
+<h3><strong>2025 O-Level Results Release</strong></h3>
+<h4><strong>Date: 14 January 2026</strong></h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -27,11 +27,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:15 pm - 1 pm</p>
+<p>12:30 pm - 1:15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Thanksgiving Service</strong> 
-<br>(Science Learning Centre)
+<br>(Concert Hall)
 <br><em>Students and parents are welcome to join.</em>
 </p>
 </td>
@@ -45,8 +45,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Briefing for students on results</strong> 
-<br>Students of 4M - Math Learning Centre
-<br>Students of 4A and 4C - Science Learning Centre</p>
+<br>(Auditorium)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
@@ -54,21 +53,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 pm - 2:15 pm</p>
+<p>2 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Release of Results</strong> 
-<br>Students of 4M - Math Learning Centre
-<br>Students of 4A and 4C - Science Learning Centre</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>*Please note that there are specific briefings for different group of
-students after the release of results from 2:15 pm - 2:35 pm.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>(Auditorium)</p>
 </td>
 </tr>
 </tbody>
