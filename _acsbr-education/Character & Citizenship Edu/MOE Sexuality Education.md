@@ -88,13 +88,15 @@ which are of prime concern at this age.</p>
 <p></p>
 <p><strong>Secondary 2</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec2_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec2_SEd_2026.png">
 </div>
 <p><strong>Secondary 3</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec3_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec3_SEd_2026.png">
 </div>
 <p><strong>Secondary 4</strong>
 </p>
