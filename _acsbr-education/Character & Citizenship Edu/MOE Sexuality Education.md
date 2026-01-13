@@ -43,7 +43,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Anglo-Chinese School (Barker Road)’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Anglo-Chinese School (Barker Road)’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
