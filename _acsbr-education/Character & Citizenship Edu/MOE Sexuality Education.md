@@ -161,8 +161,8 @@ are the key messages.</p>
 <p>Raise awareness and provide knowledge on:</p>
 <p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
 how it spreads, how to prevent infection mainly through ABC</p>
-<p>(abstinence, being faithful, correct, and consistent condom use),</p>
-<p>consequences and impact</p>
+<p>(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
 <p>b) Skills for respecting boundaries (e.g. decision-making,</p>
 <p>assertiveness, negotiation to say ‘no’ to peer pressure)</p>
 <p>c) Managing relationships and risky situations in a healthy way,</p>
