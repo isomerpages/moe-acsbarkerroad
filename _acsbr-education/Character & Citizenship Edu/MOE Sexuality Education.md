@@ -83,8 +83,9 @@ which are of prime concern at this age.</p>
 <p><strong>Secondary 1</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_sec1_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1_SEd_2026.png">
 </div>
+<p></p>
 <p><strong>Secondary 2</strong>
 </p>
 <div class="isomer-image-wrapper">
