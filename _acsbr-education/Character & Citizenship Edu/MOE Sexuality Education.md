@@ -41,7 +41,7 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality- education" rel="noopener nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
 <p><strong>Overview of Anglo-Chinese School (Barker Road)’s Sexuality Education Programme for 2025</strong>
 </p>
@@ -49,8 +49,8 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+Law. You may click here for more information on the scope of Sexuality
+Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
@@ -67,10 +67,10 @@ may result in a tendency to act on impulse, experiment with various activities
 (including sexual activities), sometimes without understanding the unpleasant
 consequences that may arise from such experimentation. The need for peer
 acceptance can be overwhelmingly strong and hinder one’s ability to act
-responsibly.&nbsp; Given the pressures faced by the middle adolescent from
-within themselves and from peers, it is important to build a strong sense
-of self-worth, personal conviction and an understanding of the possible
-consequences of sexual behaviour.</p>
+responsibly. Given the pressures faced by the middle adolescent from within
+themselves and from peers, it is important to build a strong sense of self-worth,
+personal conviction and an understanding of the possible consequences of
+sexual behaviour.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
