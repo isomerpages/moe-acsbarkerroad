@@ -188,23 +188,27 @@ are the key messages.</p>
 </table>
 <p><strong>Information for Parents</strong>
 </p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education or <em>eTeens</em> lessons. These students will have
-to attend an alternative Values lessons during the time slot.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only trained teachers conduct Sexuality
-Education lessons. We do not engage external vendors to conduct Sexuality
-Education in our school.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form, shared via Parents Gateway. The completed form is to be
-submitted by <strong>07/02/2025</strong>.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em> programme</strong><em> (for Sec 3 only) </em>need
-to complete an opt-out form, shared via Parents Gateway. The completed
-form is to be submitted by <strong>07/02/2025</strong>.</p>
+<p>10. Parents may opt their children out of the Sexuality Education or Sec
+3 eTeens</p>
+<p>lessons. These students will have to attend an alternative Values lessons
+during the</p>
+<p>time slot.</p>
+<p>11. Only trained teachers conduct Sexuality Education lessons. We do not
+engage</p>
+<p>external vendors to conduct Sexuality Education in our school.</p>
+<p>12. Parents who wish to opt their children out of the Sexuality Education</p>
+<p>lessons need to complete an opt-out form, shared via Parents Gateway.
+The</p>
+<p>completed form is to be submitted by 6 Feb 2026.</p>
+<p>13. Parents who wish to opt their children out of the eTeens programme
+(for Sec</p>
+<p>3 only) need to complete an opt-out form, shared via Parents Gateway.
+The</p>
+<p>completed form is to be submitted by 6 Feb 2026.</p>
 <p>14. Parents can contact the school’s Sexuality Education Coordinator,
-Ms Sherri Tan, at <a href="mailto:tan_sze_yun_sherri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sze_yun_sherri@moe.edu.sg</a>,
-or 62561633 for discussion or to seek clarification about the school’s
-sexuality education programme.
+Ms Sherri</p>
+<p>Tan, at <a href="mailto:tan_sze_yun_sherri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sze_yun_sherri@moe.edu.sg</a>,
+or 62561633 for discussion or to seek</p>
+<p>clarification about the school’s sexuality education programme.
 <br>
 </p>
