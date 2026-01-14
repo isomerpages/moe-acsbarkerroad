@@ -41,7 +41,7 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>Overview of Anglo-Chinese School (Barker Road)’s Sexuality Education Programme for 2026</strong>
 </p>
@@ -49,12 +49,12 @@ more information on MOE Sexuality Education.</p>
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click here for more information on the scope of Sexuality
-Education in the school curriculum.</p>
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+<p>a.&nbsp;&nbsp;&nbsp; Science
+<br>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
@@ -82,46 +82,40 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1_SEd_2026__2_.png">
 </div>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec2_SEd_2026.png">
 </div>
 <p><strong>Secondary 3</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec3_SEd_2026.png">
 </div>
 <p><strong>Secondary 4</strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec4_SEd_2026__2_.png">
 </div>
 <p><strong>Secondary 5</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec5_SEd_2026.png">
 </div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme that was
-developed by Health Promotion Board, in collaboration with the Ministry
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
 of Education, to provide Secondary 3 students with accurate information
 on STIs, HIV and protection from a health perspective. With the formation
 of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
 would now be managed by CDA’s Training and Education Division instead of
-HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions to protect
-themselves from sexually transmitted infectious diseases.</p>
+HPB. <em>eTeens</em> is conducted in two segments – a mass talk segment and
+a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
@@ -149,8 +143,6 @@ are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -160,13 +152,12 @@ are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
 <p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
-how it spreads, how to prevent infection mainly through ABC</p>
-<p>(abstinence, being faithful, correct, and consistent condom use), consequences
-and impact</p>
-<p>b) Skills for respecting boundaries (e.g. decision-making,</p>
-<p>assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>c) Managing relationships and risky situations in a healthy way,</p>
-<p>including avenues for help-seeking.</p>
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 9</p>
@@ -177,9 +168,8 @@ and impact</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn to negotiate their way out of a risky situation by applying skills</p>
-<p>of assertiveness and responsible decision-making</p>
-<p>&nbsp;</p>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 10</p>
@@ -190,14 +180,14 @@ and impact</p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10. Parents may opt their children out of the Sexuality Education or Sec
-3 eTeens lessons. These students will have to attend an alternative Values
-lessons during the time slot.</p>
+3 <em>eTeens</em> lessons. These students will have to attend an alternative
+Values lessons during the time slot.</p>
 <p>11. Only trained teachers conduct Sexuality Education lessons. We do not
 engage external vendors to conduct Sexuality Education in our school.</p>
 <p>12. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form, shared via Parents Gateway. The completed
 form is to be submitted by <strong>6 Feb 2026</strong>.</p>
-<p>13. Parents who wish to opt their children out of the<strong> eTeens programme</strong> (for
+<p>13. Parents who wish to opt their children out of the<strong> <em>eTeens</em> programme</strong> (for
 Sec 3 only) need to complete an opt-out form, shared via Parents Gateway.
 The completed form is to be submitted by <strong>6 Feb 2026</strong>.</p>
 <p>14. Parents can contact the school’s Sexuality Education Coordinator,
