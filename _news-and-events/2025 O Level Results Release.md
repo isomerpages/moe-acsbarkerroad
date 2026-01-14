@@ -62,4 +62,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Resources</h4>
+<p><a href="/files/Release_of_2025_O_Level_Results.pdf" rel="noopener nofollow" target="_blank">Briefing slides for students</a>
+</p>
