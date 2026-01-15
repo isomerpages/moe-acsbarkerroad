@@ -2,8 +2,9 @@
 title: Student Protection Plan
 permalink: /parents/student-protection-plan/
 description: ""
+variant: markdown
 ---
-### **Student Protection Plan**
+### **Group Personal Accident**
 Please click on the links for the Group Personal Accident (GPA) Insurance Plan for Students claim form and factsheet:
 
 **Claim Form:**
