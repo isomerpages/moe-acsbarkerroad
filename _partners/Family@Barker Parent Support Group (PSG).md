@@ -46,10 +46,6 @@ their physical, spiritual, and mental well-being, and include:</p>
 <p>Merchandise &amp; Sponsorship Ministry</p>
 </li>
 </ul>
-<p><strong>Welcome Breakfast</strong>
-<br>Join them on <strong>Tuesday, 3 February 2026, from 8:00am to 9:30am</strong>,
-to learn more about each Ministry. Discover how your involvement with F@B
-can help nurture faith, love, and strength within our community.</p>
 <p>Do also follow them on either <a href="https://www.facebook.com/groups/familyatbarker/" rel="noopener nofollow" target="_blank">Facebook</a> or
 <a href="https://www.instagram.com/family.at.barker/" rel="noopener nofollow" target="_blank">Instagram</a>.</p>
 <p>We look forward to a fruitful and blessed year for the ACS(BR) family,
