@@ -27,22 +27,11 @@ sections:
           announcement: Please visit our Academic Matters microsite for the latest timetable.
           link_text: Find Out More
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
-        - title: 2025 O-Level Results Release
-          date: 14 January 2026
-          announcement: Programme information for O-Level Results Release.
-          link_text: Find Out More
-          link_url: /2025-o-level-results-release/
         - title: Student Handbook 2026
           date: 22 December 2025
           announcement: The digital copy of the Student Handbook 2026 is now available.
           link_text: Find Out More
           link_url: /students/
-        - title: Secondary One Registration
-          date: 19 December 2025
-          announcement: Welcome! Information for students posted to ACS(BR) for Secondary
-            One in 2026.
-          link_text: Find Out More
-          link_url: /admissions/2026-sec-1-registration/
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
