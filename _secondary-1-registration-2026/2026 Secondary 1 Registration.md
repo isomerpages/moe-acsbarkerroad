@@ -321,8 +321,7 @@ immediately.</p>
 <hr>
 <p>Singapore Citizens can get assistance from MOE on school fees and other
 expenses.</p>
-<p>For more information on financial support, you can refer to <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas.pdf</a>
-</p>
+<p>For more information on financial support, you can refer to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 <p>You can apply online at <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a> or
 download the application form <a href="https://www.acsbr.moe.edu.sg/files/MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
 <br>To avoid delay in your application, kindly submit the completed application
