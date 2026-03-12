@@ -151,8 +151,6 @@ variant: markdown
 |  | Ms Elsie Liu |
 |  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Ms Erika Poh
-|  | Mr Danny Loh
 |
 
 #### **Science**
