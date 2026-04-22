@@ -33,6 +33,14 @@ sections:
           link_text: Find Out More
           link_url: /students/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Website_Header.png
+      alt: Image alt text
+  - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
       button: Find out more
