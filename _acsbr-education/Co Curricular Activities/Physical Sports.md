@@ -53,10 +53,6 @@ variant: markdown
 <img src="/images/sports10.jpg" style="width:33%" align="left">
 </a></p>
 
-<p><a href="https://sites.google.com/moe.edu.sg/acs-barker-road-track/home">
-<img src="/images/sports11.jpg" style="width:33%" align="left">
-</a></p>
-
 <p><a href="https://sites.google.com/moe.edu.sg/acsbr-water-polo/home">
 <img src="/images/sports12.jpg" style="width:33%" align="left">
 </a></p>

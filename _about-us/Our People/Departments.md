@@ -70,7 +70,6 @@ variant: markdown
 |  | Mdm Geraldine Chong |
 |  | Mr Alexis Ho |
 |  | Ms Lim Rui |
-|  | Mr William Liew |
 |  | Mr Alan Lim |
 |  | Mr Teo Yun Hao
 |  | Ms Heike Boon
@@ -108,7 +107,6 @@ variant: markdown
 |  | Mr Su Jiahao Richmond |
 |  | Mr Jason Goh Thiam Hock |
 |  | Mdm Cathleen Ho |
-|  | Ms Veronica Looi |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
 |
@@ -129,10 +127,12 @@ variant: markdown
 |  | Mdm Teo Puay Kee |
 |  | Ms Sundaravalli Ravindran |
 |  | Mr Han Xuanjun |
-|  | Ms Yang Xiaoqi
+|  | Ms Yang Xiaoqi |
 |  | Ms Pauline Chen |
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
+|  | Mr Qiu Nan |
+|  | Ms Swee Siow Hui |
 |
 
 #### **Physical Education & Aesthetics**
@@ -151,8 +151,6 @@ variant: markdown
 |  | Ms Elsie Liu |
 |  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
-|  | Ms Erika Poh
-|  | Mr Danny Loh
 |
 
 #### **Science**
