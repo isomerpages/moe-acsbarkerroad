@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - 2025 O Level Results Release.md
       - Class Posting 2025.md
       - O Level Release of Results.md
       - Open House 2024.md
