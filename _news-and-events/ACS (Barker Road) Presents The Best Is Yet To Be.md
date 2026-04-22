@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Header.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TBIYTB_Header.png">
 </div>
 <h4><strong>ACS (Barker Road) Presents "The Best Is Yet To Be"</strong></h4>
 <p>As we celebrate 140 years of ACS heritage, Anglo-Chinese School (Barker
