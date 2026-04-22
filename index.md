@@ -26,8 +26,8 @@ sections:
       alt: Image alt text
       url: /the-best-is-yet-to-be/
       subtitle: ACS (BARKER ROAD)
-      description: An original musical in celebration of ACS140 and supported by the
-        Lim Teow Lin Fund.
+      description: An original musical in celebration of ACS140, supported by the Lim
+        Teow Lin Fund.
   - announcements:
       title: Announcements
       id: announcements
