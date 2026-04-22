@@ -33,13 +33,12 @@ sections:
           link_text: Find Out More
           link_url: /students/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: ACS (Barker Road) Presents "The Best Is Yet To Be"
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: FIND OUT MORE
       image: /images/Website_Header.png
       alt: Image alt text
+      url: /the-best-is-yet-to-be/
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
