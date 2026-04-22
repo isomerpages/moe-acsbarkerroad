@@ -33,12 +33,15 @@ sections:
           link_text: Find Out More
           link_url: /students/
   - infopic:
-      title: ACS (Barker Road) Presents "The Best Is Yet To Be"
+      title: The Best Is Yet To Be
       id: infopic
       button: FIND OUT MORE
       image: /images/Website_Header.png
       alt: Image alt text
       url: /the-best-is-yet-to-be/
+      subtitle: ACS (BARKER ROAD)
+      description: An original musical in celebration of ACS140 and supported by the
+        Lim Teow Lin Fund.
   - infopic:
       title: ACS(BR) Education
       subtitle: ACS (Barker Road)
