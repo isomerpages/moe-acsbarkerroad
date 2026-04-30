@@ -133,7 +133,6 @@ variant: markdown
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
 |  | Mr Qiu Nan |
-|  | Ms Swee Siow Hui |
 |
 
 #### **Physical Education & Aesthetics**
