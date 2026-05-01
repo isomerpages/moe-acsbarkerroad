@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - DSA Engagement Session 2026.md
       - Admissions.md
