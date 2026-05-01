@@ -109,6 +109,7 @@ variant: markdown
 |  | Mdm Cathleen Ho |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
+|  | Ms Ling Ai Keow |
 |
 
 #### **Mother Tongue**
@@ -132,7 +133,6 @@ variant: markdown
 |  | Mdm Tan Kim Choo |
 |  | Mr Yeong Hoi Wai |
 |  | Mr Qiu Nan |
-|  | Ms Swee Siow Hui |
 |
 
 #### **Physical Education & Aesthetics**
