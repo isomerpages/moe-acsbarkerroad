@@ -33,7 +33,7 @@ you!</p>
 <p>Check-in Session with DSA CCA Teachers</p>
 </li>
 </ul>
-<p><strong><u>Important Information</u></strong>
+<p><strong>Important Information</strong>
 </p>
 <p>This <strong>DSA Engagement Session</strong> will replace our usual Open
 House this year.</p>
@@ -48,7 +48,8 @@ early to secure your spot.</p>
 <p><strong>Registration</strong>
 </p>
 <p><strong>Register here</strong>:
-<br>https://go.gov.sg/acsbr-dsa-engagement</p>
+<br><a href="https://go.gov.sg/acsbr-dsa-engagement" rel="noopener nofollow" target="_blank">https://go.gov.sg/acsbr-dsa-engagement</a>
+</p>
 <p><strong>Getting Here</strong>
 </p>
 <p>We strongly encourage visitors to use public transport due to limited
@@ -76,7 +77,8 @@ the school compound.</p>
 <p><strong>More Information</strong>
 </p>
 <p>More information on our <strong>DSA Talent Areas</strong> can be found here:
-<br>https://sites.google.com/moe.edu.sg/acsbr-cca/direct-school-admission-dsa-2026?authuser=0</p>
+<br><a href="https://sites.google.com/moe.edu.sg/acsbr-cca/direct-school-admission-dsa-2026" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/acsbr-cca/direct-school-admission-dsa-2026</a>
+</p>
 <p>Come and take the first step. We look forward to welcoming you to ACS
 (Barker Road)!&nbsp;</p>
 <p></p>
