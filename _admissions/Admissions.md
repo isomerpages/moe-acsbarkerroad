@@ -11,10 +11,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="http://go.gov.sg/acsbr-2026s1appeal" rel="noopener nofollow" target="_blank">Appeal for Secondary One</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://form.gov.sg/#!/5f859d0d1e16e10011670caf" rel="noopener noreferrer nofollow" target="_blank">Appeal for All Levels except Secondary One</a></strong>
 </p>
 </li>
