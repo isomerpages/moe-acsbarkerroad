@@ -39,17 +39,14 @@ you!</p>
 House this year.</p>
 <p>Due to limited seating capacity, only <strong>registered visitors </strong>will
 be allowed entry into the auditorium for the <strong>School Leaders’ address and engagement session with our current DSA students</strong>.</p>
+<p><strong>Registration is now closed.</strong>
+</p>
 <p><strong>Walk-in visitors without prior registration</strong> may still
 join us from <strong>6.00pm to 6.30pm</strong> to check in with our <strong>DSA CCA teachers</strong> and
 find out more about the individual talent areas.</p>
-<p>As places are limited, registration is on a <strong>first-come, first-served basis</strong>.
-We are currently just a few seats away from full capacity, so do register
-early to secure your spot.</p>
 <p><strong>Registration</strong>
 </p>
-<p><strong>Register here</strong>:
-<br><a href="https://go.gov.sg/acsbr-dsa-engagement" rel="noopener nofollow" target="_blank">https://go.gov.sg/acsbr-dsa-engagement</a>
-</p>
+<p>Registration has closed for the auditorium segment.</p>
 <p><strong>Getting Here</strong>
 </p>
 <p>We strongly encourage visitors to use public transport due to limited
