@@ -1,5 +1,4 @@
 collections:
   news-and-events:
     output: true
-    order:
-      - ACS (Barker Road) Presents The Best Is Yet To Be.md
+    order: []
