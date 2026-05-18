@@ -18,16 +18,6 @@ sections:
         - title: Partners
           description: ""
           url: /partners/
-  - infopic:
-      title: DSA Engagement Session 2026
-      subtitle: ACS (BARKER ROAD)
-      id: infopic
-      description: Could ACS (Barker Road) be the school for you? Join us on Friday,
-        15 May 2026 from 5.00 pm – 6.30 pm.
-      button: Find out more
-      url: /admissions/dsa-engagement-session-2026/
-      image: /images/Website_Banner.png
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
