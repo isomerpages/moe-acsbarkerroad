@@ -54,8 +54,8 @@ variant: markdown
 |  | Ms Abigail Lee |
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
-|  | Mrs Aw Meng Yin
 |  | Ms Celestin Tan
+|  | Mrs Aw Meng Yin
 |
 
 #### **Humanities**
@@ -70,8 +70,8 @@ variant: markdown
 |  | Mdm Geraldine Chong |
 |  | Mr Alexis Ho |
 |  | Ms Lim Rui |
-|  | Mr Alan Lim |
 |  | Mr Teo Yun Hao
+|  | Mr Alan Lim |
 |  | Ms Heike Boon
 |
 
