@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - DSA Engagement Session 2026.md
       - 2025 O Level Results Release.md
       - Class Posting 2025.md
       - O Level Release of Results.md
