@@ -129,10 +129,14 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Protect</p>
-<p>students from</p>
-<p>objectionable</p>
-<p>content</p>
+<p><strong>Protect</strong>
+</p>
+<p><strong>students from</strong>
+</p>
+<p><strong>objectionable</strong>
+</p>
+<p><strong>content</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Web content filtering will</p>
@@ -156,12 +160,18 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reduce</p>
-<p>distractions</p>
-<p>from learning</p>
-<p>through</p>
-<p>control of</p>
-<p>applications</p>
+<p><strong>Reduce</strong>
+</p>
+<p><strong>distractions</strong>
+</p>
+<p><strong>from learning</strong>
+</p>
+<p><strong>through</strong>
+</p>
+<p><strong>control of</strong>
+</p>
+<p><strong>applications</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/Guardians and</p>
@@ -201,8 +211,10 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Limit screen</p>
-<p>time</p>
+<p><strong>Limit screen</strong>
+</p>
+<p><strong>time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school will define the</p>
@@ -230,10 +242,14 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monitor</p>
-<p>students’</p>
-<p>cyber</p>
-<p>activities</p>
+<p><strong>Monitor</strong>
+</p>
+<p><strong>students’</strong>
+</p>
+<p><strong>cyber</strong>
+</p>
+<p><strong>activities</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/Guardians will not be</p>
@@ -254,9 +270,12 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Provision of</p>
-<p>Parent</p>
-<p>Account</p>
+<p><strong>Provision of</strong>
+</p>
+<p><strong>Parent</strong>
+</p>
+<p><strong>Account</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>❌</p>
@@ -280,10 +299,17 @@ for parents who would prefer other settings for&nbsp;<strong>after school hours<
 <p>Parents/Guardians may wish to consider the following questions before
 deciding which Alternative Setting</p>
 <p>option is best for their child/ward.</p>
-<p></p>
-<p>Child’s/Ward’s current device usage habits</p>
-<p>o How much time does my child/ward spend on his/her device?</p>
-<p>o How well can my child/ward self-regulate his/her device usage?</p>
-<p>o Does my child/ward become easily distracted during online learning?</p>
-<p></p>
+<p><u>Child’s/Ward’s current device usage habits</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How much time does my child/ward spend on his/her device?</p>
+</li>
+<li>
+<p>How well can my child/ward self-regulate his/her device usage?</p>
+</li>
+<li>
+<p>Does my child/ward become easily distracted during online learning?</p>
+</li>
+</ul>
 <p></p>
