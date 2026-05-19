@@ -26,11 +26,7 @@ to better supervise and set helpful limits for students’ use of PLD after
 school.</p>
 </li>
 </ul>
-<p>These settings will continue to be in place during after school hours
-as well. Parents are recommended to continue with the Default settings,
-especially for parents who prefer not to or do not feel ready to manage
-their child's use of device on their own. There are also Option A and B
-for parents who would prefer other settings for&nbsp;<strong>after school hours</strong>.</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -52,7 +48,8 @@ for parents who would prefer other settings for&nbsp;<strong>after school hours<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Regular school days</p>
+<p><strong>Regular school days</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Default settings between 6:30</p>
@@ -65,8 +62,10 @@ for parents who would prefer other settings for&nbsp;<strong>after school hours<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Weekends, School and</p>
-<p>Public Holidays</p>
+<p><strong>Weekends, School and</strong>
+</p>
+<p><strong>Public Holidays</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Parents’/Guardians’ After-School DMA Option for the whole day</p>
@@ -74,6 +73,10 @@ for parents who would prefer other settings for&nbsp;<strong>after school hours<
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>These settings will continue to be in place during after school hours
+as well. Parents are recommended to continue with the Default settings,
+especially for parents who prefer not to or do not feel ready to manage
+their child's use of device on their own. There are also Option A and B
+for parents who would prefer other settings for&nbsp;<strong>after school hours</strong>.</p>
 <p></p>
 <p></p>
