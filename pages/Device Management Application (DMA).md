@@ -28,8 +28,8 @@ school.</p>
 <p></p>
 </li>
 </ul>
-<p>For parents/guardians who prefer alternative DMA settings after school
-hours, they can choose from the following options:</p>
+<p><u>For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:</u>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/dma_table.png">
 </div>
