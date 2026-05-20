@@ -28,6 +28,8 @@ school.</p>
 <p></p>
 </li>
 </ul>
+<p>For parents/guardians who prefer alternative DMA settings after school
+hours, they can choose from the following options:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/dma_table.png">
 </div>
@@ -107,20 +109,6 @@ deciding which Alternative Setting option is best for their child/ward.</p>
 </tbody>
 </table>
 <p></p>
-<p>For parents/guardians who prefer alternative DMA settings after school
-hours, they can choose from the following options:</p>
-<ul>
-<li>
-<p>Option A: DMA settings can be modified</p>
-</li>
-<li>
-<p>Option B: DMA will be inactive only during after school hours.</p>
-</li>
-</ul>
-<h4></h4>
-<p></p>
-<p></p>
-<h4></h4>
 <p></p>
 <p></p>
 <p></p>
