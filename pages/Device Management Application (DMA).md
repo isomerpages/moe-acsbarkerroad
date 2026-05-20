@@ -24,9 +24,42 @@ from objectionable internet content.</p>
 <p><strong>Usage Management Service</strong>. To enable school and/or parents/guardians
 to better supervise and set helpful limits for students’ use of PLD after
 school.</p>
+<p></p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/dma_table.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
 <p></p>
+<h4><strong>Change of After-School Device Management Application (DMA) Option</strong></h4>
+<p>Parents/Guardians may wish to consider the following questions before
+deciding which Alternative Setting option is best for their child/ward.</p>
+<p><strong><u>Child’s/Ward’s current device usage habits</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How much time does my child/ward spend on his/her device?</p>
+</li>
+<li>
+<p>How well can my child/ward self-regulate his/her device usage?</p>
+</li>
+<li>
+<p>Does my child/ward become easily distracted during online learning?</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Please submit your options using the online DMA option form below</strong> -&nbsp;
+<a href="https://form.gov.sg/61540120a1e87a00124b65a1" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/61540120a1e87a00124b65a1</a>
+</p>
+<p><strong><em>Please note that changes will only take effect at the start of the month.</em></strong>
+</p>
+<p></p>
+</li>
+</ul>
+<p>The after-school hours are as follows:</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -84,31 +117,7 @@ hours, they can choose from the following options:</p>
 <p>Option B: DMA will be inactive only during after school hours.</p>
 </li>
 </ul>
-<h4><strong>Change of After-School Device Management Application (DMA) Option</strong></h4>
-<p>Parents/Guardians may wish to consider the following questions before
-deciding which Alternative Setting option is best for their child/ward.</p>
-<p><u>Child’s/Ward’s current device usage habits</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>How much time does my child/ward spend on his/her device?</p>
-</li>
-<li>
-<p>How well can my child/ward self-regulate his/her device usage?</p>
-</li>
-<li>
-<p>Does my child/ward become easily distracted during online learning?</p>
-</li>
-</ul>
-<p>Please submit your options using the online DMA option form below -&nbsp;
-<a href="https://form.gov.sg/61540120a1e87a00124b65a1" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/61540120a1e87a00124b65a1</a>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Please note that changes will only take effect at the start of the month.</strong>
-</p>
-</li>
-</ul>
+<h4></h4>
 <p></p>
 <p></p>
 <h4></h4>
