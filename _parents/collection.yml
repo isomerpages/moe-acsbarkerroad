@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Device Management Application (DMA).md
       - Parents.md
       - Financial Support.md
       - Bursaries, Scholarships and Awards.md
       - Booklist.md
       - School Uniform.md
       - Group Personal Accident.md
+      - Device Management Application (DMA).md
