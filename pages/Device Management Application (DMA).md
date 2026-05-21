@@ -31,8 +31,9 @@ school.</p>
 <h4>MOE DMA Settings After-School Hours</h4>
 <p>For parents/guardians who prefer alternative DMA settings after-school
 hours, they can choose from the following options:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/dma_table.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/dma_table_v2.png">
 </div>
 <p>The after-school hours are as follows:</p>
 <table style="minWidth: 75px">
