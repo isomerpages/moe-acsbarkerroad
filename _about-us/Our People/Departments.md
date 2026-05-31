@@ -21,8 +21,8 @@ variant: markdown
 | Operations Manager | Mr Tan Yi Fan |
 | Campus Manager | Mr Suhadar Yusoff |
 | Admin Executive | Ms Nur Iffah |
-| Admin Executive | Ms Jessica Tiau |
 | Admin Executive | Ms Thanabavany Naidu |
+| Admin Executive | Ms Shannie Leong |
 | Admin Executive | Ms Rosila Keliwan |
 | Corporate Support Officer | Mdm Haliza Ahmad |
 | Admin Support Officer | Ms Ruth Loke |
@@ -109,7 +109,6 @@ variant: markdown
 |  | Mdm Cathleen Ho |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
-|  | Ms Ling Ai Keow |
 |
 
 #### **Mother Tongue**

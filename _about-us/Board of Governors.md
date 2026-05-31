@@ -10,14 +10,14 @@ variant: markdown
 | --- | --- |
 | Chairman | Mr Choe Peng Sum |
 | Vice-Chairman | Dr Wong Heng Yu |
-| Member | Mr Richard Seow |
-| Member | Mr Teoh Tiong Ann |
+| Member | Mr Tan Chin Han Adam |
 | Member | Mr Glenn David Foo |
-| Member | Mr Adam Tan Chin Han |
-| Member | Rev Kenneth Huang Teng Han |
-| Member | Rev Dr Aaron Tay Tian Yeow |
-| Member | Mr Lim Teck Yin |
+| Member | Dr Teoh Tiong Ann |
+| Member | Rev Dr Tay Tian Yeow Aaron |
 | Member | Prof Ong Biauw Chi |
-| Member | Mr Hugh Lim |
 | Member | Mr Gerald Balendran Singham |
 | Member | Dr Wong Chiang Yin |
+| Member | Mr Hugh Lim |
+| Member | Mr Lee Lung Nien |
+| Member | Mr Wong Hin Pkin Wendell |
+| Member | Prof Tan Tin Wee |
