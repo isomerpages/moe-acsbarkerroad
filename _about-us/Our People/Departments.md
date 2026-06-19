@@ -64,6 +64,7 @@ variant: markdown
 |---|---|
 | Year Head, Upper Secondary | Ms Alice Chia |
 | Head of Department, Humanities | Ms Wong Qi Shan |
+| Subject Head, History | Ms Farhanah Samat |
 | Subject Head, Learning Technologies | Mr Wesley Syn |
 | Lead Teacher, Geography | Mr Oh Boon Teck |
 |  | Ms Charmaine Lim |
