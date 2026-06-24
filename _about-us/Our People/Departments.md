@@ -106,7 +106,8 @@ variant: markdown
 |  | Mrs Jeanette Wee |
 |  | Mr Chia Kah Kheng |
 |  | Mr Su Jiahao Richmond |
-|  | Mr Jason Goh Thiam Hock |
+|  | Mr Jason Goh |
+|  | Mr Jason Chua |
 |  | Mdm Cathleen Ho |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
