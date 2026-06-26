@@ -22,8 +22,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Timetable for 2026 Semester 1
-          date: 16 January 2026
+        - title: Timetable for 2026 Semester 2
+          date: 26 June 2026
           announcement: Please visit our Academic Matters microsite for the latest timetable.
           link_text: Find Out More
           link_url: https://sites.google.com/moe.edu.sg/acsbr-academic-matters
