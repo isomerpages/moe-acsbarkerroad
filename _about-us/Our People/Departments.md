@@ -81,7 +81,7 @@ variant: markdown
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
 | Subject Head, Learning Technologies | Mr Chew Teng Leong |
-| ICT Associate | Mr Tan Joon Kiat |
+| ICT Manager | Mr Tan Joon Kiat |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
 |
