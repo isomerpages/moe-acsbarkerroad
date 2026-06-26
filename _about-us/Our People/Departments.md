@@ -23,9 +23,9 @@ variant: markdown
 | Admin Executive | Ms Nur Iffah |
 | Admin Executive | Ms Thanabavany Naidu |
 | Admin Executive | Ms Shannie Leong |
-| Admin Executive | Ms Rosila Keliwan |
+| Admin Executive | Mr Leonard Teo |
 | Corporate Support Officer | Mdm Haliza Ahmad |
-| Admin Support Officer | Ms Ruth Loke |
+| Campus Admin Assistant | Ms Ruth Loke |
 | Receptionist | Mdm Clara Ng |
 | Operations Support Officer | Mdm Shanthi Naidu |
 | Operations Support Officer | Mdm Muthuletchmi Kristna |
@@ -65,7 +65,6 @@ variant: markdown
 | Year Head, Upper Secondary | Ms Alice Chia |
 | Head of Department, Humanities | Ms Wong Qi Shan |
 | Subject Head, History | Ms Farhanah Samat |
-| Subject Head, Learning Technologies | Mr Wesley Syn |
 | Lead Teacher, Geography | Mr Oh Boon Teck |
 |  | Ms Charmaine Lim |
 |  | Mdm Geraldine Chong |
@@ -81,8 +80,7 @@ variant: markdown
 | Designation | Name |
 |---|---|
 | Head of Department, Learning Technologies | Mr Toh Hun Khim |
-| Subject Head, Learning Technologies | Mr Wesley Syn |
-| Subject Head, Learning Technologies (Acting) | Mr Chew Teng Leong |
+| Subject Head, Learning Technologies | Mr Chew Teng Leong |
 | ICT Associate | Mr Tan Joon Kiat |
 | Desktop Engineer | Mr Muhammed Fareed |
 | Desktop Engineer | Mr Andy Chua |
@@ -97,7 +95,7 @@ variant: markdown
 | Subject Head, Mathematics | Ms Joanne Tng |
 | Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
 | Senior Teacher, Principles of Accounts | Ms Low Hei Chin |
-| Senior Teacher, Mathematics | Ms Neo Chai Meng |
+| Senior Teacher, Mathematics | Mdm Neo Chai Meng |
 |  | Mdm Sharon Choo |
 |  | Mdm Ng Hwee Fern |
 |  | Mr Clement Ho |
@@ -111,6 +109,7 @@ variant: markdown
 |  | Mdm Cathleen Ho |
 |  | Mr Ng Eng Chin |
 |  | Mr Melvin Sim |
+|  | Ms Nancy Choo |
 |
 
 #### **Mother Tongue**
@@ -147,11 +146,11 @@ variant: markdown
 | Subject Head, Aesthetics | Ms Diana Kuek |
 | Subject Head, Discipline | Mr Muhammad Nabil |
 |  | Mr Roslan Abdul Ghani |
-|  | Mr Tan Yong Kai |
 |  | Ms Yoe Gek Li |
 |  | Ms Elsie Liu |
 |  | Ms Marina Bohari |
 |  | Mr Yusman Tajap |
+|  | Mr Matthew Chia |
 |
 
 #### **Science**
@@ -186,7 +185,6 @@ variant: markdown
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
-| STEM Instructor (Laboratory) | Ms Joanne Soong |
 | Laboratory Assistant | Mr Wong Meng Yin |
 | STEM Instructor (Workshop) | Mr Rosli Che Embi |
 | STEM Instructor (Workshop) | Mr Sunny Ng |
@@ -210,10 +208,10 @@ variant: markdown
 | Subject Head, Physical Education & CCA | Mr Mohammad Faisal |
 | Subject Head, Discipline | Mr Muhammad Nabil |
 | Lead Teacher, Character & Citizenship Education  | Mrs Mohana Eswaran |
-| School Counsellor | Mr Chong Meng Lieng |
+| Senior School Counsellor | Mr Chong Meng Lieng |
 | School Counsellor | Mr Kevin Lum |
-| Special Educational Needs Officer | Ms Chu Pei Yun |
-| Special Educational Needs Officer | Mr Lionel Lin |
+| Senior Special Educational Needs Officer | Ms Chu Pei Yun |
+| Senior Special Educational Needs Officer | Mr Lionel Lin |
 | Special Educational Needs Officer | Ms Joan Anne Lim |
 | MOE Education and Career Guidance Counsellor | Ms Lee Ai Ping Brenda |
 |
