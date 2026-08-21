@@ -50,7 +50,6 @@ variant: markdown
 |  | Ms Kalaivani Subramaniam |
 |  | Ms Jenny Goh |
 |  | Ms Siti Maslinda |
-|  | Mr Keh Chien Yung |
 |  | Ms Abigail Lee |
 |  | Ms Ho Jia Yan |
 |  | Ms Chen Youlin Felicia |
@@ -185,6 +184,7 @@ variant: markdown
 |  | Mdm Chia Hui Qi |
 |  | Mr Tham Soh Jee |
 | STEM Instructor (Laboratory) | Ms Nur' Azeanti |
+| STEM Instructor (Laboratory) | Ms Alisa Dhahfier |
 | Laboratory Assistant | Mr Wong Meng Yin |
 | STEM Instructor (Workshop) | Mr Rosli Che Embi |
 | STEM Instructor (Workshop) | Mr Sunny Ng |
